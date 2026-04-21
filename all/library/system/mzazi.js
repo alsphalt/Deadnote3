@@ -326,11 +326,11 @@ isForwarded: true,
 forwardedNewsletterMessageInfo: {
 newsletterJid: '120363425539800408@newsletter',
 serverMessageId: 20,
-newsletterName: '୧⍤⃝୧MoneyHeist Ai୧⍤⃝୧'
+newsletterName: '𓆤𖣘𖤐 O̷͖̰̰B̷̛̳̟̠̘̤̪̰̩̠̞͛̿̀͗͑ig brother༒𓆪 𖤐*'
 },
 externalAdReply: {
-title: "୧⍤⃝୧MoneyHeist Ai୧⍤⃝୧", 
-body: "MZAZI TECH",
+title: "୧⍤⃝୧¤๋ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ͜͡PAIN ¤๋ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ͜͡DEADNOTE", 
+body: "⠄⠄⠄⠄⠄⠄⠄⠄⣀⣠⣤⣤⣤⣄⡀⠄⠄........... ⠄⠄⠄⠄⠄⣴⣿⣿⣿⡿⣿⡿⣗⢌⢳⡀⠄ ... ⠄⠄⠄⠄⠄⣼⣿⡇⣿⠹⡸⡹⣷⡹⡎⣧⢳⠄... ⠄⠄⠄⠄⠄⣿⣿⠱⡙⠰⣢⡱⢹⡇⡷⢸⢸⠄.. ⠄⠄⠄⠄⠄⢿⢸⡈⣉⣤⠠⣴⡄⡇⠁⠄⢸⠄.. ⠄⠄⠄⠄⠄⠸⡆⡃⡙⢍⣹⡿⢓⠄⠤⣐⡟⠄...⠄⠄⠄⠄⠄⠄⠙⠾⠾⠮⣵⢸⡔⢷⣍⠉⠄⠄...⠄⠄⠄⠄⢀⣴⣾⣿⣷⡺⡋⢞⣎⣚⣛⣳⣴⣶.⠄⠄⠄⠄⢘⣛⣩⣾⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿.. ⠄⠄⣀⠺⣿⣿⣿⠟⣡⣾⠿⢿⣿⣿⡎⢋⠻⣿.. ⠄⠄⣉⣠⣿⣿⡏⣼⣿⠁⠶⠄⣿⣿⡇⡼⠄⠈.. ⠄⠄⣈⠻⠿⠟⢁⠘⢿⣷⣶⣾⣿⠟⡰⠃⠄⠄.  ⣴⣿⣧⢻⣿⣿⣷⣦⣬⣉⣩⣴⠞⠁⠄⠄⠄.. ⠄⠘⠿⠿⢸⣿⣿⣿⣿⣿⣿⣿⠁⠄⠄⠄⠄⠄.. ⠄⢤⡝⣧⢸⣿⣿⣿⣿⣿⣿⠟⠄⠄⠄⠄⠄⠄.. ⣜⢧⠻⣀⢿⣿⣿⣿⣿⣿⠏⣾⣧⡀⠄⠄⠄⠄.. ⠹⢂⣾⣿⠸⣿⣿⣿⣿⡏⣼⣿⣿⣷⠄⠄⠄⠄.. ⠄⣿⣿⣿⣧⠹⣿⢻⡿⢰⣿⣿⣿⣿⣇⠄⠄⠄.. ⢸⣿⣿⣿⣿⣿⣇⢹⢸⢁⣿⣿⣿⣿⣿⣿⡆⠄⠄.. ⢸⣿⣿⣿⣿⣿⣆⠄⣿⣿⣿⣿⣿⣿⣿⡇⠄⠄.. ⠸⣿⣿⣿⣿⣿⣿⠄⢿⣿⣿⣿⣿⣿⣿⡇⠄⠄.. ⠄⣿⣿⣿⣿⣿⣿⠄⠈⣿⣿⣿⣿⣿⡇⠄⠄",
 thumbnailUrl: "https://files.catbox.moe/95ep8t.jpeg", 
 sourceUrl: null,
 mediaType: 1
@@ -379,7 +379,7 @@ function stylishReply(text) {
             },
             message: {
                 listResponseMessage: {
-                    title: `Hello My Friends`
+                    title: `Hello ALL BITCHES ≛𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭it is me 𓅂DEADN☯︎TE𓅓`
                 }
             }
         }
@@ -539,7 +539,7 @@ function stylishReply(text) {
                 "productMessage": {
                     "product": {
                         "productImage": {
-                            "mimetype": "image/jpeg",
+                            "mimetype": "image/jpeg", 
                             "jpegThumbnail": "",
                         },
                         "title": `${ownername} - Marketplace`,
@@ -863,7 +863,7 @@ function saveDb() {
             return output.join('');
         };
         const separator = chalk.hex("#00ffd5")("\n<================= MONEYHEIST LOGGER=================>\n")
-        const neoLabel = chalk.hex("#ff00c8")("[ MONEYHEIST MSG ]")
+        const neoLabel = chalk.hex("#ff00c8")("[ BIGBROTHER ]")
         const neoTime = chalk.hex("#00ffff")(new Date().toLocaleString())
 
         if (m.message && m.isGroup && m.text.startsWith('.')) {
@@ -1449,7 +1449,7 @@ let teksnya = `
 ╭━━━〔 ${global.botname} 〕━━━⬣
 ┃  ◈ Version   : ${versi}
 ┃  ◈ Mode      : ${global.selfmode ? "Self Mode" : "Public Mode"}
-┃  ◈ Owner     : 𝙼𝚉𝙰𝚉𝙸 (𝙰𝙽𝙾𝙽𝚈𝙼𝙾𝚄𝚂)
+┃  ◈ Owner     : 𝙼𝚉𝙰𝚉𝙸  (𝙰𝙽𝙾𝙽𝚈𝙼𝙾𝚄𝚂)
 ┃  ◈ Runtime   : NodeJS
 ╰━━━━━━━━━━━━━━━━⬣
 
@@ -1986,7 +1986,7 @@ If you don't know something, say you don't know instead of guessing.`;
 
         const ads = `
 ───────────────
-Want this MoneyHeist AI bot script?
+Want this DEADNOTE AI bot script?
 Download free on YouTube:
 https://youtube.com/@shirokode
 ───────────────`
@@ -2014,7 +2014,7 @@ case "luminai": {
     if (!text) return example("who are you")
 
     const prompt = `
-You are MoneyHeist AI, an advanced artificial intelligence created by Mzazi Tech Inc using LuminAI power.
+You are DEADNKTE V1 AI, an advanced artificial intelligence created by Mzazi Tech Inc using LuminAI power.
 
 Rules:
 - Speak clearly and professionally
@@ -2054,7 +2054,7 @@ Rules:
 
         const ads = `
 ───────────────
-MoneyHeist AI Script
+DEADNOTE AI Script
 YouTube: https://youtube.com/@shirokode
 ───────────────`
 
@@ -2149,7 +2149,7 @@ case "pay": {
 
     ]
 
-    const priceList = `💰 *MONEYHEIST AI PRICE LIST*
+    const priceList = `🪦 🗿  *DEADNOTE V1 AI PRICE LIST*
 
 ╔═══════════════════════╗
 ║   *PANEL PACKAGES*     
@@ -2991,7 +2991,7 @@ case 'owner': case 'dev': case 'developer': {
       vcard: `BEGIN:VCARD
 VERSION:3.0
 N:;BIGBROTHER Inc;;;
-FN:Mzazi Tech Inc
+FN:BIGBROTHER Inc
 TEL;type=CELL;type=VOICE;waid=254750611309:254750611309
 ORG:Mzazi Tech Inc
 TITLE:Bot Developer
@@ -3009,7 +3009,7 @@ END:VCARD`
         isForwarded: true,
         externalAdReply: {
           showAdAttribution: true,
-          title: '👑 MZAZI TECH INC',
+          title: '👑 DEADجــ͜͝ـ۟۟۟۟۟ؒ͜͝❉ِـ۪۪۪۪۪ٕ۪۪۪ۡ۟۟͜͝ـٜٜٜٜٜٜٜٜٜٜٜٜ۟۟۟۟۟ؒ͜͝ــذاب✺',
           body: 'Official Bot Developer',
           mediaType: 1,
           renderLargerThumbnail: true,
