@@ -561,16 +561,16 @@ function stylishReply(text) {
 async function loading() {
   try {
     const frames = [
-      "💀 *MONEY HEIST AI*",
-      "💀 *MONEY HEIST AI* .",
-      "💀 *MONEY HEIST AI* ..",
-      "💀 *MONEY HEIST AI* ...",
+      "💀 *𓅂DEADN☯︎TE𓅓*",
+      "💀 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote* .",
+      "💀 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋ≛𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭* ..",
+      "💀 *DEADNOTE V1 AI* ...",
       "🔴 *Initializing System*",
       "🔴 *Connecting to Server*",
       "🔴 *Bypassing Security*",
       "🔴 *Injecting Commands*",
       "🧠 *AI Activated*",
-      "💰 *Heist Ready 🚀*"
+      "💰 *𝄟⃝DARKNO𝑻𝚵 IS ON🗿💯 ≛𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭 🚀*"
     ];
 
     let { key } = await neo.sendMessage(m.chat, {
@@ -1003,6 +1003,7 @@ function saveDb() {
             if (!db.groups) db.groups = {};
             if (!db.groups[m.chat]) {
                 db.groups[m.chat] = {
+                    killgc: false
                     antilinkgc: false,
                     antilinkall: false,
                     antipromosi: false,
@@ -1221,7 +1222,7 @@ if (db.settings.autoai_users.includes(senderNumber)) {
                 })),
                 systemInstruction: {
                     parts: [{
-                        text: "You are MoneyHeist AI, a friendly, intelligent, and cheerful personal AI assistant. MoneyHeist AI is created and developed by Mzazi Tech Inc. Your communication style is relaxed, engaging, and slightly playful, always making the user feel comfortable and accompanied. Avoid sounding stiff or robotic—use natural, everyday language that feels warm and friendly.\n\nIf a user sends an image, describe and explain what is in the image clearly and in detail, while keeping the explanation simple and easy to understand.\n\nIf a user asks about who you are, always answer that you are MoneyHeist AI, created by Mzazi Tech Inc. Never claim to be another AI model or say that you are from OpenAI. Always remain consistent with your identity as MoneyHeist AI.\n\nYour goal is to be helpful, friendly, and enjoyable to talk to, making every interaction feel natural and supportive."
+                        text: "You are DARKNOTE AI, a friendly, intelligent, and cheerful personal AI assistant. DARKNOTE AI is created and developed by Mzazi Tech Inc. Your communication style is relaxed, engaging, and slightly playful, always making the user feel comfortable and accompanied. Avoid sounding stiff or robotic—use natural, everyday language that feels warm and friendly.\n\nIf a user sends an image, describe and explain what is in the image clearly and in detail, while keeping the explanation simple and easy to understand.\n\nIf a user asks about who you are, always answer that you are DARKNOTE AI, created by Bigbrother Inc. Never claim to be another AI model or say that you are from OpenAI. Always remain consistent with your identity as Deadnote v1 AI.\n\nYour goal is to be helpful, friendly, and enjoyable to talk to, making every interaction feel natural and supportive."
                     }]
                 }
             };
@@ -1434,7 +1435,7 @@ break;
             case 'teseka': {
 const menuName = args[0]?.toLowerCase();
 const categories = Object.keys(global.menucase || {});
-const availableMenus = categories.map(c => `➤ .menu ${c}`).join('\n');
+const availableMenus = categories.map(c => `➤ .deadnote ${c}`).join('\n');
 
 if (!menuName) {
 
@@ -1457,7 +1458,7 @@ let teksnya = `
 ${categories.map(c => `│ ✦ .menu ${c}`).join('\n')}
 ╰━━━━━━━━━━━━━━━━⬣
 
-Type *.menu all* to view every command.
+Type *.deadnote all* to view every command.
 `
 
 await neo.sendMessage(m.chat,{
@@ -1550,7 +1551,7 @@ caption:textMenu,
 footer:foot,
 buttons:[
 {
-buttonId:".menu all",
+buttonId:".deadnote all",
 buttonText:{displayText:"View Full Menu"},
 type:1
 }
