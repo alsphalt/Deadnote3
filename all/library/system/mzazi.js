@@ -1,8 +1,8 @@
 /*════════════════════════════
- *  🗿 DARKNOTE V1..... By 𓅂DEADN☯︎TE𓅓.........X 𓅂B𓂀G BR☯︎THER𓅓☠︎︎𓂃✍︎.
+ *  💎  MONEYHEIST AI LOADER by 𓅂DEADN☯︎TE𓅓 Inc≛𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭.
  *════════════════════════════
- *  🤖  Bot Name    : DARKNOTE
- *  👑  Owner       : 𓆤𖣘𖤐 O̷͖̰̰B̷̛̳̟̠̘̤̪̰̩̠̞͛̿̀͗͑ig brother༒𓆪 𖤐*.
+ *  🤖  Bot Name    : ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote
+ *  👑  Owner       : 𓆤𖣘*𖤐 O̷͖̰̰B̷̛̳̟̠̘̤̪̰̩̠̞͛̿̀͗͑ig brother༒𓆪 𖤐*.
  *  💎  Version     : Premium Edition
  *  ⚡  Loader      : Enhanced Boot System
  ══════════════════════════
@@ -326,11 +326,11 @@ isForwarded: true,
 forwardedNewsletterMessageInfo: {
 newsletterJid: '120363425539800408@newsletter',
 serverMessageId: 20,
-newsletterName: '𓆤𖣘𖤐 O̷͖̰̰B̷̛̳̟̠̘̤̪̰̩̠̞͛̿̀͗͑ig brother༒𓆪 𖤐*'
+newsletterName: '୧⍤⃝୧ DEADNOTE v1 ≛𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭୧⍤⃝୧'
 },
 externalAdReply: {
-title: "୧⍤⃝୧¤๋ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ͜͡PAIN ¤๋ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ͜͡DEADNOTE", 
-body: "⠄⠄⠄⠄⠄⠄⠄⠄⣀⣠⣤⣤⣤⣄⡀⠄⠄........... ⠄⠄⠄⠄⠄⣴⣿⣿⣿⡿⣿⡿⣗⢌⢳⡀⠄ ... ⠄⠄⠄⠄⠄⣼⣿⡇⣿⠹⡸⡹⣷⡹⡎⣧⢳⠄... ⠄⠄⠄⠄⠄⣿⣿⠱⡙⠰⣢⡱⢹⡇⡷⢸⢸⠄.. ⠄⠄⠄⠄⠄⢿⢸⡈⣉⣤⠠⣴⡄⡇⠁⠄⢸⠄.. ⠄⠄⠄⠄⠄⠸⡆⡃⡙⢍⣹⡿⢓⠄⠤⣐⡟⠄...⠄⠄⠄⠄⠄⠄⠙⠾⠾⠮⣵⢸⡔⢷⣍⠉⠄⠄...⠄⠄⠄⠄⢀⣴⣾⣿⣷⡺⡋⢞⣎⣚⣛⣳⣴⣶.⠄⠄⠄⠄⢘⣛⣩⣾⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿.. ⠄⠄⣀⠺⣿⣿⣿⠟⣡⣾⠿⢿⣿⣿⡎⢋⠻⣿.. ⠄⠄⣉⣠⣿⣿⡏⣼⣿⠁⠶⠄⣿⣿⡇⡼⠄⠈.. ⠄⠄⣈⠻⠿⠟⢁⠘⢿⣷⣶⣾⣿⠟⡰⠃⠄⠄.  ⣴⣿⣧⢻⣿⣿⣷⣦⣬⣉⣩⣴⠞⠁⠄⠄⠄.. ⠄⠘⠿⠿⢸⣿⣿⣿⣿⣿⣿⣿⠁⠄⠄⠄⠄⠄.. ⠄⢤⡝⣧⢸⣿⣿⣿⣿⣿⣿⠟⠄⠄⠄⠄⠄⠄.. ⣜⢧⠻⣀⢿⣿⣿⣿⣿⣿⠏⣾⣧⡀⠄⠄⠄⠄.. ⠹⢂⣾⣿⠸⣿⣿⣿⣿⡏⣼⣿⣿⣷⠄⠄⠄⠄.. ⠄⣿⣿⣿⣧⠹⣿⢻⡿⢰⣿⣿⣿⣿⣇⠄⠄⠄.. ⢸⣿⣿⣿⣿⣿⣇⢹⢸⢁⣿⣿⣿⣿⣿⣿⡆⠄⠄.. ⢸⣿⣿⣿⣿⣿⣆⠄⣿⣿⣿⣿⣿⣿⣿⡇⠄⠄.. ⠸⣿⣿⣿⣿⣿⣿⠄⢿⣿⣿⣿⣿⣿⣿⡇⠄⠄.. ⠄⣿⣿⣿⣿⣿⣿⠄⠈⣿⣿⣿⣿⣿⡇⠄⠄",
+title: "ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote", 
+body: "⠄⠄⠄𓅂DEADN☯︎TE𓅓⠄⠄............⠄⠄.............⠄⣀⣠⣤⣤⣤⣄⡀⠄⠄⠄..⠄⠄⠄⠄⠄⠄⣴⣿⣿⣿⡿⣿⡿⣗⢌⢳⡀⠄..⠄⠄⠄⠄⠄⣼⣿⡇⣿⠹⡸⡹⣷⡹⡎⣧⢳⠄..⠄⠄⠄⠄⠄⣿⣿⠱⡙⠰⣢⡱⢹⡇⡷⢸⢸⠄..⠄⠄⠄⠄⠄⢿⢸⡈⣉⣤⠠⣴⡄⡇⠁⠄⢸⠄..⠄⠄⠄⠄⠄⠸⡆⡃⡙⢍⣹⡿⢓⠄⠤⣐⡟⠄..⠄⠄⠄⠄⠄⠄⠙⠾⠾⠮⣵⢸⡔⢷⣍⠉⠄⠄..⠄⠄⠄⠄⢀⣴⣾⣿⣷⡺⡋⢞⣎⣚⣛⣳⣴⣶..⠄⠄⠄⠄⢘⣛⣩⣾⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿..⠄⠄⣀⠺⣿⣿⣿⠟⣡⣾⠿⢿⣿⣿⡎⢋⠻⣿..⠄⠄⣉⣠⣿⣿⡏⣼⣿⠁⠶⠄⣿⣿⡇⡼⠄⠈..⠄⠄⣈⠻⠿⠟⢁⠘⢿⣷⣶⣾⣿⠟⡰⠃⠄⠄..⣴⣿⣧⢻⣿⣿⣷⣦⣬⣉⣩⣴⠞⠁⠄⠄⠄..⠄⠘⠿⠿⢸⣿⣿⣿⣿⣿⣿⣿⠁⠄⠄⠄⠄⠄..⠄⢤⡝⣧⢸⣿⣿⣿⣿⣿⣿⠟⠄⠄⠄⠄⠄⠄..⣜⢧⠻⣀⢿⣿⣿⣿⣿⣿⠏⣾⣧⡀⠄⠄⠄⠄..⠹⢂⣾⣿⠸⣿⣿⣿⣿⡏⣼⣿⣿⣷⠄⠄⠄⠄..⠄⣿⣿⣿⣧⠹⣿⢻⡿⢰⣿⣿⣿⣿⣇⠄⠄⠄..⢸⣿⣿⣿⣿⣿⣇⢹⢸⢁⣿⣿⣿⣿⣿⣿⡆⠄⠄..⢸⣿⣿⣿⣿⣿⣆⠄⣿⣿⣿⣿⣿⣿⣿⡇⠄⠄..⠸⣿⣿⣿⣿⣿⣿⠄⢿⣿⣿⣿⣿⣿⣿⡇⠄⠄..⠄⣿⣿⣿⣿⣿⣿⠄⠈⣿⣿⣿⣿⣿⡇⠄⠄",
 thumbnailUrl: "https://files.catbox.moe/95ep8t.jpeg", 
 sourceUrl: null,
 mediaType: 1
@@ -379,7 +379,7 @@ function stylishReply(text) {
             },
             message: {
                 listResponseMessage: {
-                    title: `Hello ALL BITCHES ≛𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭it is me 𓅂DEADN☯︎TE𓅓`
+                    title: `Hello My Friends`
                 }
             }
         }
@@ -539,7 +539,7 @@ function stylishReply(text) {
                 "productMessage": {
                     "product": {
                         "productImage": {
-                            "mimetype": "image/jpeg", 
+                            "mimetype": "image/jpeg",
                             "jpegThumbnail": "",
                         },
                         "title": `${ownername} - Marketplace`,
@@ -561,20 +561,20 @@ function stylishReply(text) {
 async function loading() {
   try {
     const frames = [
-      "💀 *𓅂DEADN☯︎TE𓅓*",
-      "💀 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote* .",
-      "💀 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋ≛𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭* ..",
-      "💀 *DEADNOTE V1 AI* ...",
+      "💀 *BIGBROTHER *",
+      "💀 *YES* .",
+      "💀 *I WANNA COMMAND U* ..",
+      "💀 *I AM HERE 🗿🤧 * ...",
       "🔴 *Initializing System*",
       "🔴 *Connecting to Server*",
       "🔴 *Bypassing Security*",
       "🔴 *Injecting Commands*",
-      "🧠 *AI Activated*",
-      "💰 *𝄟⃝DARKNO𝑻𝚵 IS ON🗿💯 ≛𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭 🚀*"
+      "🧠 *Activating my self*",
+      "😋 * Ready 🚀*"
     ];
 
     let { key } = await neo.sendMessage(m.chat, {
-      text: "⏳ Starting MoneyHeist Ai..."
+      text: "⏳ Starting bigbrother Ai..."
     }, { quoted: m });
 
     for (let i = 0; i < frames.length; i++) {
@@ -862,8 +862,8 @@ function saveDb() {
             });
             return output.join('');
         };
-        const separator = chalk.hex("#00ffd5")("\n<================= MONEYHEIST LOGGER=================>\n")
-        const neoLabel = chalk.hex("#ff00c8")("[ BIGBROTHER ]")
+        const separator = chalk.hex("#00ffd5")("\n<================= ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote LOGGER=================>\n")
+        const neoLabel = chalk.hex("#ff00c8")("[ ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote MSG ]")
         const neoTime = chalk.hex("#00ffff")(new Date().toLocaleString())
 
         if (m.message && m.isGroup && m.text.startsWith('.')) {
@@ -1003,7 +1003,6 @@ function saveDb() {
             if (!db.groups) db.groups = {};
             if (!db.groups[m.chat]) {
                 db.groups[m.chat] = {
-                    killgc: false
                     antilinkgc: false,
                     antilinkall: false,
                     antipromosi: false,
@@ -1222,7 +1221,7 @@ if (db.settings.autoai_users.includes(senderNumber)) {
                 })),
                 systemInstruction: {
                     parts: [{
-                        text: "You are DARKNOTE AI, a friendly, intelligent, and cheerful personal AI assistant. DARKNOTE AI is created and developed by Mzazi Tech Inc. Your communication style is relaxed, engaging, and slightly playful, always making the user feel comfortable and accompanied. Avoid sounding stiff or robotic—use natural, everyday language that feels warm and friendly.\n\nIf a user sends an image, describe and explain what is in the image clearly and in detail, while keeping the explanation simple and easy to understand.\n\nIf a user asks about who you are, always answer that you are DARKNOTE AI, created by Bigbrother Inc. Never claim to be another AI model or say that you are from OpenAI. Always remain consistent with your identity as Deadnote v1 AI.\n\nYour goal is to be helpful, friendly, and enjoyable to talk to, making every interaction feel natural and supportive."
+                        text: "You are ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI, a friendly, intelligent, and cheerful personal AI assistant. deadnote AI is created and developed by 𓅂DEADN☯︎TE𓅓 Tech Inc. Your communication style is relaxed, engaging, and slightly playful, always making the user feel comfortable and accompanied. Avoid sounding stiff or robotic—use natural, everyday language that feels warm and friendly.\n\nIf a user sends an image, describe and explain what is in the image clearly and in detail, while keeping the explanation simple and easy to understand.\n\nIf a user asks about who you are, always answer that you are ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI, created by BIGBROTHER Inc. Never claim to be another AI model or say that you are from OpenAI. Always remain consistent with your identity as ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI.\n\nYour goal is to be helpful, friendly, and enjoyable to talk to, making every interaction feel natural and supportive."
                     }]
                 }
             };
@@ -1435,7 +1434,7 @@ break;
             case 'teseka': {
 const menuName = args[0]?.toLowerCase();
 const categories = Object.keys(global.menucase || {});
-const availableMenus = categories.map(c => `➤ .deadnote ${c}`).join('\n');
+const availableMenus = categories.map(c => `➤ .menu ${c}`).join('\n');
 
 if (!menuName) {
 
@@ -1450,15 +1449,15 @@ let teksnya = `
 ╭━━━〔 ${global.botname} 〕━━━⬣
 ┃  ◈ Version   : ${versi}
 ┃  ◈ Mode      : ${global.selfmode ? "Self Mode" : "Public Mode"}
-┃  ◈ Owner     : 𓆤𖣘𖤐 O̷͖̰̰B̷̛̳̟̠̘̤̪̰̩̠̞͛̿̀͗͑ig brother༒𓆪 𖤐 (𓅂DEADN☯︎TE𓅓≛𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭) 
-┃  ◈ Runtime   : NodeJS .. ⠄⠄⠄⠄⠄⠄⠄⠄⣀⣠⣤⣤⣤⣄⡀⠄⠄⠄.. ⠄⠄⠄⠄⠄⠄⣴⣿⣿⣿⡿⣿⡿⣗⢌⢳⡀⠄.. ⠄⠄⠄⠄⠄⣼⣿⡇⣿⠹⡸⡹⣷⡹⡎⣧⢳⠄..⠄⠄⠄⠄⠄⣿⣿⠱⡙⠰⣢⡱⢹⡇⡷⢸⢸⠄..⠄⠄⠄⠄⠄⢿⢸⡈⣉⣤⠠⣴⡄⡇⠁⠄⢸⠄..⠄⠄⠄⠄⠄⠸⡆⡃⡙⢍⣹⡿⢓⠄⠤⣐⡟⠄..⠄⠄⠄⠄⠄⠄⠙⠾⠾⠮⣵⢸⡔⢷⣍⠉⠄⠄..⠄⠄⠄⠄⢀⣴⣾⣿⣷⡺⡋⢞⣎⣚⣛⣳⣴⣶..⠄⠄⠄⠄⢘⣛⣩⣾⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿..⠄⠄⣀⠺⣿⣿⣿⠟⣡⣾⠿⢿⣿⣿⡎⢋⠻⣿..⠄⠄⣉⣠⣿⣿⡏⣼⣿⠁⠶⠄⣿⣿⡇⡼⠄⠈..⠄⠄⣈⠻⠿⠟⢁⠘⢿⣷⣶⣾⣿⠟⡰⠃⠄⠄..⣴⣿⣧⢻⣿⣿⣷⣦⣬⣉⣩⣴⠞⠁⠄⠄⠄..⠄⠘⠿⠿⢸⣿⣿⣿⣿⣿⣿⣿⠁⠄⠄⠄⠄⠄..⠄⢤⡝⣧⢸⣿⣿⣿⣿⣿⣿⠟⠄⠄⠄⠄⠄⠄..⣜⢧⠻⣀⢿⣿⣿⣿⣿⣿⠏⣾⣧⡀⠄⠄⠄⠄..⠹⢂⣾⣿⠸⣿⣿⣿⣿⡏⣼⣿⣿⣷⠄⠄⠄⠄..⠄⣿⣿⣿⣧⠹⣿⢻⡿⢰⣿⣿⣿⣿⣇⠄⠄⠄..⢸⣿⣿⣿⣿⣿⣇⢹⢸⢁⣿⣿⣿⣿⣿⣿⡆⠄⠄..⢸⣿⣿⣿⣿⣿⣆⠄⣿⣿⣿⣿⣿⣿⣿⡇⠄⠄..⠸⣿⣿⣿⣿⣿⣿⠄⢿⣿⣿⣿⣿⣿⣿⡇⠄⠄..⠄⣿⣿⣿⣿⣿⣿⠄⠈⣿⣿⣿⣿⣿⡇⠄⠄
+┃  ◈ Owner     : 𓅂Big BR☯︎THE𓅓(𓅂DEADN☯︎TE𓅓)
+┃  ◈ Runtime   : NodeJS
 ╰━━━━━━━━━━━━━━━━⬣
 
 ╭───〔 COMMAND CATEGORIES 〕───⬣
 ${categories.map(c => `│ ✦ .menu ${c}`).join('\n')}
 ╰━━━━━━━━━━━━━━━━⬣
 
-Type *.deadnote all* to view every command.
+Type *.menu all* to view every command.
 `
 
 await neo.sendMessage(m.chat,{
@@ -1551,7 +1550,7 @@ caption:textMenu,
 footer:foot,
 buttons:[
 {
-buttonId:".deadnote all",
+buttonId:".menu all",
 buttonText:{displayText:"View Full Menu"},
 type:1
 }
@@ -1987,7 +1986,7 @@ If you don't know something, say you don't know instead of guessing.`;
 
         const ads = `
 ───────────────
-Want this DEADNOTE AI bot script?
+Want this ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI bot script?
 Download free on YouTube:
 https://youtube.com/@shirokode
 ───────────────`
@@ -2015,7 +2014,7 @@ case "luminai": {
     if (!text) return example("who are you")
 
     const prompt = `
-You are DEADNKTE V1 AI, an advanced artificial intelligence created by Mzazi Tech Inc using LuminAI power.
+You are ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote, an advanced artificial intelligence created by Bigbrother Inc using LuminAI power.
 
 Rules:
 - Speak clearly and professionally
@@ -2055,7 +2054,7 @@ Rules:
 
         const ads = `
 ───────────────
-DEADNOTE AI Script
+ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Script
 YouTube: https://youtube.com/@shirokode
 ───────────────`
 
@@ -2150,7 +2149,7 @@ case "pay": {
 
     ]
 
-    const priceList = `🪦 🗿  *DEADNOTE V1 AI PRICE LIST*
+    const priceList = `💰 *MONEYHEIST AI PRICE LIST*
 
 ╔═══════════════════════╗
 ║   *PANEL PACKAGES*     
@@ -2662,7 +2661,7 @@ buttonParamsJson: JSON.stringify({
 display_text: "Deposit History",
 id: ".mutasi deposit"
 })
-},  
+},
 
 {
 name: "quick_reply",
@@ -2988,13 +2987,13 @@ case 'owner': case 'dev': case 'developer': {
   try {
 
     const kontakUtama = {
-      displayName: 'Mzazi Tech Inc',
+      displayName: 'Big Brother ',
       vcard: `BEGIN:VCARD
 VERSION:3.0
-N:;BIGBROTHER Inc;;;
-FN:BIGBROTHER Inc
-TEL;type=CELL;type=VOICE;waid=254750611309:254750611309
-ORG:Mzazi Tech Inc
+N:;𓅂DEADN☯︎TE𓅓;;;
+FN:Bigbrother Inc
+TEL;type=CELL;type=VOICE;waid=254747274771:254705472771
+ORG:Bigbrother Inc
 TITLE:Bot Developer
 END:VCARD`
     };
@@ -3010,13 +3009,13 @@ END:VCARD`
         isForwarded: true,
         externalAdReply: {
           showAdAttribution: true,
-          title: '👑 DEADجــ͜͝ـ۟۟۟۟۟ؒ͜͝❉ِـ۪۪۪۪۪ٕ۪۪۪ۡ۟۟͜͝ـٜٜٜٜٜٜٜٜٜٜٜٜ۟۟۟۟۟ؒ͜͝ــذاب✺',
+          title: '👑 𓅂DEADN☯︎TE𓅓INC',
           body: 'Official Bot Developer',
           mediaType: 1,
           renderLargerThumbnail: true,
           jpegThumbnail: await getBuffer(global.imglogo),
-          mediaUrl: 'https://wa.me/254750611309',
-          sourceUrl: 'https://wa.me/254750611309'
+          mediaUrl: 'https://wa.me/254747274771',
+          sourceUrl: 'https://wa.me/254747274771'
         }
       }
     }, { quoted: m });
