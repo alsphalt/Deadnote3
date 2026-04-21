@@ -1,5 +1,5 @@
 /*════════════════════════════
- *  💎  MONEYHEIST AI LOADER by 𓅂DEADN☯︎TE𓅓 Inc≛𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭.
+ *  💎   ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI LOADER by 𓅂DEADN☯︎TE𓅓 Inc≛𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭.
  *════════════════════════════
  *  🤖  Bot Name    : ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote
  *  👑  Owner       : 𓆤𖣘*𖤐 O̷͖̰̰B̷̛̳̟̠̘̤̪̰̩̠̞͛̿̀͗͑ig brother༒𓆪 𖤐*.
@@ -306,7 +306,7 @@ export default async function mainHandler(neo, m, msg, chatUpdate, store) {
       itemCount: "9741",
       status: "INQUIRY",
       surface: "CATALOG",
-      message: `moneyheistai.mzazi.shop`,
+      message: ` ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnoteai.mzazi.shop`,
       token: "AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA=="
     }
   },
@@ -862,7 +862,7 @@ function saveDb() {
             });
             return output.join('');
         };
-        const separator = chalk.hex("#00ffd5")("\n<================= ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote LOGGER=================>\n")
+        const separator = chalk.hex("#00ffd5")("\n<================= ก็็็็็็็็็็็็็็็็็็็Ｄａrknote LOGGER=================>\n")
         const neoLabel = chalk.hex("#ff00c8")("[ ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote MSG ]")
         const neoTime = chalk.hex("#00ffff")(new Date().toLocaleString())
 
@@ -1952,7 +1952,7 @@ case "aineo": {
 
     const extraPrompt = isCreator
         ? "You are speaking to your owner. Respond in a cute and caring tone."
-        : `You are "MoneyHeist AI", a private AI assistant created by Mzazi Tech Inc.
+        : `You are " ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI", a private AI assistant created by Mzazi Tech Inc.
 
 Your personality:
 - Professional
@@ -2149,7 +2149,7 @@ case "pay": {
 
     ]
 
-    const priceList = `💰 *MONEYHEIST AI PRICE LIST*
+    const priceList = `💰 * ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI PRICE LIST*
 
 ╔═══════════════════════╗
 ║   *PANEL PACKAGES*     
@@ -3186,12 +3186,12 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 break;
 
 case "sc": case "script": {
-    const ytLink = "https://moneyheist.mzazi.shop";
+    const ytLink = "https:// ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote.mzazi.shop";
     await neo.sendButton(m.chat, {
         image: {
             url: imgmenu
         },
-        caption: "*📦 MoneyHeist Flare Source Code*\n\n🎁 This script is ready for download, complete with setup instructions on my channel! Don't forget to support my channel so I can keep updating 😎",
+        caption: "*📦  ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote Flare Source Code*\n\n🎁 This script is ready for download, complete with setup instructions on my channel! Don't forget to support my channel so I can keep updating 😎",
         footer: global.foot,
         buttons: [{
             name: "cta_url",
@@ -3417,9 +3417,10 @@ case 'tovid': {
 
                 const data = new URLSearchParams({
                     file,
-                    convert: 'Convert WebP to MP4!'
+                    convert: 'Convert                WebP to MP4!'
                 });
-                const res2 = await axios.post(`https://ezgif.com/webp-to-mp4/${file}`, data);
+                const res2 = await axios.post(`https://
+                ezgif.com/webp-to-mp4/${file}`, data);
                 const $2 = cheerio.load(res2.data);
                 const link = $2('div#output > p.outfile > video > source').attr('src');
                 if (!link) throw new Error('Failed to get conversion result link.');
@@ -3591,7 +3592,7 @@ case 'imagedit': {
         // Send result to WA
         await neo.sendMessage(m.chat, {
             image: { url: resultUrl },
-            caption: `*[ ✓ ] Photo successfully edited with prompt:*\n${text}\n\nPowered by MoneyHeist Flare`
+            caption: `*[ ✓ ] Photo successfully edited with prompt:*\n${text}\n\nPowered by  ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote Flare`
         }, { quoted: m });
 
     } catch (e) {
@@ -3663,7 +3664,7 @@ case 'tofigure': {
 
         await neo.sendMessage(m.chat, {
             image: { url: resultUrl },
-            caption: '*[ ✓ ] Successfully converted to figure style!*\nPowered by MoneyHeist Flare'
+            caption: '*[ ✓ ] Successfully converted to figure style!*\nPowered by 𓅂DEADN☯︎TE𓅓 Flare'
         }, { quoted: m });
 
     } catch (e) {
@@ -3719,7 +3720,7 @@ case 'removebg': {
             image: {
                 url: json.result.url
             },
-            caption: '*[ ✓ ] Background removed successfully!*\nPowered by MoneyHeist Flare',
+            caption: '*[ ✓ ] Background removed successfully!*\nPowered by 𓅂DEADN☯︎TE𓅓 Flare',
         }, {
             quoted: m
         });
@@ -3770,7 +3771,7 @@ case 'removeclothes': {
 
         await neo.sendMessage(m.chat, {
             image: { url: json.result },
-            caption: '*[ ✓ ] Clothes removed successfully!*\nPowered by MoneyHeist Flare',
+            caption: '*[ ✓ ] Clothes removed successfully!*\nPowered by 𓅂DEADN☯︎TE𓅓 Flare',
         }, { quoted: m });
 
     } catch (e) {
@@ -4233,7 +4234,7 @@ case 'ttsai': case 'tts': {
 
         const button = [{
             name: "single_select",
-            buttonParamsJson: JSON.stringify({
+            buttonParamsJson: JSON.    stringify({
                 title: "Choose Voice Character",
                 sections: [{
                     title: "Available Characters",
@@ -4259,7 +4260,7 @@ case 'ttsai': case 'tts': {
 break;
 
 case 'pinterest': case 'pin': {
-    if (!text) return mzazireply(`Wrong format, example:\n${prefix + command} MoneyHeist`);
+    if (!text) return mzazireply(`Wrong format, example:\n${prefix + command} ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote`);
     await reactLoading(m);
     let parts = text.trim().split(' ');
     let possibleIndex = parseInt(parts[parts.length - 1]);
@@ -4402,7 +4403,7 @@ case 'tourl': case 'url': {
 
     // Generate file name with extension from mime
     const extension = mime.split('/')[1] || 'bin';
-    const fileName = `MzaziTechUploads_${Date.now()}.${extension}`;
+    const fileName = `BigbrotherUploads_${Date.now()}.${extension}`;
     const filePath = path.join(tempDir, fileName); // use path.join for safety
 
     // Save file to disk
@@ -4699,7 +4700,7 @@ case 'ytreels': {
             contextInfo: {
                 externalAdReply: {
                     title: result.title,
-                    body: "YouTube Downloader • MoneyHeist Flare",
+                    body: "YouTube Downloader •  ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote Flare",
                     thumbnailUrl: result.thumbnail.at(-1)?.url,
                     mediaType: 2,
                     renderLargerThumbnail: true,
@@ -4892,7 +4893,7 @@ case 'smeme': {
 
         // send sticker
         await neo.sendImageAsSticker(m.chat, data, m, {
-            packname: global.packname || "MoneyHeistBotz",
+            packname: global.packname || "ก็็็็็็็็็็็็็็็็็็็ＤａｒｋnoteBotz",
             author: global.author || "Shiroko AI",
         })
 
@@ -4909,7 +4910,7 @@ case 'sticker': case 'stiker': case 's': {
     let media = await m.quoted.download();
     await neo.sendSticker(m.chat, {
         sticker: media,
-        packname: global.packname || 'MoneyHeistBotz',
+        packname: global.packname || ' ก็็็็็็็็็็็็็็็็็็็ＤａｒｋnoteBotz',
         author: global.author || 'Shiroko AI'
     });
 }
@@ -4926,7 +4927,7 @@ case 'bratnime': {
         const buffer = await res.buffer();
 
         await neo.sendImageAsSticker(m.chat, buffer, m, {
-            packname: global.packname || 'MoneyHeistBotz',
+            packname: global.packname || ' ก็็็็็็็็็็็็็็็็็็็ＤａｒｋnoteBotz',
             author: global.author || 'Shiroko AI-Zass Official'
         });
     } catch (err) {
@@ -5073,7 +5074,7 @@ case "qc2": {
     // Format: .qc color | text
     const [warnaInput, ...teksArray] = text.split("|")
     const warnaNama = warnaInput?.trim().toLowerCase()
-    const teks = teksArray.join("|").trim()
+    const teks = teksArray.join("|").  trim()
 
     // If no text or valid color → send color selection buttons
     if (!daftarWarna[warnaNama] || !teks) {
@@ -5158,10 +5159,10 @@ case 'mute': {
 
     if (opt === 'on') {
         db.groups[m.chat].mute = true;
-        mzazireply(`💰 *MoneyHeist AI Control*\n\n[ ✓ ] Silence protocol activated.\nCivilians can no longer execute commands.\n\nStay sharp.\n${global.footer}`);
+        mzazireply(`🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n[ ✓ ] Silence protocol activated.\nCivilians can no longer execute commands.\n\nStay sharp.\n${global.footer}`);
     } else if (opt === 'off') {
         db.groups[m.chat].mute = false;
-        mzazireply(`💰 *MoneyHeist AI Control*\n\n[ ✓ ] Silence protocol lifted.\nAll members are now free to interact.\n\nLet the game resume.\n${global.footer}`);
+        mzazireply(`🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote  AI Control*\n\n[ ✓ ] Silence protocol lifted.\nAll members are now free to interact.\n\nLet the game resume.\n${global.footer}`);
     } else {
         mzazireply(`⚠️ *Invalid Move*\n\nOptions available: on / off\nDon't make mistakes in a heist.\n${global.footer}`);
     }
@@ -5478,7 +5479,7 @@ case 'close': {
     if (!isAdmins && !isCreator) return mzazireply(`${mesg.adm}\n${global.footer}`);
     await neo.groupSettingUpdate(m.chat, 'announcement');
 
-    mzazireply(`*MoneyHeist AI Control*\n\n🔒 The vault is sealed.\nOnly admins can send messages now.\n\nNo noise. No mistakes.\n${global.footer}`);
+    mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n🔒 The vault is sealed.\nOnly admins can send messages now.\n\nNo noise. No mistakes.\n${global.footer}`);
 }
 break;
 case 'open': {
@@ -5487,7 +5488,7 @@ case 'open': {
   
     await neo.groupSettingUpdate(m.chat, 'not_announcement');
 
-    mzazireply(`*MoneyHeist AI Control*\n\n🔓 The vault is open.\nAll members can now speak freely.\n\nLet the chaos begin... carefully.\n${global.footer}`);
+    mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n🔓 The vault is open.\nAll members can now speak freely.\n\nLet the chaos begin... carefully.\n${global.footer}`);
 }
 break;
 //===============================================//
@@ -5505,7 +5506,7 @@ case 'everyone': {
     if (!m.isGroup) return mzazireply(`❌ This command is for groups only.\n${global.footer}`);
     if (!isAdmins && !isGroupOwner && !isCreator) return mzazireply(`❌ Only the crew leaders can execute this.\n${global.footer}`);
 
-    let teks = text ? text : ' *MoneyHeist AI Broadcast*\n\nAll members, assemble.';
+    let teks = text ? text : ' *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Broadcast*\n\nAll members, assemble.';
 
     let members = groupMembers.map(v => v.id);
 
@@ -5555,7 +5556,7 @@ case 'add': {
             else failed.push(i.jid);
         }
 
-        let teks = ` *MoneyHeist AI Control*\n\n`;
+        let teks = ` *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n`;
 
         if (sukses.length > 0) {
             teks += `✅ Added:\n${sukses.map(v => `➤ @${v.split('@')[0]}`).join('\n')}\n\n`;
@@ -5584,7 +5585,7 @@ case 'setgcname': {
     try {
         await neo.groupUpdateSubject(m.chat, text);
 
-        mzazireply(`*MoneyHeist AI Control*\n\n[ ✓ ] Identity updated successfully.\n\nNew Group Name:\n➤ ${text}\n\n🧠 Names matter in every operation.\n${global.footer}`);
+        mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n[ ✓ ] Identity updated successfully.\n\nNew Group Name:\n➤ ${text}\n\n🧠 Names matter in every operation.\n${global.footer}`);
     } catch (err) {
         mzazireply(`❌ Failed to change group name.\n${err}\n${global.footer}`);
     }
@@ -5600,7 +5601,7 @@ case 'setdesk': {
     try {
         await neo.groupUpdateDescription(m.chat, text);
 
-        mzazireply(`*MoneyHeist AI Control*\n\n[ ✓ ] Description updated successfully.\n\n🧠 Every detail matters in the plan.\n${global.footer}`);
+        mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n[ ✓ ] Description updated successfully.\n\n🧠 Every detail matters in the plan.\n${global.footer}`);
     } catch (err) {
         mzazireply(`❌ Failed to update description.\n${err}\n${global.footer}`);
     }
@@ -5617,7 +5618,7 @@ case 'setppgrup': {
 
         await neo.updateProfilePicture(m.chat, media);
 
-        mzazireply(`*MoneyHeist AI Control*\n\n[ ✓ ] Identity updated successfully.\n\n🧠 A new mask for a new operation.\n${global.footer}`);
+        mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n[ ✓ ] Identity updated successfully.\n\n🧠 A new mask for a new operation.\n${global.footer}`);
     } catch (err) {
         mzazireply(`❌ Failed to update group icon.\n${err}\n${global.footer}`);
     }
@@ -5629,7 +5630,7 @@ case 'out': {
     if (!m.isGroup) return mzazireply(`❌ This command is for group operations only.\n${global.footer}`);
     if (!isAdmins && !isGroupOwner && !isCreator) return mzazireply(`❌ Only the crew leaders can dismiss me.\n${global.footer}`);
 
-    await mzazireply(`*MoneyHeist AI Control*\n\n👋 The operation ends here.\nI’m exiting the vault.\n\n🧠 Stay sharp. Until next time.\n${global.footer}`);
+    await mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n👋 The operation ends here.\nI’m exiting the vault.\n\n🧠 Stay sharp. Until next time.\n${global.footer}`);
 
     await neo.groupLeave(m.chat);
 }
@@ -5668,7 +5669,7 @@ case 'approve': {
 
         // ✅ IMPORTANT: pass mentions as second argument
         await mzazireply(
-`*MONEYHEIST AI CONTROL*
+`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI CONTROL*
 
 [ ✓ ] Access granted to:
 
@@ -5708,7 +5709,7 @@ case 'reject': {
 
         let tagText = users.map(v => `➤ @${v.split('@')[0]}`).join('\n');
 
-        mzazireply(`*MoneyHeist AI Control*\n\n❌ Access denied for:\n\n${tagText}\n\nThe vault remains secure.\n${global.footer}`, {
+        mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n❌ Access denied for:\n\n${tagText}\n\nThe vault remains secure.\n${global.footer}`, {
             mentions: users
         });
 
@@ -5730,10 +5731,10 @@ case 'antitagall': {
 
     if (opt === 'on') {
         db.groups[m.chat].antitagall = true;
-        mzazireply(`*MoneyHeist AI Control*\n\n[ ✓ ] Anti-TagAll activated.\nMass mentions are now restricted.\n\n🧠 Silence keeps the plan safe.\n${global.footer}`);
+        mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n[ ✓ ] Anti-TagAll activated.\nMass mentions are now restricted.\n\n🧠 Silence keeps the plan safe.\n${global.footer}`);
     } else if (opt === 'off') {
         db.groups[m.chat].antitagall = false;
-        mzazireply(`*MoneyHeist AI Control*\n\n[ ✓ ] Anti-TagAll deactivated.\nMembers can now tag freely.\n\nProceed carefully.\n${global.footer}`);
+        mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n[ ✓ ] Anti-TagAll deactivated.\nMembers can now tag freely.\n\nProceed carefully.\n${global.footer}`);
     } else {
         mzazireply(`⚠️ Invalid option. Use: on / off\n${global.footer}`);
     }
@@ -5768,7 +5769,7 @@ case 'deleteall': {
             });
         }
 
-        mzazireply(`💰 *MoneyHeist AI Control*\n\n[ ✓ ] ${lastMessages.length} messages erased.\n\n🧠 Clean operations leave no trace.\n${global.footer}`);
+        mzazireply(`💰 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n[ ✓ ] ${lastMessages.length} messages erased.\n\n🧠 Clean operations leave no trace.\n${global.footer}`);
 
     } catch (err) {
         mzazireply(`❌ Failed to delete messages.\n${err}\n${global.footer}`);
@@ -5785,7 +5786,7 @@ case 'listgc': {
             return mzazireply(`🧠 I am not inside any group.\n${global.footer}`);
         }
 
-        let teks = `*MoneyHeist AI Control*\n\n📋 *Active Vaults (Groups):*\n\n`;
+        let teks = `*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n📋 *Active Vaults (Groups):*\n\n`;
 
         for (let i = 0; i < anu.length; i++) {
             let metadata = anu[i];
@@ -6005,7 +6006,7 @@ case 'runtime': {
 break;
 case 'setbotname': {
   try {
-    if (!text) return mzazireply('❌ Example: .setname Mzazi Bot');
+    if (!text) return mzazireply('❌ Example: .setname 𓅂DEADN☯︎TE𓅓 Bot');
     if (!isCreator) return mzazireply(mesg.own);
 
     await neo.updateProfileName(text);
@@ -6111,7 +6112,7 @@ case 'encrypt': {
     const code = buffer.toString();
 
     // 🔥 SAFE + STRONG CONFIG
-    const obfuscated = await JsConfuser.obfuscate(code, {
+    const obfuscated = await Js Confuser.obfuscate(code, {
       target: "node",
       preset: "high",
 
@@ -6139,7 +6140,7 @@ case 'encrypt': {
 
 📁 File: ${fileName}
 ⚙️ Mode: High Obfuscation
-👑 Mzazi Tech Inc`
+👑 Bigbrither Inc`
     }, { quoted: m });
 
     // ✅ success react
@@ -6216,7 +6217,7 @@ break;
                 {
                   document: { url: outputPath },
                   mimetype: "audio/mp3",
-                  caption: "✅ *Download complete by MZAZI-XMD*",
+                  caption: "✅ *Download complete by 𓅂DEADN☯︎TE𓅓*mx_d*",
                   fileName: outputFileName,
                 },
                 { quoted: m }
@@ -6246,7 +6247,7 @@ break;
   try {
     
     if (!text) {
-      return mzazireply("𝑾𝒉𝒂𝒕 𝒔𝒐𝒏𝒈 𝒅𝒐 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅.\n\n> ©𝙼𝚉𝙰𝚉𝙸");
+      return mzazireply("𝑾𝒉𝒂𝒕 𝒔𝒐𝒏𝒈 𝒅𝒐 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅.\n\n> ©𓆤𖣘*𖤐 O̷͖̰̰B̷̛̳̟̠̘̤̪̰̩̠̞͛̿̀͗͑ig brother༒𓆪 𖤐*");
     }
 
     let search = await yts(text);
@@ -6275,7 +6276,7 @@ await neo.sendMessage(
         {
           document: { url: audioData.downloadUrl },
           mimetype: "audio/mp3",
-	  caption: "DOWNLOADED BY MONEY HEIST AI\n\n 𝙼𝚉𝙰𝚉𝙸",
+	  caption: "DOWNLOADED BY Bigbrother AI\n\n 𓅂DEADN☯︎TE𓅓",
           fileName: `${audioData.title.replace(/[^a-zA-Z0-9 ]/g, "")}.mp3`,
         },
         { quoted: m }
@@ -6293,7 +6294,7 @@ await neo.sendMessage(
       return;
     } else {
       
-      return mzazireply("𝑼𝒏𝒂𝒃𝒍𝒆 𝒕𝒐 𝒇𝒆𝒕𝒄𝒉 𝒕𝒉𝒆 𝒔𝒐𝒏𝒈. 𝑻𝒓𝒚 𝒂𝒈𝒂𝒊𝒏 𝒍𝒂𝒕𝒆𝒓.\n\n> 𝙼𝚉𝙰𝚉𝙸");
+      return mzazireply("𝑼𝒏𝒂𝒃𝒍𝒆 𝒕𝒐 𝒇𝒆𝒕𝒄𝒉 𝒕𝒉𝒆 𝒔𝒐𝒏𝒈. 𝑻𝒓𝒚 𝒂𝒈𝒂𝒊𝒏 𝒍𝒂𝒕𝒆𝒓.\n\n> 𓅂DEADN☯︎TE𓅓");
     }
   } catch (error) {
     
@@ -6404,7 +6405,7 @@ Example:
                 currency: global.paystack.currency,
                 metadata: {
                     phone: number,
-                    bot: "MoneyHeist AI"
+                    bot: "ก็็็็็็็็็็็็็็็็็็็ＤａｒｋnoteAI"
                 }
             })
         })
@@ -6442,16 +6443,16 @@ case "credits":
 
     await neo.sendMessage(m.chat, { 
         image: { url: 'https://i.imgur.com/nhNVsqf.jpeg' }, 
-        caption: `╭━━━〔 💰 MONEYHEIST AI CREDITS 〕━━⬣
+        caption: `╭━━━〔🗿 ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI CREDITS 〕━━⬣
 ┃ 
 ┃ 👑 *Founder & Developer*
-┃ ➤ Mzazi Tech Inc
+┃ ➤ Big Brother.    ***𓅂DEADN☯︎TE𓅓 Inc
 ┃ 
 ┃  *GitHub*
-┃ ➤ https://github.com/mzazitech
+┃ ➤ https://github.com/alsphalt/Deadnote3
 ┃ 
 ┃  *Bot Name*
-┃ ➤ MONEYHEIST AI
+┃ ➤  ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote
 ┃ 
 ┃  *System*
 ┃ ➤ Advanced WhatsApp Automation
@@ -6461,7 +6462,7 @@ case "credits":
 ┃ 
 ╰━━━━━━━━━━━━━━━━⬣
 
-> © Powered by *Mzazi Tech Inc* 💰`
+> © Powered by *Big Brother Inc* 💰`
     }, { quoted: m}); 
 
 break;
@@ -6471,7 +6472,7 @@ break;
 		  let [poll, opt] = text.split("|")
 
 if (text.split("|") < 2)
-                return mzazireply(`Wrong format::\nExample:- poll who is the best developer|Putin, Mzazi`);
+                return mzazireply(`Wrong format::\nExample:- poll who is the best developer|Putin, Big Brother`);
 
 let options = []
             for (let i of opt.split(',')) {
@@ -6490,7 +6491,7 @@ let options = []
 //===============================================//
 case 'metallic': {
     if (!text || text == "") {
-        return mzazireply("❌ Example: metallic Mzazi");
+        return mzazireply("❌ Example: metallic Big Brother");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6498,7 +6499,7 @@ case 'metallic': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
+            caption: `💰 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6510,7 +6511,7 @@ break;
 case 'ice': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: ice Mzazi");
+        return mzazireply("❌ Example: ice 𓅂DEADN☯︎TE𓅓");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6518,7 +6519,7 @@ case 'ice': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
+            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6530,7 +6531,7 @@ break;
 case 'neon': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: neon Mzazi");
+        return mzazireply("❌ Example: neon 𓅂DEADN☯︎TE𓅓");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6538,7 +6539,7 @@ case 'neon': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
+            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6550,7 +6551,7 @@ break;
 case 'gold': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: gold Mzazi");
+        return mzazireply("❌ Example: gold 𓅂DEADN☯︎TE𓅓");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6558,7 +6559,7 @@ case 'gold': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
+            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *BigBrother Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6570,7 +6571,7 @@ break;
 case 'snow': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: snow Mzazi");
+        return mzazireply("❌ Example: snow 𓅂DEADN☯︎TE𓅓");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6578,7 +6579,7 @@ case 'snow': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
+            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *BigBrother Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6590,7 +6591,7 @@ break;
 case 'matrix': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: matrix Mzazi");
+        return mzazireply("❌ Example: matrix Bigbrother");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6598,7 +6599,7 @@ case 'matrix': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
+            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒknote AI*\n\n> Powered by *BigBrother Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6610,7 +6611,7 @@ break;
 case 'light': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: light Mzazi");
+        return mzazireply("❌ Example: light 𓅂DEADN☯︎TE𓅓");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6618,7 +6619,7 @@ case 'light': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
+            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6630,7 +6631,7 @@ break;
 case 'devil': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: devil Mzazi");
+        return mzazireply("❌ Example: devil 𓅂DEADN☯︎TE𓅓");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6638,7 +6639,7 @@ case 'devil': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
+            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Mzazi Tech Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6650,7 +6651,7 @@ break;
 case 'purple': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: purple Mzazi");
+        return mzazireply("❌ Example: purple 𓅂DEADN☯︎TE𓅓");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6658,7 +6659,7 @@ case 'purple': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
+            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6670,7 +6671,7 @@ break;
 case 'thunder': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: thunder Mzazi");
+        return mzazireply("❌ Example: thunder 𓅂DEADN☯︎TE𓅓");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6678,7 +6679,7 @@ case 'thunder': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
+            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6690,7 +6691,7 @@ break;
 case 'hacker': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: hacker Mzazi");
+        return mzazireply("❌ Example: hacker 𓅂DEADN☯︎TE𓅓");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6698,7 +6699,7 @@ case 'hacker': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
+            caption: `💰 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6710,7 +6711,7 @@ break;
 case 'dragonball': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: dragonball Mzazi");
+        return mzazireply("❌ Example: dragonball 𓅂DEADN☯︎TE𓅓");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6718,7 +6719,7 @@ case 'dragonball': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
+            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6730,7 +6731,7 @@ break;
 case 'naruto': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: naruto Mzazi");
+        return mzazireply("❌ Example: naruto 𓅂DEADN☯︎TE𓅓");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6738,7 +6739,7 @@ case 'naruto': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
+            caption: `💰 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6750,7 +6751,7 @@ break;
 case 'graffiti': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: graffiti Mzazi");
+        return mzazireply("❌ Example: graffiti 𓅂DEADN☯︎TE𓅓");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6758,7 +6759,7 @@ case 'graffiti': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
+            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by * BigBrother Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6770,7 +6771,7 @@ break;
 case 'sand': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: sand Mzazi");
+        return mzazireply("❌ Example: sand 𓅂DEADN☯︎TE𓅓");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6778,7 +6779,7 @@ case 'sand': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
+            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *BigBrother Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6826,7 +6827,7 @@ case 'checkme': {
         let hornyLevel = horny > 70 ? "😈 Too Much" : horny > 40 ? "😏 Normal" : "🧊 Innocent"
 
         let teks = `
-╭━━━〔 💰 MONEYHEIST AI - CHECK ME 〕━━━⬣
+╭━━━〔 🗿 ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI - CHECK ME 〕━━━⬣
 ┃ 👤 Name: ${name}
 ┃ 📱 Number: ${number}
 ┃
@@ -6842,7 +6843,7 @@ case 'checkme': {
 ╰━━━━━━━━━━━━━━━━━━━━⬣
 
 😂 *This is just for fun!*
-> Powered by Mzazi Tech Inc
+> Powered by 𓆤𖣘*𖤐 O̷͖̰̰B̷̛̳̟̠̘̤̪̰̩̠̞͛̿̀͗͑ig brother༒𓆪 𖤐* Inc
 `
 
         await neo.sendMessage(m.chat, {
@@ -6851,10 +6852,10 @@ case 'checkme': {
             mentions: [target],
             contextInfo: {
                 externalAdReply: {
-                    title: "MONEYHEIST AI",
+                    title: "ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI",
                     body: "Fun Check System 😂",
                     thumbnailUrl: pp,
-                    sourceUrl: "https://github.com/mzazitech",
+                    sourceUrl: "https://github.com/alsphalt/Deadnote3",
                     mediaType: 1,
                     renderLargerThumbnail: true
                 }
@@ -6882,7 +6883,7 @@ case 'cekidch': {
         let res = await neo.newsletterMetadata("invite", code)
 
         let teks = `
-╭━━━〔 💰 MONEYHEIST AI - CHANNEL INFO 〕━━━⬣
+╭━━━〔 🗿 ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI - CHANNEL INFO 〕━━━⬣
 ┃ 🆔 ID: ${res.id}
 ┃ 📛 Name: ${res.name}
 ┃ 👥 Followers: ${res.subscribers}
@@ -6890,7 +6891,7 @@ case 'cekidch': {
 ┃ ✔ Verified: ${res.verification == "VERIFIED" ? "Yes ✅" : "No ❌"}
 ╰━━━━━━━━━━━━━━━━━━━━⬣
 
-> Powered by *Mzazi Tech Inc*
+> Powered by *𓅂DEADN☯︎TE𓅓*
 `
 
         let msg = generateWAMessageContent(m.chat, {
@@ -6902,7 +6903,7 @@ case 'cekidch': {
                     },
                     interactiveMessage: {
                         body: { text: teks },
-                        footer: { text: "💰 MONEYHEIST AI" },
+                        footer: { text: "💰 ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI" },
                         nativeFlowMessage: {
                             buttons: [
                                 {
@@ -6941,7 +6942,8 @@ case 'listpregnant': {
         let selected = shuffled.slice(0, 5)
 
         let teks = `
-╭━━━〔 MONEYHEIST AI PREGNANCY LIST 〕━━━⬣
+╭━━━〔  ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋ
+notePREGNANCY LIST 〕━━━⬣
 ┃ 🤰 *Top 5 “Expecting” Members*
 ┃ (Just for fun!)
 ┃
@@ -6957,7 +6959,7 @@ case 'listpregnant': {
 
 (ukipenda chipo, usiogope mimba)
 
-> Powered by *Mzazi Tech Inc*`
+> Powered by *Big Brother Inc*`
 
         await neo.sendMessage(m.chat, {
             text: teks,
@@ -7005,7 +7007,7 @@ case "mzazi": case 'menu': {
  await loading()
 let menu = `
 ${readmore}
-𝙼𝚉𝙰𝚉𝙸 𝚃𝙷𝙴 𝙶𝚁𝙴𝙰𝚃 𝙰𝙻𝚆𝙰𝚈𝚂
+𓅂DEADN☯︎TE𓅓 𝚃𝙷𝙴 𝙶𝚁𝙴𝙰𝚃 𝙰𝙻𝚆𝙰𝚈𝚂
 
 ╭━━━〔 GROUP MENU 〕━━━⬣
 > ✦☆✦ •mute
@@ -7097,9 +7099,9 @@ ${readmore}
 ╭━━━〔 FUN MENU 〕━━━⬣
 
 > ✦☆✦ •listpregnant
-> ✦☆✦ •
-> ✦☆✦ •
-> ✦☆✦ •
+> ✦☆✦ •checkbrainlevel
+> ✦☆✦ •zakayomustgo
+> ✦☆✦ •DNAchecker
 > ✦☆✦ •
 > ✦☆✦ •
 > ✦☆✦ •
@@ -7142,7 +7144,7 @@ ${readmore}
 > ✦☆✦ •time
 > ✦☆✦ •calc
 > ✦☆✦ •encrypt
-> ✦☆✦ •
+> ✦☆✦ •addsudo
 ╰━━━━━━━━━━━━━━━━⬣
 ${readmore}
 ╭━━━〔 TOOLS MENU 〕━━━⬣
@@ -7245,7 +7247,7 @@ ${readmore}
 ╰━━━━━━━━━━━━━━━━⬣
 `
 await neo.sendMessage(m.chat, {
-    text: `╭━━〔 💰 MONEYHEIST AI 〕━━⬣
+    text: `╭━━〔 🗿 ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI 〕━━⬣
 ┃ 🤖 Status   : Online
 ┃ ⚙️ Version  : ${versi}
 ┃ 🌐 Mode     : ${global.selfmode ? "Self" : "Public"}
@@ -7260,7 +7262,7 @@ await neo.sendMessage(m.chat, {
 ${menu}
 
 ╭━━━〔 SYSTEM 〕━━━⬣
-┃ ✔ Powered by Mzazi Tech Inc.
+┃ ✔ Powered by Bigbrother Inc.
 ┃ ✔ Fast • Stable • Reliable
 ╰━━━━━━━━━━━━━━━━⬣
 ${global.footer}
@@ -7295,7 +7297,7 @@ case 'app-premium': {
 *FITUR INI AKAN SEGERA HADIR*
 
 Fitur ini akan dirilis pada:
-Versi 7.0 MoneyHeist Flare
+Versi 7.0 DEADNOTE Flare
 
 Ikuti update pengembangan dan preview fiturnya
 di channel resmi kami.
@@ -7316,7 +7318,7 @@ di channel resmi kami.
 break;
 
         default: if ((budy.match) && ["bot", "tes"].includes(budy)) {
-            let teksOn = `━ ⬢ \`MONEYHEIST AI IS READY\` ⬢ ━`
+            let teksOn = `━ ⬢ \`𓅂DEADN☯︎TE𓅓 AI IS READY\` ⬢ ━`
             reply(teksOn)
         }
         if (budy.startsWith('=>')) {
