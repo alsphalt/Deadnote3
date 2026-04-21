@@ -1,8 +1,8 @@
 /*════════════════════════════
- *  💎  MONEYHEIST AI LOADER by Mzazi Tech Inc.
+ *  🗿 DARKNOTE LOADER by 𓅂DEADN☯︎TE𓅓........ X𓆤𖣘𖤐 O̷͖̰̰B̷̛̳̟̠̘̤̪̰̩̠̞͛̿̀͗͑ig brother༒𓆪 𖤐*.
  *════════════════════════════
- *  🤖  Bot Name    : MONEYHEIST AI
- *  👑  Owner       : Mzazi Tech Inc.
+ *  🤖  Bot Name    : DARKNOTE V1
+ *  👑  Owner       : 𓅂B𓂀G BR☯︎THER𓅓☠︎︎𓂃✍︎.
  *  💎  Version     : Premium Edition
  *  ⚡  Loader      : Enhanced Boot System
  ══════════════════════════
