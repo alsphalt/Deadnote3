@@ -30,11 +30,11 @@ async function bootAnimation() {
 
     // 🔥 Header
     console.log(chalk.hex("#FF0000")("╔═════════════════════════════════╗"));
-    console.log(chalk.hex("#FF0000")("║") + chalk.bold.white("    MONEYHEIST AI LOADER      ") + chalk.hex("#FF0000")("║"));
+    console.log(chalk.hex("#FF0000")("║") + chalk.bold.white("    darknote AI LOADER      ") + chalk.hex("#FF0000")("║"));
     console.log(chalk.hex("#FF0000")("╚══════════════════════════════════╝\n"));
 
     // 🚀 Start
-    console.log(chalk.cyanBright("🚀 Booting MONEYHEIST AI System...\n"));
+    console.log(chalk.cyanBright("🚀 Booting DARKNOTE AI System...\n"));
     await sleep(800);
 
     // 🎨 ASCII
