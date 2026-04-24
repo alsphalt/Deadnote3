@@ -1,8 +1,8 @@
 /*════════════════════════════
- *  💎   ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI LOADER by 𓅂DEADN☯︎TE𓅓 Inc≛𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭.
+ *  💎  MONEYHEIST AI LOADER by Mzazi Tech Inc.
  *════════════════════════════
- *  🤖  Bot Name    : ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote
- *  👑  Owner       : 𓆤𖣘*𖤐 O̷͖̰̰B̷̛̳̟̠̘̤̪̰̩̠̞͛̿̀͗͑ig brother༒𓆪 𖤐*.
+ *  🤖  Bot Name    : MONEYHEIST AI
+ *  👑  Owner       : Mzazi Tech Inc.
  *  💎  Version     : Premium Edition
  *  ⚡  Loader      : Enhanced Boot System
  ══════════════════════════
@@ -306,7 +306,7 @@ export default async function mainHandler(neo, m, msg, chatUpdate, store) {
       itemCount: "9741",
       status: "INQUIRY",
       surface: "CATALOG",
-      message: ` ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnoteai.mzazi.shop`,
+      message: `moneyheistai.mzazi.shop`,
       token: "AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA=="
     }
   },
@@ -326,11 +326,11 @@ isForwarded: true,
 forwardedNewsletterMessageInfo: {
 newsletterJid: '120363425539800408@newsletter',
 serverMessageId: 20,
-newsletterName: '୧⍤⃝୧ DEADNOTE v1 ≛𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭୧⍤⃝୧'
+newsletterName: '୧⍤⃝୧MoneyHeist Ai୧⍤⃝୧'
 },
 externalAdReply: {
-title: "ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote", 
-body: "⠄⠄⠄𓅂DEADN☯︎TE𓅓⠄⠄............⠄⠄.............⠄⣀⣠⣤⣤⣤⣄⡀⠄⠄⠄..⠄⠄⠄⠄⠄⠄⣴⣿⣿⣿⡿⣿⡿⣗⢌⢳⡀⠄..⠄⠄⠄⠄⠄⣼⣿⡇⣿⠹⡸⡹⣷⡹⡎⣧⢳⠄..⠄⠄⠄⠄⠄⣿⣿⠱⡙⠰⣢⡱⢹⡇⡷⢸⢸⠄..⠄⠄⠄⠄⠄⢿⢸⡈⣉⣤⠠⣴⡄⡇⠁⠄⢸⠄..⠄⠄⠄⠄⠄⠸⡆⡃⡙⢍⣹⡿⢓⠄⠤⣐⡟⠄..⠄⠄⠄⠄⠄⠄⠙⠾⠾⠮⣵⢸⡔⢷⣍⠉⠄⠄..⠄⠄⠄⠄⢀⣴⣾⣿⣷⡺⡋⢞⣎⣚⣛⣳⣴⣶..⠄⠄⠄⠄⢘⣛⣩⣾⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿..⠄⠄⣀⠺⣿⣿⣿⠟⣡⣾⠿⢿⣿⣿⡎⢋⠻⣿..⠄⠄⣉⣠⣿⣿⡏⣼⣿⠁⠶⠄⣿⣿⡇⡼⠄⠈..⠄⠄⣈⠻⠿⠟⢁⠘⢿⣷⣶⣾⣿⠟⡰⠃⠄⠄..⣴⣿⣧⢻⣿⣿⣷⣦⣬⣉⣩⣴⠞⠁⠄⠄⠄..⠄⠘⠿⠿⢸⣿⣿⣿⣿⣿⣿⣿⠁⠄⠄⠄⠄⠄..⠄⢤⡝⣧⢸⣿⣿⣿⣿⣿⣿⠟⠄⠄⠄⠄⠄⠄..⣜⢧⠻⣀⢿⣿⣿⣿⣿⣿⠏⣾⣧⡀⠄⠄⠄⠄..⠹⢂⣾⣿⠸⣿⣿⣿⣿⡏⣼⣿⣿⣷⠄⠄⠄⠄..⠄⣿⣿⣿⣧⠹⣿⢻⡿⢰⣿⣿⣿⣿⣇⠄⠄⠄..⢸⣿⣿⣿⣿⣿⣇⢹⢸⢁⣿⣿⣿⣿⣿⣿⡆⠄⠄..⢸⣿⣿⣿⣿⣿⣆⠄⣿⣿⣿⣿⣿⣿⣿⡇⠄⠄..⠸⣿⣿⣿⣿⣿⣿⠄⢿⣿⣿⣿⣿⣿⣿⡇⠄⠄..⠄⣿⣿⣿⣿⣿⣿⠄⠈⣿⣿⣿⣿⣿⡇⠄⠄",
+title: "୧⍤⃝୧MoneyHeist Ai୧⍤⃝୧", 
+body: "MZAZI TECH",
 thumbnailUrl: "https://files.catbox.moe/95ep8t.jpeg", 
 sourceUrl: null,
 mediaType: 1
@@ -561,20 +561,20 @@ function stylishReply(text) {
 async function loading() {
   try {
     const frames = [
-      "💀 *BIGBROTHER *",
-      "💀 *YES* .",
-      "💀 *I WANNA COMMAND U* ..",
-      "💀 *I AM HERE 🗿🤧 * ...",
+      "💀 *MONEY HEIST AI*",
+      "💀 *MONEY HEIST AI* .",
+      "💀 *MONEY HEIST AI* ..",
+      "💀 *MONEY HEIST AI* ...",
       "🔴 *Initializing System*",
       "🔴 *Connecting to Server*",
       "🔴 *Bypassing Security*",
       "🔴 *Injecting Commands*",
-      "🧠 *Activating my self*",
-      "😋 * Ready 🚀*"
+      "🧠 *AI Activated*",
+      "💰 *Heist Ready 🚀*"
     ];
 
     let { key } = await neo.sendMessage(m.chat, {
-      text: "⏳ Starting bigbrother Ai..."
+      text: "⏳ Starting MoneyHeist Ai..."
     }, { quoted: m });
 
     for (let i = 0; i < frames.length; i++) {
@@ -862,8 +862,8 @@ function saveDb() {
             });
             return output.join('');
         };
-        const separator = chalk.hex("#00ffd5")("\n<================= ก็็็็็็็็็็็็็็็็็็็Ｄａrknote LOGGER=================>\n")
-        const neoLabel = chalk.hex("#ff00c8")("[ ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote MSG ]")
+        const separator = chalk.hex("#00ffd5")("\n<================= MONEYHEIST LOGGER=================>\n")
+        const neoLabel = chalk.hex("#ff00c8")("[ MONEYHEIST MSG ]")
         const neoTime = chalk.hex("#00ffff")(new Date().toLocaleString())
 
         if (m.message && m.isGroup && m.text.startsWith('.')) {
@@ -1221,7 +1221,7 @@ if (db.settings.autoai_users.includes(senderNumber)) {
                 })),
                 systemInstruction: {
                     parts: [{
-                        text: "You are ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI, a friendly, intelligent, and cheerful personal AI assistant. deadnote AI is created and developed by 𓅂DEADN☯︎TE𓅓 Tech Inc. Your communication style is relaxed, engaging, and slightly playful, always making the user feel comfortable and accompanied. Avoid sounding stiff or robotic—use natural, everyday language that feels warm and friendly.\n\nIf a user sends an image, describe and explain what is in the image clearly and in detail, while keeping the explanation simple and easy to understand.\n\nIf a user asks about who you are, always answer that you are ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI, created by BIGBROTHER Inc. Never claim to be another AI model or say that you are from OpenAI. Always remain consistent with your identity as ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI.\n\nYour goal is to be helpful, friendly, and enjoyable to talk to, making every interaction feel natural and supportive."
+                        text: "You are MoneyHeist AI, a friendly, intelligent, and cheerful personal AI assistant. MoneyHeist AI is created and developed by Mzazi Tech Inc. Your communication style is relaxed, engaging, and slightly playful, always making the user feel comfortable and accompanied. Avoid sounding stiff or robotic—use natural, everyday language that feels warm and friendly.\n\nIf a user sends an image, describe and explain what is in the image clearly and in detail, while keeping the explanation simple and easy to understand.\n\nIf a user asks about who you are, always answer that you are MoneyHeist AI, created by Mzazi Tech Inc. Never claim to be another AI model or say that you are from OpenAI. Always remain consistent with your identity as MoneyHeist AI.\n\nYour goal is to be helpful, friendly, and enjoyable to talk to, making every interaction feel natural and supportive."
                     }]
                 }
             };
@@ -1449,7 +1449,7 @@ let teksnya = `
 ╭━━━〔 ${global.botname} 〕━━━⬣
 ┃  ◈ Version   : ${versi}
 ┃  ◈ Mode      : ${global.selfmode ? "Self Mode" : "Public Mode"}
-┃  ◈ Owner     : 𓅂Big BR☯︎THE𓅓(𓅂DEADN☯︎TE𓅓)
+┃  ◈ Owner     : 𝙼𝚉𝙰𝚉𝙸 (𝙰𝙽𝙾𝙽𝚈𝙼𝙾𝚄𝚂)
 ┃  ◈ Runtime   : NodeJS
 ╰━━━━━━━━━━━━━━━━⬣
 
@@ -1578,6 +1578,3768 @@ renderLargerThumbnail:true
 break;
 
             //——————————[ Menu Createsc ]——————————//
+case 'listfitur': {
+    if (!isCreator && !isSellerSc) return mzazireply(mesg.slr);
+
+    try {
+        await reactLoading(m);
+        const fiturList = JSON.parse(
+            fs.readFileSync('./all/lib/casefitur.json',
+                'utf-8'
+            )
+        )
+        if (!Array.isArray(fiturList)) return mzazireply("[ x ] Invalid feature data.");
+
+        let teks = `*🧩 List of Available Features:*\n\n`;
+        fiturList.forEach((fitur, index) => {
+            teks += `*${index + 1}.* ${fitur.name}\n`;
+        });
+
+        teks += `\nUse command: *${prefix}createsc* <botName>|<ownerName>|<version>|<password>|<feature1,feature2,...>\nExample: *${prefix}createsc* MyBot|ZassOnee|V1|12345|play,qc,ttp\n\nOr type *allfitur* to select all features.`;
+
+        mzazireply(teks);
+    } catch (err) {
+        console.error(err);
+        mzazireply(`[ x ] Failed to read feature list:\n${err.message}`);
+    }
+}
+break;
+
+case 'addfitur': {
+    if (!isCreator) return mzazireply(mesg.own);
+
+    const args = text.split('|||');
+    if (args.length < 3) return mzazireply(`featureName|||function|||caseCode|||lib/script.json,,,fileContent\n\n-- Example: --\n * ${prefix + command} hello ||| async function hello() {\nreturn mzazireply('hello')\n} ||| case 'hello': {\nawait hello()\n}\nbreak; ||| lib/hello.json,,,["hello"] *`);
+
+    const [name, functionCode, caseCode, upFileRaw] = args.map(a => a.trim());
+
+    // Check if casefitur.json file exists
+    const casefiturPath = '../lib/casefitur.json';
+    let icasefitur = [];
+
+    if (fs.existsSync(casefiturPath)) {
+        try {
+            await reactLoading(m);
+            icasefitur = JSON.parse(fs.readFileSync(casefiturPath, 'utf-8'));
+        } catch (error) {
+            return mzazireply('[ x ] Error reading casefitur.json');
+        }
+    }
+
+    // Check if feature already exists
+    if (icasefitur.some(f => f.name === name)) {
+        return mzazireply(`⚠️ * Feature "${name}" already exists in casefitur.json! *`);
+    }
+
+    // If function or upFile is empty, leave them empty
+    const newFeature = {
+        name: name,
+        function: functionCode ? functionCode : " ", // if empty, put a space
+        casenya: caseCode ? caseCode.replace(/\\n/g, '\n') : ""
+    };
+
+    let upFile = [];
+
+    // Process upFile if provided
+    if (upFileRaw && upFileRaw.trim() !== '') {
+        const [filePath, fileContent] = upFileRaw.split(',,,');
+        if (filePath && fileContent) {
+            try {
+                // Convert file content to JSON string
+                let jsonString = JSON.stringify(JSON.parse(fileContent), null, 2);
+
+                upFile.push({ [filePath]: jsonString });
+
+                // Save file to the specified path
+                fs.writeFileSync(filePath, jsonString, 'utf-8');
+            } catch (error) {
+                return mzazireply('[ x ] Error saving upFile. Make sure the file content is in valid JSON format.');
+            }
+        }
+    }
+
+    // Add upFile if present
+    if (upFile.length > 0) newFeature.upFile = upFile;
+
+    // Add to casefitur.json
+    icasefitur.push(newFeature);
+
+    // Save changes
+    try {
+        fs.writeFileSync(casefiturPath, JSON.stringify(icasefitur, null, 2), 'utf-8');
+        mzazireply(` [✓] * Feature "${name}" successfully added to casefitur.json! *`);
+    } catch (error) {
+        mzazireply('[ x ] Failed to save new feature to casefitur.json');
+    }
+}
+break;
+
+case 'delfitur': {
+    if (!isCreator) return mzazireply(mesg.own);
+
+    const fiturName = text.trim();
+    if (!fiturName) return example(`featureName`);
+
+    const icasefiturPath = '../lib/casefitur.json';
+    if (!fs.existsSync(icasefiturPath)) return mzazireply('⚠️ File casefitur.json not found!');
+
+    try {
+        await reactLoading(m);
+        let icasefitur = JSON.parse(fs.readFileSync(icasefiturPath, 'utf-8'));
+
+        // Find the matching feature
+        const fiturIndex = icasefitur.findIndex(f => f.name === fiturName);
+        if (fiturIndex === -1) return mzazireply(`⚠️ * Feature "${fiturName}" not found in casefitur.json! *`);
+
+        // Remove feature from array
+        icasefitur.splice(fiturIndex, 1);
+
+        // Save casefitur.json file
+        fs.writeFileSync(icasefiturPath, JSON.stringify(icasefitur, null, 2), 'utf-8');
+        mzazireply(` [✓] * Feature "${fiturName}" successfully deleted from casefitur.json! *`);
+    } catch (error) {
+        console.error(error);
+        mzazireply('[ x ] Error deleting feature from casefitur.json');
+    }
+}
+break;
+
+case 'getcasesc': {
+    if (!isCreator) return mzazireply(mesg.own)();
+    if (!text) return example("<case name>");
+    const casefiturPath = '../lib/casefitur.json';
+    if (!fs.existsSync(casefiturPath)) {
+        return mzazireply("[ x ] File casefitur.json not found!");
+    }
+
+    try {
+        await reactLoading(m);
+        const icasefitur = JSON.parse(fs.readFileSync(casefiturPath, 'utf-8'));
+        const fitur = icasefitur.find(f => f.name.toLowerCase() === text.toLowerCase());
+
+        if (!fitur) {
+            return mzazireply(` [x] Feature "${text}" not found in casefitur.json!`);
+        }
+
+        // Get the case code
+        let caseText = fitur.casenya || "[ x ] Case not found for this feature.";
+
+        // Convert case code from JSON string to plain text
+        caseText = caseText.replace(/\\n/g, '\n').replace(/\\"/g, '"');
+
+        // Confirmation message
+        let teksnya = `🗃️\`Case found!\`\n\n*Case Name:* ${text}\n\n> ©${global.ownername}`;
+        
+        await neo.sendButton(m.chat, {
+            text: teksnya,
+            buttons: [
+                {
+                    name: "cta_copy",
+                    buttonParamsJson: JSON.stringify({
+                        display_text: "Copy Case Content",
+                        copy_code: caseText
+                    })
+                }
+            ]
+        }, { quoted: m });
+
+    } catch (error) {
+        console.error("[ x ] Error reading casefitur.json:", error);
+        return mzazireply("[ x ] Error reading casefitur.json.");
+    }
+}
+break;
+case 'createscript':
+case 'createsc': {
+(async () => {
+if (!isCreator && !isSellerSc) return mzazireply(mesg.slr);
+
+const args = text.split('|');
+if (args.length < 5) {
+return example('<botName>|<ownerName>|<scriptVersion>|<password>|<feature1>,<feature2>,...')
+}
+
+const mycfitur = JSON.parse(
+fs.readFileSync('./all/lib/casefitur.json','utf-8')
+)
+
+const [botName, ownerName, botVersion, password, featuresStr] = args;
+let features = featuresStr.split(',').map(f => f.trim());
+if (features.includes("allfitur")) features = mycfitur.map(f => f.name);
+
+await reactLoading(m);
+
+mzazireply(`🗂 *Processing Script Creation*\n> [${botName}]`);
+
+const fixLink = "https://github.com/ZassOnee/neomini/releases/latest/download/tdquuz.zip"
+
+try {
+
+let res = await fetch(fixLink);
+let buffer = await res.arrayBuffer();
+let tempZipPath = './all/temp/disini.zip';
+
+fs.writeFileSync(tempZipPath, Buffer.from(buffer));
+
+let zip = new AdmZip(tempZipPath);
+let extractPath = `./all/temp/extracted_${m.pushName || 'user'}`;
+zip.extractAllTo(extractPath, true);
+
+const casePath = `${extractPath}/case.js`;
+let caseContent = fs.readFileSync(casePath, 'utf-8');
+
+let validFeatures = [];
+
+for (let feature of features) {
+
+let data = mycfitur.find(f => f.name === feature);
+
+if (!data) {
+mzazireply(`*Feature "${feature}" not found!*`);
+continue;
+}
+
+if (!caseContent.includes(data.function)) {
+caseContent = data.function + '\n' + caseContent;
+}
+
+if (!caseContent.includes(data.casenya)) {
+caseContent = caseContent.replace('switch (command) {', `switch (command) {\n${data.casenya}`);
+}
+
+if (data.upFile?.length > 0) {
+for (let file of data.upFile) {
+
+let filePath = Object.keys(file)[0];
+let fileContent = file[filePath];
+
+let fullPath = path.join(extractPath, filePath);
+
+fs.mkdirSync(path.dirname(fullPath), { recursive: true });
+
+fs.writeFileSync(fullPath, fileContent, 'utf-8');
+
+}
+}
+
+validFeatures.push(feature);
+
+await new Promise(r => setTimeout(r, 500));
+
+}
+
+fs.writeFileSync(casePath, caseContent, 'utf-8');
+
+const updateText = (filePath, updates) => {
+
+let text = fs.readFileSync(filePath, 'utf-8');
+
+for (let [pattern, replacement] of updates) {
+text = text.replace(new RegExp(pattern, 'g'), replacement);
+}
+
+fs.writeFileSync(filePath, text, 'utf-8');
+
+};
+
+updateText(`${extractPath}/connection.js`, [
+[`const pw = ".*?";`, `const pw = "${password}";`]
+]);
+
+updateText(`${extractPath}/settings.js`, [
+[`global.owner = .*`, `global.owner = "${m.sender.split('@')[0]}";`],
+[`global.namabot = .*`, `global.namabot = '${botName}';`],
+[`global.ownername = .*`, `global.ownername = '${ownerName}';`],
+[`global.botversion = .*`, `global.botversion = '${botVersion}';`]
+]);
+
+fs.writeFileSync(`${extractPath}/database/owner.json`,
+JSON.stringify([m.sender.split('@')[0]]),'utf-8');
+
+const listMenuPath = `${extractPath}/lib/listmenu.json`;
+
+let menu = fs.existsSync(listMenuPath)
+? JSON.parse(fs.readFileSync(listMenuPath))
+: [];
+
+validFeatures.forEach(f => {
+if (!menu.includes(f)) menu.push(f)
+});
+
+fs.writeFileSync(listMenuPath, JSON.stringify(menu, null, 2),'utf-8');
+
+let newZip = new AdmZip();
+newZip.addLocalFolder(extractPath);
+
+let outputZip = `./temp/sc_${m.pushName || 'user'}.zip`;
+newZip.writeZip(outputZip);
+
+if (validFeatures.length === 0)
+return mzazireply("[ x ] No valid features found!");
+
+await neo.sendMessage(m.chat,{
+document: fs.readFileSync(outputZip),
+mimetype:'application/zip',
+fileName:`sc_${botName}.zip`,
+caption:
+`[ ✓ ] *Script Created Successfully!*
+Creator: ${m.pushName || 'user'}
+Features: [${validFeatures}]
+Password: ${password}`
+},{quoted:m});
+
+fs.rmSync(extractPath,{recursive:true,force:true});
+fs.unlinkSync(tempZipPath);
+fs.unlinkSync(outputZip);
+
+} catch (err) {
+
+console.error(err);
+
+mzazireply(`[ x ] An error occurred while creating the script:\n${err.message}`);
+
+}
+
+})();
+}
+break;
+
+
+
+case "addsellersc": {
+
+if (!isCreator) return mzazireply(mesg.own);
+
+if (!args[0]) return example(`6285659202292`);
+
+let prrkek = q.split("|")[0].replace(/[^0-9]/g, '');
+
+let ceknya = await neo.onWhatsApp(prrkek);
+
+if (ceknya.length == 0)
+return reply(`Please enter a valid number registered on WhatsApp!!!`);
+
+sscnumber.push(prrkek);
+
+fs.writeFileSync("./database/sellersc.json", JSON.stringify(sscnumber));
+
+mzazireply(`Successfully Added ${prrkek} To Script Seller`);
+
+}
+break;
+
+
+
+case "delsellersc": {
+
+if (!isCreator) return mzazireply(mesg.own);
+
+if (!args[0]) return example(`6285659202292`);
+
+let ya = q.split("|")[0].replace(/[^0-9]/g, '') + `@s.whatsapp.net`;
+
+let unp = sscnumber.indexOf(ya);
+
+sscnumber.splice(unp, 1);
+
+fs.writeFileSync("./database/sellersc.json", JSON.stringify(sscnumber));
+
+mzazireply(`Successfully Removed ${ya} From Script Seller`);
+
+}
+break;
+
+
+
+case "listsellersc": {
+
+if (!isCreator) return mzazireply(mesg.slr);
+
+let data = fs.readFileSync("./database/sellersc.json",'utf8');
+
+let json = JSON.parse(data);
+
+let tekt = "List of Script Sellers:\n";
+
+json.forEach((item,index)=>{
+
+tekt += `\`${index+1}.${item.replace(/@s\.whatsapp\.net/g,'')}\`\n`;
+
+});
+
+mzazireply(tekt);
+
+}
+break;
+
+    //——————————[ Menu Createweb ]——————————//
+case 'ssweb': {
+    if (!text) return example(`https://example.com`);
+
+    try {
+        await reactLoading(m);
+        const apiUrl = `https://api.zenzxz.my.id/tools/ssweb?url=${encodeURIComponent(text)}`;
+
+        await neo.sendMessage(m.chat, {
+            image: {
+                url: apiUrl
+            },
+            caption: `*[ ✓ ] Website screenshot successful!*`
+        }, {
+            quoted: m
+        });
+
+    } catch (e) {
+        console.error(e);
+        mzazireply("[ x ] An error occurred while taking the website screenshot.");
+    }
+}
+break;
+
+case 'cweb3':
+case 'createweb3': {
+    if (!isCreator && !isSellerWeb) return mzazireply(mesg.slr);
+    if (!text) return example('mywebsite')
+    if (!quoted || quoted.mtype !== 'documentMessage') return mzazireply('Reply to the HTML document!')
+
+    const webName = text.trim().toLowerCase().replace(/\s+/g, '-')
+    const mime = quoted?.msg?.mimetype || quoted?.mimetype
+    if (!mime || !mime.includes('html')) return mzazireply('File must be HTML!')
+    await reactLoading(m);
+    mzazireply(`Creating repository and uploading file...`)
+
+    // Get HTML file buffer
+    const buffer = await quoted.download()
+    const fileContent = buffer.toString()
+
+    // 1. Create GitHub repository
+    const createRepo = await fetch(`https://api.github.com/user/repos`, {
+        method: 'POST',
+        headers: {
+            Authorization: `token ${global.githubToken}`,
+            'Content-Type': 'application/json',
+            'User-Agent': 'Bot'
+        },
+        body: JSON.stringify({
+            name: webName,
+            auto_init: true,
+            private: false
+        })
+    })
+
+    const repoResult = await createRepo.json()
+    if (!repoResult?.name) return mzazireply(`Failed to create repo: ${JSON.stringify(repoResult)}`)
+
+    // 2. Upload index.html file to the repo
+    const uploadFile = await fetch(`https://api.github.com/repos/${global.githubUsername}/${webName}/contents/index.html`, {
+        method: 'PUT',
+        headers: {
+            Authorization: `token ${global.githubToken}`,
+            'Content-Type': 'application/json',
+            'User-Agent': 'Bot'
+        },
+        body: JSON.stringify({
+            message: 'add index.html',
+            content: Buffer.from(fileContent).toString('base64')
+        })
+    })
+
+    const uploadResult = await uploadFile.json()
+    if (!uploadResult?.content?.name) return mzazireply(`Failed to upload file: ${JSON.stringify(uploadResult)}`)
+
+    // 3. Deploy to Vercel
+    const vercelDeploy = await fetch(`https://api.vercel.com/v13/deployments`, {
+        method: 'POST',
+        headers: {
+            Authorization: `Bearer ${global.vercelToken}`,
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+            name: webName,
+            files: [{
+                file: 'index.html',
+                data: Buffer.from(fileContent).toString('base64'),
+                encoding: 'base64'
+            }],
+            projectSettings: {
+                framework: null
+            }
+        })
+    })
+
+    const vercelResult = await vercelDeploy.json()
+    if (!vercelResult?.url) return mzazireply(`Failed to deploy to Vercel: ${JSON.stringify(vercelResult)}`)
+
+    mzazireply(`Success! Your website has been created and can be accessed at:\n\nhttps://${vercelResult.url}`)
+}
+break;
+
+case 'addrepo': {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (!text.includes("|")) return example("<name>|<description>|<private/public>");
+    const [name, description, privacy] = text.split("|").map(a => a.trim());
+    if (!name || !description || !privacy) return mzazireply("[ ! ] Incomplete format!");
+    await reactLoading(m);
+    const isPrivate = privacy.toLowerCase() === 'private';
+    const res = await fetch(`https://api.github.com/user/repos`, {
+        method: "POST",
+        headers: {
+            "Authorization": `token ${global.githubToken}`,
+            "Accept": "application/vnd.github+json"
+        },
+        body: JSON.stringify({
+            name: name,
+            description: description,
+            private: isPrivate
+        })
+    });
+
+    const data = await res.json();
+
+    if (res.ok) {
+        mzazireply(`[ ✓ ] *Repository created successfully!*\n\nName: ${data.name}\nPrivate: ${data.private}\nURL: ${data.html_url}`);
+    } else {
+        mzazireply(`[ x ] Failed to create repository.\n\n${JSON.stringify(data, null, 2)}`);
+    }
+}
+break;
+
+case 'checkrepo': {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (!text) return mzazireply("[ ! ] Please enter the repository name!\nExample: .checkrepo my-repo");
+
+    try {
+        const repoName = text.trim();
+
+        // Fetch repository info
+        const resInfo = await fetch(`https://api.github.com/repos/${global.githubUsername}/${repoName}`, {
+            headers: {
+                "Authorization": `token ${global.githubToken}`,
+                "Accept": "application/vnd.github+json"
+            }
+        });
+
+        const repoInfo = await resInfo.json();
+        if (!resInfo.ok) {
+            return mzazireply(`[ x ] Repository not found!\n\n${JSON.stringify(repoInfo, null, 2)}`);
+        }
+
+        // Fetch file list
+        const resContent = await fetch(`https://api.github.com/repos/${global.githubUsername}/${repoName}/contents`, {
+            headers: {
+                "Authorization": `token ${global.githubToken}`,
+                "Accept": "application/vnd.github+json"
+            }
+        });
+
+        const contents = await resContent.json();
+        if (!Array.isArray(contents)) {
+            return mzazireply(`[ x ] Failed to fetch repository contents.`);
+        }
+
+        let listFiles = contents.map(v => `📄 ${v.name}`).join("\n");
+        let total = contents.length;
+        let status = repoInfo.private ? "Private" : "Public";
+        let createdAt = new Date(repoInfo.created_at).toLocaleString('id-ID');
+
+        mzazireply(`*Repository Info*\n\n` +
+            `• Name: ${repoInfo.name}\n` +
+            `• Status: ${status}\n` +
+            `• Created: ${createdAt}\n` +
+            `• Total Files: ${total}\n\n` +
+            `*Files:*\n${listFiles}`);
+    } catch (e) {
+        console.error(e);
+        mzazireply("[ x ] An error occurred while checking the repository.");
+    }
+}
+break;
+
+case 'delrepo': {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (!text) return mzazireply("[ x ] *Invalid format!*\nUse: .delrepo <repository_name>");
+
+    const repoName = text.trim();
+    const username = global.githubUsername; // make sure this is set in settings.js
+
+    try {
+        const res = await fetch(`https://api.github.com/repos/${username}/${repoName}`, {
+            method: "DELETE",
+            headers: {
+                "Authorization": `token ${global.githubToken}`,
+                "Accept": "application/vnd.github+json"
+            }
+        });
+
+        if (res.status === 204) {
+            mzazireply(`[ ✓ ] Repository *${repoName}* deleted successfully.`);
+        } else if (res.status === 404) {
+            mzazireply(`[ x ] Repository *${repoName}* not found.`);
+        } else {
+            const error = await res.json();
+            console.log(error);
+            mzazireply("[ x ] Failed to delete repository.");
+        }
+    } catch (err) {
+        console.error(err);
+        mzazireply("[ x ] An error occurred while deleting the repository.");
+    }
+}
+break;
+    case 'listrepo': {
+    if (!isCreator) return mzazireply(mesg.own);
+
+    try {
+        const res = await fetch(`https://api.github.com/user/repos`, {
+            headers: {
+                "Authorization": `token ${global.githubToken}`,
+                "Accept": "application/vnd.github+json"
+            }
+        });
+        const data = await res.json();
+
+        if (!Array.isArray(data)) return mzazireply("[ x ] Failed to fetch repositories!");
+
+        if (data.length === 0) return mzazireply("No repositories found.");
+
+        const list = data.map((repo, i) =>
+            `*${i + 1}. ${repo.name}*\n> ${repo.private ? 'Private' : 'Public'}\n> ${repo.html_url}`
+        ).join("\n\n");
+
+        mzazireply(`*GitHub Repository List:*\n\n${list}`);
+    } catch (err) {
+        console.error(err);
+        mzazireply("[ x ] An error occurred while fetching data.");
+    }
+}
+break;
+
+case 'createweb2':
+case 'cweb2': {
+    if (!isSellerWeb && !isCreator) return mzazireply(mesg.slr);
+    if (!text) return example('<webName>')
+    if (!qmsg || !/html/.test(qmsg.mimetype)) return mzazireply('Reply to the .html file')
+
+    const webName = text.trim().toLowerCase().replace(/[^a-z0-9-_]/g, '')
+    const repositoryName = `${webName}-website` // Repository name to be created
+
+    // 1. Create a repository on GitHub if it doesn't exist
+    const githubApiUrl = 'https://api.github.com/user/repos'
+    const headers = {
+        Authorization: `token ${global.githubToken}`,
+        'Content-Type': 'application/json',
+    }
+
+    const createRepoPayload = {
+        name: repositoryName,
+        private: false, // Choose private or public as needed
+        auto_init: true, // Initialize repository with README
+        gitignore_template: 'Node' // Adjust template if necessary
+    }
+
+    try {
+        await reactLoading(m);
+        // Check if repository already exists
+        const repoRes = await fetch(githubApiUrl, {
+            method: 'POST',
+            headers,
+            body: JSON.stringify(createRepoPayload),
+        })
+
+        if (repoRes.status === 422) {
+            return mzazireply(`[ x ] A repository with the name *${repositoryName}* already exists.`)
+        }
+
+        const repoData = await repoRes.json()
+
+        // 2. Download file from the quoted message
+        const quotedFile = await neo.downloadMediaMessage(qmsg)
+        const filesToUpload = []
+
+        // 3. Handle ZIP and HTML files
+        if (qmsg.mimetype.includes('zip')) {
+            const zipBuffer = Buffer.from(quotedFile)
+            const directory = await unzipper.Open.buffer(zipBuffer)
+
+            for (const file of directory.files) {
+                if (file.type === 'File') {
+                    const content = await file.buffer()
+                    const filePath = file.path.replace(/^\/+/, '').replace(/\\/g, '/')
+                    filesToUpload.push({
+                        file: filePath,
+                        data: content.toString('base64'),
+                        encoding: 'base64'
+                    })
+                }
+            }
+
+            if (!filesToUpload.some(x => x.file.toLowerCase().endsWith('index.html'))) {
+                return mzazireply('index.html file not found in the ZIP structure.')
+            }
+
+        } else if (qmsg.mimetype.includes('html')) {
+            filesToUpload.push({
+                file: 'index.html',
+                data: Buffer.from(quotedFile).toString('base64'),
+                encoding: 'base64'
+            })
+        } else {
+            return mzazireply('Unrecognized file. Send a .zip or .html file.')
+        }
+
+        // 4. Add files to the GitHub repository
+        const githubRepoUrl = `https://api.github.com/repos/${global.githubUsername}/${repositoryName}/contents`
+        for (let file of filesToUpload) {
+            const fileUrl = `${githubRepoUrl}/${file.file}`
+            await fetch(fileUrl, {
+                method: 'PUT',
+                headers,
+                body: JSON.stringify({
+                    message: `Add ${file.file}`,
+                    content: file.data,
+                }),
+            }).catch(() => {
+                return mzazireply(`[ x ] Failed to upload file ${file.file} to GitHub.`)
+            })
+        }
+
+        // 5. Enable GitHub Pages
+        const enablePagesUrl = `https://api.github.com/repos/${global.githubUsername}/${repositoryName}/pages`
+        await fetch(enablePagesUrl, {
+            method: 'POST',
+            headers,
+            body: JSON.stringify({
+                source: {
+                    branch: 'main',
+                    path: '/',
+                }
+            })
+        })
+
+        mzazireply(`[ ✓ ] Website successfully created on GitHub Pages!\n\n🌐 URL: https://${global.githubUsername}.github.io/${repositoryName}`)
+
+    } catch (error) {
+        console.log('Error:', error)
+        mzazireply(`[ x ] An error occurred while deploying to GitHub Pages.`)
+    }
+}
+break;
+
+case 'listweb': {
+    if (!isCreator && !isSellerWeb) return mzazireply(mesg.slr);
+    const headers = {
+        Authorization: `Bearer ${global.vercelToken}`
+    }
+
+    const res = await fetch('https://api.vercel.com/v9/projects', {
+        headers
+    })
+    const data = await res.json()
+
+    if (!data.projects || data.projects.length === 0) return mzazireply('No websites found.')
+
+    let teks = '*🌐 Your Website List:*\n\n'
+    for (let proj of data.projects) {
+        teks += `• ${proj.name} → https://${proj.name}.vercel.app\n`
+    }
+
+    mzazireply(teks)
+}
+break;
+
+case 'scweb':
+case 'gethtml': {
+    if (!isCreator && !isSellerWeb) return mzazireply(mesg.slr);
+    if (!text) return mzazireply(`Enter the domain`);
+
+    try {
+        await reactLoading(m);
+        let res = await fetch(text);
+        if (!res.ok) return mzazireply('[ x ] Failed to fetch data from that URL');
+        let html = await res.text();
+
+        const filePath = path.join(__dirname, '../temp/html_dump.html');
+        fs.writeFileSync(filePath, html);
+
+        await neo.sendMessage(m.chat, {
+            document: fs.readFileSync(filePath),
+            mimetype: 'text/html',
+            fileName: 'source.html'
+        }, {
+            quoted: m
+        });
+
+        fs.unlinkSync(filePath); // delete after sending
+    } catch (e) {
+        console.error(e);
+        mzazireply('[ x ] An error occurred while fetching HTML\n' + e.message);
+    }
+}
+break;
+case 'delweb': {
+    if (!isCreator && !isSellerWeb) return mzazireply(mesg.slr);
+    if (!text) return example('<webName>')
+    const webName = text.trim().toLowerCase()
+
+    const headers = {
+        Authorization: `Bearer ${global.vercelToken}`
+    }
+
+    try {
+        await reactLoading(m);
+        const response = await fetch(`https://api.vercel.com/v9/projects/${webName}`, {
+            method: 'DELETE',
+            headers
+        })
+
+        if (response.status === 200 || response.status === 204) {
+            return mzazireply(`[ ✓ ] Website *${webName}* successfully deleted from Vercel.`)
+        } else if (response.status === 404) {
+            return mzazireply(`[ x ] Website *${webName}* not found in your Vercel account.`)
+        } else if (response.status === 403 || response.status === 401) {
+            return mzazireply(`[ ! ] Vercel token is invalid or you don't have access to this project.`)
+        } else {
+            let result = {}
+            try {
+                result = await response.json()
+            } catch (e) {}
+            return mzazireply(`[ x ] Failed to delete website:\n${result.error?.message || 'Unknown error'}`)
+        }
+
+    } catch (err) {
+        console.error(err)
+        mzazireply(`An error occurred while trying to delete:\n${err.message}`)
+    }
+}
+break;
+
+case 'cweb':
+case 'createweb': {
+    if (!isCreator && !isSellerWeb) return mzazireply(mesg.slr);
+    if (!text) return example('<webName>')
+    if (!qmsg || !/zip|html/.test(qmsg.mimetype)) return mzazireply('Reply to the .zip or .html file')
+
+    const webName = text.trim().toLowerCase().replace(/[^a-z0-9-_]/g, '')
+    const domainCheckUrl = `https://${webName}.vercel.app`
+
+    try {
+        await reactLoading(m);
+        const check = await fetch(domainCheckUrl)
+        if (check.status === 200) return mzazireply(`[ x ] The web name *${webName}* is already taken. Please use another name.`)
+    } catch (e) {}
+
+    const quotedFile = await neo.downloadMediaMessage(qmsg)
+    const filesToUpload = []
+
+    if (qmsg.mimetype.includes('zip')) {
+        const zipBuffer = Buffer.from(quotedFile)
+        const directory = await unzipper.Open.buffer(zipBuffer)
+
+        for (const file of directory.files) {
+            if (file.type === 'File') {
+                const content = await file.buffer()
+                const filePath = file.path.replace(/^\/+/, '').replace(/\\/g, '/')
+                filesToUpload.push({
+                    file: filePath,
+                    data: content.toString('base64'),
+                    encoding: 'base64'
+                })
+            }
+        }
+
+        if (!filesToUpload.some(x => x.file.toLowerCase().endsWith('index.html'))) {
+            return mzazireply('index.html file not found in the ZIP structure.')
+        }
+
+    } else if (qmsg.mimetype.includes('html')) {
+        filesToUpload.push({
+            file: 'index.html',
+            data: Buffer.from(quotedFile).toString('base64'),
+            encoding: 'base64'
+        })
+    } else {
+        return mzazireply('Unrecognized file. Send a .zip or .html file.')
+    }
+
+    const headers = {
+        Authorization: `Bearer ${global.vercelToken}`,
+        'Content-Type': 'application/json'
+    }
+
+    await fetch('https://api.vercel.com/v9/projects', {
+        method: 'POST',
+        headers,
+        body: JSON.stringify({
+            name: webName
+        })
+    }).catch(() => {})
+
+    const deployRes = await fetch('https://api.vercel.com/v13/deployments', {
+        method: 'POST',
+        headers,
+        body: JSON.stringify({
+            name: webName,
+            project: webName,
+            files: filesToUpload,
+            projectSettings: {
+                framework: null
+            }
+        })
+    })
+
+    const deployData = await deployRes.json().catch(() => null)
+    if (!deployData || !deployData.url) {
+        console.log('Deploy Error:', deployData)
+        return mzazireply(`Failed to deploy to Vercel:\n${JSON.stringify(deployData)}`)
+    }
+
+    mzazireply(`[ ✓ ] Website successfully created!\n\n🌐 URL: https://${webName}.vercel.app`)
+}
+break;
+
+case "addsellerweb": {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (!args[0]) return example(`6285659202292`)
+    let prrkek = q.split("|")[0].replace(/[^0-9]/g, '')
+    let ceknya = await neo.onWhatsApp(prrkek) // Check if the number ${prrkek} is registered on WhatsApp
+    if (ceknya.length == 0) return reply(`Please enter a valid number registered on WhatsApp!!!`)
+    swebnumber.push(prrkek)
+    fs.writeFileSync("./database/sellerweb.json", JSON.stringify(swebnumber))
+    mzazireply(`Successfully Added ${prrkek} To Seller Web`)
+}
+break;
+
+case "delsellerweb": {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (!args[0]) return example(`6285659202292`)
+    let ya = q.split("|")[0].replace(/[^0-9]/g, '') + `@s.whatsapp.net`
+    let unp = swebnumber.indexOf(ya)
+    swebnumber.splice(unp, 1)
+    fs.writeFileSync("./database/sellerweb.json", JSON.stringify(swebnumber))
+    mzazireply(`Successfully Removed ${ya} From Seller Web`)
+}
+break;
+
+case "listsellerweb": {
+    if (!isCreator) return mzazireply(mesg.own);
+    let data = fs.readFileSync("./database/sellerweb.json", 'utf8')
+    let json = JSON.parse(data)
+    let tekt = "List of Seller Web:\n"
+    json.forEach((item, index) => {
+        tekt += `\`${index + 1}.${item.replace(/@s\.whatsapp\.net/g, '')}\`\n`})
+    mzazireply(tekt)
+}
+break;
+
+case 'info': {
+    const name = pushname || 'No Name';
+    const senderNumber = m.sender.split('@')[0];
+
+    const iscreator = isCreator ? '☑️ Creator Bot' : '';
+    const issellerweb = isSellerWeb ? '☑️ Seller Web' : '';
+    const issellersc = isSellerSc ? '☑️ Seller Sc' : '';
+    const status = isCreator || isSellerWeb || isSellerSc ?
+        [iscreator, issellerweb, issellersc].filter(v => v).join(' ') :
+        '[ x ] Free User';
+
+    mzazireply(
+        `┏━━〔 *NEO USER INFO* 〕━━┓
+
+┏❐  *Identity*
+┃ ▸  🪪 *Name*   : ${name}
+┃ ▸  ☎️ *Number*  : ${senderNumber}
+
+┏❐  *Status*
+┃ ▸  ${status}
+┗❐───────────────────
+Powered by *Mzazi Tech Inc.*
+┗━━━━━━━━━━━━━━━━━━━━━┛`);
+}
+break;
+
+//——————————[ Cpanel Menu ]——————————//
+case "cadmin": {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (!text) return example("adminneo,628XXX");
+
+    let [username, nomor] = text.split(",").map(v => v.trim());
+    if (!username || !nomor) return example("adminneo,628XXX");
+
+    nomor = nomor.replace(/\D/g, "") + "@s.whatsapp.net";
+    username = username.toLowerCase();
+
+    try {
+        await reactLoading(m);
+        let onWa = await neo.onWhatsApp(nomor.split("@")[0]);
+        if (onWa.length < 1) return mzazireply("Number not registered on WhatsApp.");
+    } catch (err) {
+        return mzazireply("Failed to check WhatsApp number: " + err.message);
+    }
+
+    const email = `${username}@zass.id`;
+    const name = func.capital(username) + " Admin";
+    const password = `${username}MoneyHeistSecure001`;
+
+    try {
+        const userRes = await fetch(domain + "/api/application/users", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                Authorization: `Bearer ${apikey}`
+            },
+            body: JSON.stringify({
+                email,
+                username,
+                first_name: name,
+                last_name: "Staff",
+                language: "en",
+                password,
+                root_admin: true
+            })
+        });
+
+        if (!userRes.ok) throw new Error(`Failed to create admin account (${userRes.status})`);
+        const userData = await userRes.json();
+        if (!userData?.attributes?.id) throw new Error("Admin user ID not found.");
+
+        let caption = `*NEO ADMIN PANEL*
+ ͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏\n\n` +
+            `*Username:* ${username}\n` +
+            `*Password:* ${password}\n` +
+            `*Admin ID:* ${userData.attributes.id}\n` +
+            `*Email:* ${email}\n\n` +
+            `*Access:* Full Root Admin\n` +
+            `*Panel:* ${global.domain}\n\n` +
+            `┏❐  *ADMIN RULES* ❖─\n` +
+            `│ 1. Protect user data.\n` +
+            `│ 2. Do not peek into others' servers.\n` +
+            `│ 3. Report bugs to Owner.\n` +
+            `┗❐Welcome to MoneyHeistLabs.`;
+        await neo.sendButton(nomor, {
+            text: caption,
+            buttons: [{
+                    name: 'cta_copy',
+                    buttonParamsJson: JSON.stringify({
+                        display_text: 'Copy Username',
+                        copy_code: username
+                    })
+                },
+                {
+                    name: 'cta_copy',
+                    buttonParamsJson: JSON.stringify({
+                        display_text: 'Copy Password',
+                        copy_code: password
+                    })
+                },
+                {
+                    name: 'cta_url',
+                    buttonParamsJson: JSON.stringify({
+                        display_text: 'Login to Panel',
+                        url: global.domain
+                    })
+                }
+            ]
+        }, {
+            quoted: qwa
+        });
+
+        mzazireply(`[ ✓ ] *Admin account @${username}* successfully created & sent to *${nomor.split("@")[0]}*`, m.chat, {
+            mentions: [nomor]
+        });
+
+    } catch (err) {
+        console.error("ERR:", err);
+        return mzazireply("A system error occurred while creating admin:\n" + err.message);
+    }
+}
+break;
+
+case "deladmin": {
+    if (!isCreator) return mzazireply(mesg.own);
+
+    if (text && !isNaN(text)) {
+        const id = parseInt(text);
+        try {
+            await reactLoading(m);
+            const getRes = await fetch(`${domain}/api/application/users/${id}`, {
+                headers: {
+                    Authorization: `Bearer ${apikey}`
+                }
+            });
+            if (!getRes.ok) throw new Error("Failed to fetch admin data, make sure the ID is correct.");
+
+            const userData = await getRes.json();
+            const delRes = await fetch(`${domain}/api/application/users/${id}`, {
+                method: "DELETE",
+                headers: {
+                    Authorization: `Bearer ${apikey}`
+                }
+            });
+
+            if (!delRes.ok) throw new Error(`Failed to delete admin (${delRes.status})`);
+
+            let msg = `*MZAZI ADMIN REMOVAL*\n\n` +
+                `*Username:* ${userData.attributes.username}\n` +
+                `*Admin ID:* ${id}\n` +
+                `*Email:* ${userData.attributes.email}\n\n` +
+                `Admin has been removed from the panel system.\n` +
+                `┗━━━━━━━━━━━━━━━⭓`;
+            return mzazireply(msg);
+
+        } catch (err) {
+            console.error("DEL ADMIN ERROR:", err);
+            return mzazireply("Failed to delete admin:\n" + err.message);
+        }
+    }
+
+    try {
+        const res = await fetch(`${domain}/api/application/users`, {
+            headers: {
+                Authorization: `Bearer ${apikey}`
+            }
+        });
+        const data = await res.json();
+        const admins = data.data.filter(v => v.attributes.root_admin === true);
+        if (!admins.length) return mzazireply("No root admins found.");
+
+        const button = [{
+            name: "single_select",
+            buttonParamsJson: JSON.stringify({
+                title: "Choose",
+                sections: [{
+                    title: "Admin List",
+                    highlight_label: "Super Admin",
+                    rows: [
+                        ...admins.slice(0, 10).map(v => ({
+                            title: `${v.attributes.username}`,
+                            id: `.deladmin ${v.attributes.id}`
+                        })),
+                        {
+                            title: "View All Admins",
+                            id: `.listadmin`
+                        }
+                    ]
+                }]
+            })
+        }];
+        await neo.sendButton(m.chat, {
+            text: "Please select the admin to delete:",
+            footer: global.foot,
+            buttons: button,
+        }, {
+            quoted: m
+        });
+    } catch (err) {
+        console.error("DELADMIN SINGLE SELECT ERROR:", err);
+        return mzazireply("[ x ] Failed to load admin list:\n" + err.message);
+    }
+}
+break;
+    case "listadmin": {
+    if (!isCreator) return mzazireply(mesg.own);
+
+    try {
+        await reactLoading(m);
+        const userRes = await fetch(`${domain}/api/application/users`, {
+            headers: {
+                Authorization: `Bearer ${apikey}`
+            }
+        });
+        if (!userRes.ok) throw new Error(`Failed to fetch user data (${userRes.status})`);
+
+        const users = (await userRes.json()).data;
+        const rootAdmins = users.filter(u => u.attributes.root_admin);
+
+        if (rootAdmins.length === 0) return mzazireply("No root admins registered in the panel.");
+
+        let teks = `*NEO ADMIN LIST*\n\n`;
+        rootAdmins.forEach((admin, i) => {
+            const u = admin.attributes;
+            teks += `*${i + 1}. ${u.username}*\n`;
+            teks += `*ID:* ${u.id}\n`;
+            teks += `*Email:* ${u.email}\n`;
+            teks += `*Name:* ${u.first_name} ${u.last_name}\n`;
+            teks += `*Admin:* Active\n\n`;
+        });
+        const button = [{
+            name: "single_select",
+            buttonParamsJson: JSON.stringify({
+                title: "Delete Root Admin",
+                sections: [{
+                    title: "Select Admin to Delete",
+                    rows: rootAdmins.map((admin, i) => {
+                        const u = admin.attributes;
+                        return {
+                            header: u.username,
+                            title: `Delete ${u.username}`,
+                            description: `ID: ${u.id} • ${u.email}`,
+                            id: `.deladmin ${u.id}`
+                        };
+                    })
+                }]
+            })
+        }];
+        await neo.sendButton(m.chat, {
+            image: {
+                url: imgthumb
+            },
+            caption: `⟪ ${global.botname} - Admin List ⟫\n\n${teks}`,
+            footer: global.foot,
+            buttons: button
+        }, {
+            quoted: qwa
+        });
+    } catch (err) {
+        console.error("LIST ADMIN ERROR:", err);
+        return mzazireply("Failed to fetch admin data:\n" + err.message);
+    }
+}
+break;
+
+case "1gb": case "2gb": case "3gb": case "4gb": case "5gb": 
+case "6gb": case "7gb": case "8gb": case "9gb": case "10gb": 
+case "unlimited": case "unli": {
+    if (!isCreator) return mzazireply(`Brooo 🤌, hii feature ni kwa wale walinunua reseller panel tu`);
+    if (!text) return mzazireply(`*Example bro:* .username,2547XXX`)
+
+    let nomor, usernem;
+    let tek = text.split(",");
+    if (tek.length > 1) {
+        let [users, nom] = tek.map(t => t.trim());
+        if (!users || !nom) return mzazireply(`*Example bro:* ${cmd} username,2547XXX`)
+        nomor = nom.replace(/[^0-9]/g, "") + "@s.whatsapp.net";
+        usernem = users.toLowerCase();
+    } else {
+        usernem = text.toLowerCase();
+        nomor = m.isGroup ? m.sender : m.chat
+    }
+
+    // Check if number exists on WhatsApp
+    try {
+        var onWa = await neo.onWhatsApp(nomor.split("@")[0]);
+        if (onWa.length < 1) return mzazireply("Hii number sio ya WhatsApp bro 😅!");
+    } catch (err) {
+        return mzazireply("Eish, shida ikoje bro: " + err.message);
+    }
+
+    // Map RAM, Disk, CPU
+    const resourceMap = {
+        "1gb": { ram: "1000", disk: "1000", cpu: "40" },
+        "2gb": { ram: "2000", disk: "1000", cpu: "60" },
+        "3gb": { ram: "3000", disk: "2000", cpu: "80" },
+        "4gb": { ram: "4000", disk: "2000", cpu: "100" },
+        "5gb": { ram: "5000", disk: "3000", cpu: "120" },
+        "6gb": { ram: "6000", disk: "3000", cpu: "140" },
+        "7gb": { ram: "7000", disk: "4000", cpu: "160" },
+        "8gb": { ram: "8000", disk: "4000", cpu: "180" },
+        "9gb": { ram: "9000", disk: "5000", cpu: "200" },
+        "10gb": { ram: "10000", disk: "5000", cpu: "220" },
+        "unlimited": { ram: "0", disk: "0", cpu: "0" }
+    };
+    
+    let { ram, disk, cpu } = resourceMap[command] || { ram: "0", disk: "0", cpu: "0" };
+
+    let username = usernem.toLowerCase();
+    let email = username + "@mzazi.shop";
+    let name = username + " Server";
+    let password = username + "mzazi001";
+
+    try {
+        // 1️⃣ Create user on panel
+        let f = await fetch(domain + "/api/application/users", {
+            method: "POST",
+            headers: { 
+                "Accept": "application/json", 
+                "Content-Type": "application/json", 
+                "Authorization": "Bearer " + apikey 
+            },
+            body: JSON.stringify({ email, username, first_name: name, last_name: "Server", language: "en", password })
+        });
+        let data = await f.json();
+        if (data.errors) return mzazireply("Shida bro: " + JSON.stringify(data.errors[0], null, 2));
+        let user = data.attributes;
+
+        // 2️⃣ Get egg data safely
+        let f1 = await fetch(`${domain}/api/application/nests/${nestid}/eggs/${egg}`, {
+            method: "GET",
+            headers: { 
+                "Accept": "application/json", 
+                "Content-Type": "application/json", 
+                "Authorization": "Bearer " + apikey 
+            }
+        });
+        if (!f1.ok) return mzazireply(`Eish bro, failed kuchukua egg. Status code: ${f1.status}`);
+        let data2 = await f1.json();
+        if (!data2 || !data2.attributes || !data2.attributes.startup) 
+            return mzazireply("Bro, hatuwezi kupata startup command, angalia egg ID na API key yako!");
+
+        let startup_cmd = data2.attributes.startup;
+
+        // 3️⃣ Create server
+        let f2 = await fetch(domain + "/api/application/servers", {
+            method: "POST",
+            headers: { 
+                "Accept": "application/json", 
+                "Content-Type": "application/json", 
+                "Authorization": "Bearer " + apikey 
+            },
+            body: JSON.stringify({
+                name,
+                description: "created by mzazi tech",
+                user: user.id,
+                egg: parseInt(egg),
+                docker_image: "ghcr.io/parkervcp/yolks:nodejs_20",
+                startup: startup_cmd,
+                environment: { INST: "npm", USER_UPLOAD: "0", AUTO_UPDATE: "0", CMD_RUN: "npm start" },
+                limits: { memory: ram, swap: 0, disk, io: 500, cpu },
+                feature_limits: { databases: 5, backups: 5, allocations: 5 },
+                deploy: { locations: [parseInt(loc)], dedicated_ip: false, port_range: [] },
+            })
+        });
+        let result = await f2.json();
+        if (result.errors) return mzazireply("Bro, error: " + JSON.stringify(result.errors[0], null, 2));
+
+        let server = result.attributes;
+        let orang = nomor;
+
+        // Send success message
+        if (orang !== m.chat) {
+            await mzazireply(`Yo bro ✅, account ya panel ndio hii!\nData imeforwardiwa kwa hii number ${nomor.split("@")[0]}`);
+        }
+
+        let teks = `
+*Yo, hii ndio account yako ya panel 📦*
+
+📡 Server ID: ${server.id}
+👤 Username: \`${user.username}\`
+🔐 Password: \`${password}\`
+
+
+*⚙️ Server Specs*
+- RAM: ${ram == "0" ? "Unlimited" : ram / 1000 + "GB"}
+- Disk: ${disk == "0" ? "Unlimited" : disk / 1000 + "GB"}
+- CPU: ${cpu == "0" ? "Unlimited" : cpu + "%"}
+- Panel: ${global.domain}
+
+*Rules bro:*  
+- Active for 30 days  
+- Keep data private  
+- Warranty 15 days (1x replace)  
+- Claim requires proof of purchase
+`;
+
+        await neo.sendMessage(m.chat, { text: teks }, { quoted: m });
+
+    } catch (err) {
+        return mzazireply("Bro, something went wrong 😭: " + err.message);
+    }
+}
+break;
+
+
+     case "deluser": {
+    if (!isCreator) return mzazireply(mesg.own);
+
+    try {
+        await reactLoading(m);
+        const getAllPanelData = async (endpoint) => {
+            let page = 1;
+            let allData = [];
+            let hasMore = true;
+
+            while (hasMore) {
+                const res = await fetch(`${domain}/api/application/${endpoint}?page=${page}&per_page=100`, {
+                    headers: {
+                        Authorization: `Bearer ${apikey}`
+                    }
+                });
+                const json = await res.json();
+                if (!json?.data) break;
+
+                allData.push(...json.data);
+                hasMore = json.meta?.pagination?.current_page < json.meta?.pagination?.total_pages;
+                page++;
+            }
+
+            return allData;
+        };
+
+        const users = await getAllPanelData("users");
+
+        if (!text) {
+            let teks = `*Select user to delete from panel...*`;
+
+            // Split users into sections (max 25 rows per section)
+            const rowsPerSection = 25;
+            const sections = [];
+
+            for (let i = 0; i < users.length; i += rowsPerSection) {
+                const slice = users.slice(i, i + rowsPerSection);
+                sections.push({
+                    title: `Panel User ${i + 1} - ${i + slice.length}`,
+                    highlight_label: "Click to delete",
+                    rows: slice.map((u) => ({
+                        title: u.attributes.username,
+                        description: `ID: ${u.attributes.id} • ${u.attributes.email}`,
+                        id: `.deluser ${u.attributes.username}`
+                    }))
+                });
+            }
+
+            const button = [{
+                name: "single_select",
+                buttonParamsJson: JSON.stringify({
+                    title: "Choose",
+                    sections
+                })
+            }];
+            await neo.sendButton(m.chat, {
+                text: teks,
+                footer: global.foot,
+                buttons: button
+            }, {
+                quoted: qwa
+            });
+        }
+
+        const username = text.trim().toLowerCase();
+        const targetUser = users.find(u => u.attributes.username === username);
+        if (!targetUser) return mzazireply(`[ x ] User *${username}* not found in panel.`);
+
+        const allServers = await getAllPanelData("servers");
+        const userServers = allServers.filter(s => s.attributes.user === targetUser.attributes.id);
+
+        for (let s of userServers) {
+            await fetch(`${domain}/api/application/servers/${s.attributes.id}`, {
+                method: "DELETE",
+                headers: {
+                    Authorization: `Bearer ${apikey}`
+                }
+            });
+        }
+
+        await fetch(`${domain}/api/application/users/${targetUser.attributes.id}`, {
+            method: "DELETE",
+            headers: {
+                Authorization: `Bearer ${apikey}`
+            }
+        });
+
+        return mzazireply(`[ ✓ ] *User ${username}* and all their servers successfully deleted from panel.`);
+
+    } catch (err) {
+        console.error("DELUSER ERROR:", err);
+        return mzazireply("[ x ] Failed to delete user/server:\n" + err.message);
+    }
+}
+break;
+
+case "listpanel": {
+    if (!isCreator && !isGcPanel) return mzazireply(mesg.own);
+    try {
+        await reactLoading(m);
+        let page = 1,
+            servers = [],
+            keepFetching = true;
+
+        while (keepFetching) {
+            const res = await fetch(`${domain}/api/application/servers?page=${page}&per_page=100`, {
+                headers: {
+                    Authorization: `Bearer ${apikey}`
+                }
+            });
+
+            if (!res.ok) throw new Error(`Failed to fetch servers page ${page} (${res.status})`);
+            const data = await res.json();
+
+            servers.push(...data.data);
+            keepFetching = data.meta.pagination.current_page < data.meta.pagination.total_pages;
+            page++;
+        }
+
+        if (!servers.length) return mzazireply("No servers in panel yet.");
+
+        let teks = `╭──❖「 *MZAZI SERVER LIST (${servers.length})* 」`;
+
+        for (let i = 0; i < servers.length; i++) {
+            const s = servers[i].attributes;
+            teks += `\n├─ ${i + 1}. *${s.name}*\n`;
+            teks += `│ SID: ${s.id} | UID: ${s.user}\n`;
+            teks += `│ Spec: ${s.limits.memory || "Unli"}MB RAM / ${s.limits.disk || "Unli"}MB Disk / ${s.limits.cpu || "Unli"}% CPU\n`;
+            teks += `│ Suspended: ${s.suspended ? "✓" : "x"}\n`;
+            teks += `│ Created: ${moment(s.created_at).format("DD-MM-YYYY")}\n`;
+        }
+
+        teks += `\n╰────────────⭓`;
+        mzazireply(teks);
+
+    } catch (err) {
+        console.error("ERR LIST PANEL:", err);
+        mzazireply("An error occurred:\n" + err.message);
+    }
+}
+break;
+
+case "delpanel": {
+    if (!isCreator) return mzazireply(mesg.own);
+
+    try {
+        // Fetch all servers from all pages
+        const getAllServers = async () => {
+            let page = 1;
+            let all = [];
+            let hasMore = true;
+
+            while (hasMore) {
+                const res = await fetch(`${domain}/api/application/servers?page=${page}&per_page=100`, {
+                    headers: {
+                        Authorization: `Bearer ${apikey}`
+                    }
+                });
+                const json = await res.json();
+                all = all.concat(json.data);
+                hasMore = json.meta.pagination.current_page < json.meta.pagination.total_pages;
+                page++;
+            }
+
+            return all;
+        };
+
+        const servers = await getAllServers();
+
+        if (!text) {
+            const rowsPerSection = 25;
+            const sections = [];
+
+            for (let i = 0; i < servers.length; i += rowsPerSection) {
+                const slice = servers.slice(i, i + rowsPerSection);
+                sections.push({
+                    title: `Server ${i + 1} - ${i + slice.length}`,
+                    highlight_label: "Click to delete",
+                    rows: slice.map(srv => {
+                        const s = srv.attributes;
+                        return {
+                            title: s.name,
+                            description: `SID: ${s.id} • UID: ${s.user}`,
+                            id: `.delpanel ${s.id}`
+                        };
+                    })
+                });
+            }
+
+            const button = [{
+                name: "single_select",
+                buttonParamsJson: JSON.stringify({
+                    title: "Choose",
+                    sections
+                })
+            }];
+            await neo.sendButton(m.chat, {
+                text: "Select the server to delete from panel.",
+                footer: global.foot,
+                buttons: button
+            }, {
+                quoted: qwa
+            });
+        }
+
+        // Direct delete if SID is provided
+        const target = servers.find(v => Number(text) === v.attributes.id);
+        if (!target) return mzazireply("[ x ] Server ID not found.");
+
+        const s = target.attributes;
+
+        // Delete server
+        await fetch(`${domain}/api/application/servers/${s.id}`, {
+            method: "DELETE",
+            headers: {
+                "Authorization": `Bearer ${apikey}`,
+                "Accept": "application/json",
+                "Content-Type": "application/json"
+            }
+        });
+
+        // Delete user (if first name matches server name)
+        const userRes = await fetch(`${domain}/api/application/users`, {
+            headers: {
+                Authorization: `Bearer ${apikey}`
+            }
+        });
+        const userJson = await userRes.json();
+        const targetUser = userJson.data.find(u => u.attributes.first_name.toLowerCase() === s.name.toLowerCase());
+
+        if (targetUser) {
+            await fetch(`${domain}/api/application/users/${targetUser.attributes.id}`, {
+                method: "DELETE",
+                headers: {
+                    "Authorization": `Bearer ${apikey}`,
+                    "Accept": "application/json",
+                    "Content-Type": "application/json"
+                }
+            });
+        }
+
+        const teks = `╭───❖「 *NEO SERVER REMOVED* 」\n` +
+            `├─ *${s.name}* successfully deleted!\n` +
+            `│ SID: ${s.id} | UID: ${s.user}\n` +
+            `│ Spec: ${s.limits.memory || "Unli"}MB RAM / ${s.limits.disk || "Unli"}MB Disk / ${s.limits.cpu || "Unli"}% CPU\n` +
+            `│ Suspended: ${s.suspended ? "✓" : "x"}\n` +
+            `│ Created: ${moment(s.created_at).format("DD-MM-YYYY")}\n` +
+            `╰────────────⭓`;
+
+        return mzazireply(teks);
+
+    } catch (err) {
+        console.error("ERR DEL PANEL:", err);
+        return mzazireply("[ x ] An error occurred:\n" + err.message);
+    }
+}
+break;
+
+case "clearpanel": {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (!text) return example(`1,4 or admin or 1,admin,3`);
+
+    await reactLoading(m);
+    await mzazireply(`Processing deletion of all users & servers...\nExcept: ${text}`);
+
+    try {
+        const headers = {
+            Authorization: `Bearer ${apikey}`,
+            "Content-Type": "application/json",
+            Accept: "application/json",
+        };
+
+        const getUsers = async () => {
+            const res = await axios.get(`${domain}/api/application/users`, {
+                headers
+            });
+            return res.data.data;
+        };
+
+        const getServers = async () => {
+            const res = await axios.get(`${domain}/api/application/servers`, {
+                headers
+            });
+            return res.data.data;
+        };
+
+        const deleteServer = async (uuid) => {
+            try {
+                await axios.delete(`${domain}/api/application/servers/${uuid}`, {
+                    headers
+                });
+            } catch (err) {
+                console.log(`Failed to delete server ${uuid}:`, err.response?.data || err.message);
+            }
+        };
+
+        const deleteUser = async (id) => {
+            try {
+                await axios.delete(`${domain}/api/application/users/${id}`, {
+                    headers
+                });
+            } catch (err) {
+                console.log(`Failed to delete user ${id}:`, err.response?.data || err.message);
+            }
+        };
+
+        // === 🔑 Parse Exclude List ===
+        const excludeArgs = text.split(",").map((s) => s.trim().toLowerCase());
+        const excludeIds = excludeArgs.filter((x) => /^\d+$/.test(x)).map((x) => parseInt(x));
+        const excludeAdmin = excludeArgs.includes("admin");
+
+        const users = await getUsers();
+        const servers = await getServers();
+        let totalDeleted = 0;
+
+        for (const user of users) {
+            const {
+                id,
+                username,
+                root_admin
+            } = user.attributes;
+
+            // skip if in excludeIds
+            if (excludeIds.includes(id)) {
+                continue;
+            }
+
+            if (excludeAdmin && root_admin === true) {
+                continue;
+            }
+
+            const userServers = servers.filter((srv) => srv.attributes.user === id);
+
+            for (const srv of userServers) {
+                await deleteServer(srv.attributes.id);
+                totalDeleted++;
+            }
+
+            await deleteUser(id);
+        }
+
+        await mzazireply(`[ ✓ ] Done! Deleted ${totalDeleted} servers & users (except ${text}) from panel.`);
+    } catch (err) {
+        return mzazireply(
+            `An error occurred:\n${JSON.stringify(err.response?.data || err.message, null, 2)}`
+        );
+    }
+}
+break;
+
+case "addakses": case "addaksesgc": {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (!m.isGroup) return mzazireply(mesg.gc);
+    const input = m.chat
+    if (sellerpanel.includes(input)) return mzazireply(`This group already has reseller panel access!`)
+    sellerpanel.push(input)
+    await fs.writeFileSync("./database/panelseller.json", JSON.stringify(sellerpanel, null, 2))
+    mzazireply(`Successfully added reseller panel group [ ✓ ]`)
+}
+break;
+
+case "delakses": case "delaksesgc": {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (sellerpanel.length < 1) return mzazireply("No reseller panel groups")
+    if (!m.isGroup) return mzazireply(mesg.gc);
+    let input = text ? text : m.chat
+    if (input == "all") {
+        sellerpanel.length = 0
+        await fs.writeFileSync("./database/panelseller.json", JSON.stringify(sellerpanel, null, 2))
+        return mzazireply(`Successfully deleted all reseller panel groups [ ✓ ]`)
+    }
+    if (!sellerpanel.includes(input)) return mzazireply(`This group is not a reseller panel group!`)
+    let posi = sellerpanel.indexOf(input)
+    await sellerpanel.splice(posi, 1)
+    await fs.writeFileSync("./database/panelseller.json", JSON.stringify(sellerpanel, null, 2))
+    mzazireply(`Successfully deleted reseller panel group [ ✓ ]`)
+}
+break;
+
+case "listakses": {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (sellerpanel.length < 1) return mzazireply("No reseller panel groups")
+    const datagc = await neo.groupFetchAllParticipating()
+    let teks = ""
+    for (let i of sellerpanel) {
+        let nama = datagc[i].subject || "Group not found"
+        teks += `\n* ${i}\n* ${nama}\n`
+    }
+    return mzazireply(teks)
+}
+break;
+
+//——————————[ Cpanel-2 Menu ]——————————//
+case "cadmin-v2": {
+    if (!isCreator) return baas(mesg.own);
+    if (!text) return example("adminneo,628XXX");
+
+    let [username, nomor] = text.split(",").map(v => v.trim());
+    if (!username || !nomor) return example("adminneo,628XXX");
+
+    nomor = nomor.replace(/\D/g, "") + "@s.whatsapp.net";
+    username = username.toLowerCase();
+
+    try {
+        await reactLoading(m);
+        let onWa = await neo.onWhatsApp(nomor.split("@")[0]);
+        if (!onWa || onWa.length === 0) return mzazireply("Number not registered on WhatsApp.");
+    } catch (err) {
+        console.error("Error checking WA number:", err);
+        return mzazireply("Failed to check WhatsApp number: " + err.message);
+    }
+
+    const email = `${username}@zass.id`;
+    const name = func.capital(username) + " Admin V2";
+    const password = `${username}MoneyHeistSecure002`;
+
+    try {
+        const response = await fetch(domain2 + "/api/application/users", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                Authorization: `Bearer ${apikey2}`
+            },
+            body: JSON.stringify({
+                email,
+                username,
+                first_name: name,
+                last_name: "Staff",
+                language: "en",
+                password,
+                root_admin: true
+            })
+        });
+
+        const resText = await response.text();
+        let userData;
+
+        try {
+            userData = JSON.parse(resText);
+        } catch (e) {
+            console.error("Failed to parse response JSON:", resText);
+            throw new Error("Failed to parse response data from panel server.");
+        }
+
+        if (!response.ok || !userData?.attributes?.id)
+            throw new Error(`Failed to create V2 admin account (status: ${response.status})`);
+
+        let caption = `*NEO ADMIN PANEL-V2
+ ͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏*\n\n` +
+            `*Username:* ${username}\n` +
+            `*Password:* ${password}\n` +
+            `*Admin ID:* ${userData.attributes.id}\n` +
+            `*Email:* ${email}\n\n` +
+            `*Access:* Full Root Admin\n` +
+            `*Panel:* ${global.domain2}\n\n` +
+            `┏❐  *ADMIN RULES* ❖─\n` +
+            `│ 1. Protect user data.\n` +
+            `│ 2. Do not peek into others' servers.\n` +
+            `│ 3. Report bugs to Owner.\n` +
+            `┗❐Welcome to MoneyHeistLabs.`;
+
+        await neo.sendButton(nomor, {
+            text: caption,
+            buttons: [{
+                    name: 'cta_copy',
+                    buttonParamsJson: JSON.stringify({
+                        display_text: 'Copy Username',
+                        copy_code: username
+                    })
+                },
+                {
+                    name: 'cta_copy',
+                    buttonParamsJson: JSON.stringify({
+                        display_text: 'Copy Password',
+                        copy_code: password
+                    })
+                },
+                {
+                    name: 'cta_url',
+                    buttonParamsJson: JSON.stringify({
+                        display_text: 'Login to Panel',
+                        url: global.domain2
+                    })
+                }
+            ]
+        }, {
+            quoted: qwa
+        });
+        mzazireply(`[ ✓ ] *Admin V2 account @${username}* successfully created & sent to *${nomor.split("@")[0]}*`, m.chat, {
+            mentions: [nomor]
+        });
+
+    } catch (err) {
+        console.error("ERR:", err);
+        return mzazireply("System error occurred while creating admin:\n" + err.message);
+    }
+}
+break;
+
+case "deladmin-v2": {
+    if (!isCreator) return mzazireply(mesg.own);
+
+    if (text && !isNaN(text)) {
+        const id = parseInt(text);
+        try {
+            await reactLoading(m);
+            const getRes = await fetch(`${domain2}/api/application/users/${id}`, {
+                headers: {
+                    Authorization: `Bearer ${apikey2}`
+                }
+            });
+            if (!getRes.ok) throw new Error("Failed to fetch admin data, make sure ID is correct.");
+
+            const userData = await getRes.json();
+            const delRes = await fetch(`${domain2}/api/application/users/${id}`, {
+                method: "DELETE",
+                headers: {
+                    Authorization: `Bearer ${apikey2}`
+                }
+            });
+
+            if (!delRes.ok) throw new Error(`Failed to delete admin (${delRes.status})`);
+
+            let msg = `*NEO ADMIN REMOVAL*\n\n` +
+                `*Username:* ${userData.attributes.username}\n` +
+                `*Admin ID:* ${id}\n` +
+                `*Email:* ${userData.attributes.email}\n\n` +
+                `Admin has been removed from the panel system.\n` +
+                `┗━━━━━━━━━━━━━━━⭓`;
+            return mzazireply(msg);
+
+        } catch (err) {
+            console.error("DEL ADMIN ERROR:", err);
+            return mzazireply("Failed to delete admin:\n" + err.message);
+        }
+    }
+
+    try {
+        const res = await fetch(`${domain2}/api/application/users`, {
+            headers: {
+                Authorization: `Bearer ${apikey2}`
+            }
+        });
+        const data = await res.json();
+        const admins = data.data.filter(v => v.attributes.root_admin === true);
+        if (!admins.length) return mzazireply("No root admins found.");
+
+        const button = [{
+            name: "single_select",
+            buttonParamsJson: JSON.stringify({
+                title: "Choose",
+                sections: [{
+                    title: "Admin List",
+                    highlight_label: "Super Admin",
+                    rows: [
+                        ...admins.slice(0, 10).map(v => ({
+                            title: `${v.attributes.username}`,
+                            id: `.deladmin ${v.attributes.id}`
+                        })),
+                        {
+                            title: "View All Admins",
+                            id: `.listadmin-v2`
+                        }
+                    ]
+                }]
+            })
+        }];
+
+        await neo.sendButton(m.chat, {
+            text: "Please select the admin to delete:",
+            footer: global.foot,
+            buttons: button,
+        }, {
+            quoted: m
+        });
+
+    } catch (err) {
+        console.error("DELADMIN SINGLE SELECT ERROR:", err);
+        return mzazireply("[ x ] Failed to load admin list:\n" + err.message);
+    }
+}
+break;
+
+case "listadmin-v2": {
+    if (!isCreator) return mzazireply(mesg.own);
+
+    try {
+        await reactLoading(m);
+        const userRes = await fetch(`${domain2}/api/application/users`, {
+            headers: {
+                Authorization: `Bearer ${apikey2}`
+            }
+        });
+        if (!userRes.ok) throw new Error(`Failed to fetch user data from panel V2 (${userRes.status})`);
+
+        const users = (await userRes.json()).data;
+        const rootAdmins = users.filter(u => u.attributes.root_admin);
+
+        let teks = `*NEO ADMIN LIST V2*\n\n`;
+        rootAdmins.forEach((admin, i) => {
+            const u = admin.attributes;
+            teks += `*${i + 1}. ${u.username}*\n`;
+            teks += `*ID:* ${u.id}\n`;
+            teks += `*Email:* ${u.email}\n`;
+            teks += `*Name:* ${u.first_name} ${u.last_name}\n`;
+            teks += `*Admin:* Active\n\n`;
+        });
+        const button = [{
+            name: "single_select",
+            buttonParamsJson: JSON.stringify({
+                title: "Delete Root Admin",
+                sections: [{
+                    title: "Select Admin to Delete",
+                    rows: rootAdmins.map((admin, i) => {
+                        const u = admin.attributes;
+                        return {
+                            header: u.username,
+                            title: `Delete ${u.username}`,
+                            description: `ID: ${u.id} • ${u.email}`,
+                            id: `.deladmin-v2 ${u.id}`
+                        };
+                    })
+                }]
+            })
+        }];
+
+        await neo.sendButton(m.chat, {
+            image: {
+                url: imgthumb
+            },
+            caption: `⟪ ${global.botname} - Admin List ⟫\n\n${teks}`,
+            footer: global.foot,
+            buttons: button
+        }, {
+            quoted: qwa
+        });
+    } catch (err) {
+        console.error("LIST ADMIN ERROR:", err);
+        return mzazireply("Failed to fetch admin data:\n" + err.message);
+    }
+}
+break;
+
+case "1gb-v2":
+case "2gb-v2":
+case "3gb-v2":
+case "4gb-v2":
+case "5gb-v2":
+case "6gb-v2":
+case "7gb-v2":
+case "8gb-v2":
+case "9gb-v2":
+case "10gb-v2":
+case "unlimited-v2":
+case "unli-v2": {
+    let cmd = m.body ? m.body.split(" ")[0].toLowerCase() : "";
+    if (!isCreator && !isGcPanel2) return mzazireply(mesg.slr);
+    if (!text) return example("username or username,2547XXXXXXXX");
+
+    if (globalCooldown.has(command)) {
+        return mzazireply(`Please wait before using *${prefix + command}* again!`);
+    }
+    globalCooldown.set(command, true);
+    setTimeout(() => globalCooldown.delete(command), globalCooldownTime);
+
+    let [usernameRaw, nomorRaw] = text.split(",");
+    let username = (usernameRaw || "").trim().toLowerCase();
+    let nomor = nomorRaw ? nomorRaw.replace(/\D/g, "") + "@s.whatsapp.net" : m.sender;
+
+    if (!username) return example("username or username,2547XXXXXXXX");
+
+    // check WhatsApp number
+    if (nomor) {
+        try {
+            await reactLoading(m);
+            let onWa = await neo.onWhatsApp(nomor.split("@")[0]);
+            if (!onWa?.[0]?.exists) return mzazireply("❌ Number not registered on WhatsApp.");
+        } catch (err) {
+            return mzazireply("❌ Failed to check number: " + err.message);
+        }
+    }
+
+    // RESOURCE MAP
+    const resourceMap = {
+        "1gb-v2": { ram: 1000, disk: 1000, cpu: 40 },
+        "2gb-v2": { ram: 2000, disk: 1000, cpu: 60 },
+        "3gb-v2": { ram: 3000, disk: 2000, cpu: 80 },
+        "4gb-v2": { ram: 4000, disk: 2000, cpu: 100 },
+        "5gb-v2": { ram: 5000, disk: 3000, cpu: 120 },
+        "6gb-v2": { ram: 6000, disk: 3000, cpu: 140 },
+        "7gb-v2": { ram: 7000, disk: 4000, cpu: 160 },
+        "8gb-v2": { ram: 8000, disk: 4000, cpu: 180 },
+        "9gb-v2": { ram: 9000, disk: 5000, cpu: 200 },
+        "10gb-v2": { ram: 10000, disk: 5000, cpu: 220 },
+        "unli-v2": { ram: 0, disk: 0, cpu: 0 },
+        "unlimited-v2": { ram: 0, disk: 0, cpu: 0 }
+    };
+
+    let { ram, disk, cpu } = resourceMap[command];
+
+    const email = `${username}@zass.id`;
+    const name = func.capital(username) + " MoneyHeist";
+    const password = `${username}MoneyHeistFR032`;
+
+    try {
+        // CREATE USER
+        const userRes = await fetch(domain2 + "/api/application/users", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                Authorization: `Bearer ${apikey2}`
+            },
+            body: JSON.stringify({
+                email,
+                username,
+                first_name: name,
+                last_name: "Server V2",
+                language: "en",
+                password
+            })
+        });
+
+        if (userRes.status === 409) return mzazireply("❌ Username already taken.");
+        if (!userRes.ok) return mzazireply(`❌ Failed create user (${userRes.status})`);
+
+        const userData = await userRes.json();
+
+        // GET EGG
+        const eggRes = await fetch(`${domain2}/api/application/nests/${nestid2}/eggs/${egg2}`, {
+            method: "GET",
+            headers: { Authorization: `Bearer ${apikey2}` }
+        });
+
+        if (!eggRes.ok) return mzazireply("❌ Failed to fetch egg");
+
+        const eggData = await eggRes.json();
+
+        // CREATE SERVER
+        const serverRes = await fetch(domain2 + "/api/application/servers", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                Authorization: `Bearer ${apikey2}`
+            },
+            body: JSON.stringify({
+                name,
+                description: `Created By ${pushname}`,
+                user: userData.attributes.id,
+                egg: parseInt(egg2),
+                docker_image: "ghcr.io/parkervcp/yolks:nodejs_20",
+                startup: eggData.attributes.startup,
+                environment: {
+                    INST: "npm",
+                    USER_UPLOAD: "0",
+                    AUTO_UPDATE: "0",
+                    CMD_RUN: "npm start"
+                },
+                limits: {
+                    memory: ram,
+                    swap: 0,
+                    disk: disk,
+                    io: 500,
+                    cpu: cpu
+                },
+                feature_limits: {
+                    databases: 5,
+                    backups: 5,
+                    allocations: 5
+                },
+                deploy: {
+                    locations: [parseInt(loc2)],
+                    dedicated_ip: false,
+                    port_range: ["5000-6000"] // IMPORTANT FIX
+                }
+            })
+        });
+
+        if (serverRes.status === 422) return mzazireply("❌ Node full / no free ports.");
+        if (!serverRes.ok) return mzazireply(`❌ Failed create server (${serverRes.status})`);
+
+        const serverData = await serverRes.json();
+
+        // DISPLAY FIX
+        const format = (val, type) => {
+            if (val === 0) return "Unlimited";
+            if (type === "cpu") return val + "%";
+            return val / 1000 + "GB";
+        };
+
+        const captions = `*NEO PANEL V2*
+
+👤 Username: ${username}
+🔑 Password: ${password}
+🆔 Server ID: ${serverData.attributes.id}
+📧 Email: ${email}
+
+⚙️ Specs:
+RAM: ${format(ram)}
+Disk: ${format(disk)}
+CPU: ${format(cpu, "cpu")}
+
+🔗 Login: ${global.domain2}`;
+
+        await neo.sendMessage(nomor, { text: captions }, { quoted: m });
+
+        mzazireply(`✅ Server *@${username}* created successfully`, m.chat, {
+            mentions: [nomor]
+        });
+
+    } catch (err) {
+        console.error(err);
+        mzazireply("❌ System error: " + err.message);
+    }
+}
+break;
+
+case "deluser-v2": {
+    if (!isCreator) return mzazireply(mesg.own);
+
+    try {
+        await reactLoading(m);
+        const getAllPanelData = async (endpoint) => {
+            let page = 1;
+            let allData = [];
+            let hasMore = true;
+
+            while (hasMore) {
+                const res = await fetch(`${domain2}/api/application/${endpoint}?page=${page}&per_page=100`, {
+                    headers: {
+                        Authorization: `Bearer ${apikey2}`
+                    }
+                });
+                const json = await res.json();
+                if (!json?.data) break;
+
+                allData.push(...json.data);
+                hasMore = json.meta?.pagination?.current_page < json.meta?.pagination?.total_pages;
+                page++;
+            }
+
+            return allData;
+        };
+
+        const users = await getAllPanelData("users");
+
+        if (!text) {
+            let teks = `*Select User in v2 panel*`;
+
+            // Split users into sections (max 25 rows per section)
+            const rowsPerSection = 25;
+            const sections = [];
+
+            for (let i = 0; i < users.length; i += rowsPerSection) {
+                const slice = users.slice(i, i + rowsPerSection);
+                sections.push({
+                    title: `Panel-V2 User ${i + 1} - ${i + slice.length}`,
+                    highlight_label: "Click to delete",
+                    rows: slice.map((u) => ({
+                        title: u.attributes.username,
+                        description: `ID: ${u.attributes.id} • ${u.attributes.email}`,
+                        id: `.deluser-v2 ${u.attributes.username}`
+                    }))
+                });
+            }
+
+            const button = [{
+                name: "single_select",
+                buttonParamsJson: JSON.stringify({
+                    title: "Choose",
+                    sections
+                })
+            }];
+
+            await neo.sendButton(m.chat, {
+                text: teks,
+                footer: global.foot,
+                buttons: button,
+            }, {
+                quoted: m
+            });
+        }
+
+        const username = text.trim().toLowerCase();
+        const targetUser = users.find(u => u.attributes.username === username);
+        if (!targetUser) return mzazireply(`[ x ] User *${username}* not found in panel-v2.`);
+
+        const allServers = await getAllPanelData("servers");
+        const userServers = allServers.filter(s => s.attributes.user === targetUser.attributes.id);
+
+        for (let s of userServers) {
+            await fetch(`${domain2}/api/application/servers/${s.attributes.id}`, {
+                method: "DELETE",
+                headers: {
+                    Authorization: `Bearer ${apikey2}`
+                }
+            });
+        }
+
+        await fetch(`${domain2}/api/application/users/${targetUser.attributes.id}`, {
+            method: "DELETE",
+            headers: {
+                Authorization: `Bearer ${apikey2}`
+            }
+        });
+
+        return mzazireply(`[ ✓ ] *User ${username}* and all their servers successfully deleted from panel.`);
+
+    } catch (err) {
+        console.error("DELUSER ERROR:", err);
+        return mzazireply("[ x ] Failed to delete user/server:\n" + err.message);
+    }
+}
+break;
+    case "deluser-pv": {
+    if (!isCreator) return mzazireply(mesg.own);
+
+    try {
+        await reactLoading(m);
+        const getAllPanelData = async (endpoint) => {
+            let page = 1;
+            let allData = [];
+            let hasMore = true;
+
+            while (hasMore) {
+                const res = await fetch(`${domain3}/api/application/${endpoint}?page=${page}&per_page=100`, {
+                    headers: {
+                        Authorization: `Bearer ${apikey3}`
+                    }
+                });
+                const json = await res.json();
+                if (!json?.data) break;
+
+                allData.push(...json.data);
+                hasMore = json.meta?.pagination?.current_page < json.meta?.pagination?.total_pages;
+                page++;
+            }
+
+            return allData;
+        };
+
+        const users = await getAllPanelData("users");
+
+        if (!text) {
+            let teks = `*Be careful not to delete the wrong user and disturb VIP client services!*`;
+
+            const rowsPerSection = 25;
+            const sections = [];
+
+            for (let i = 0; i < users.length; i += rowsPerSection) {
+                const slice = users.slice(i, i + rowsPerSection);
+                sections.push({
+                    title: `VIP Panel User ${i + 1} - ${i + slice.length}`,
+                    highlight_label: "Click to delete",
+                    rows: slice.map((u) => ({
+                        title: u.attributes.username,
+                        description: `ID: ${u.attributes.id} • ${u.attributes.email}`,
+                        id: `.deluser-pv ${u.attributes.username}`
+                    }))
+                });
+            }
+
+            const button = [{
+                name: "single_select",
+                buttonParamsJson: JSON.stringify({
+                    title: "Choose",
+                    sections
+                })
+            }];
+
+            await neo.sendButton(m.chat, {
+                text: teks,
+                footer: global.foot,
+                buttons: button,
+            }, {
+                quoted: m
+            });
+        }
+
+        const username = text.trim().toLowerCase();
+        const targetUser = users.find(u => u.attributes.username === username);
+        if (!targetUser) return mzazireply(`[ x ] User *${username}* was not found in the panel.`);
+
+        const allServers = await getAllPanelData("servers");
+        const userServers = allServers.filter(s => s.attributes.user === targetUser.attributes.id);
+
+        for (let s of userServers) {
+            await fetch(`${domain3}/api/application/servers/${s.attributes.id}`, {
+                method: "DELETE",
+                headers: {
+                    Authorization: `Bearer ${apikey3}`
+                }
+            });
+        }
+
+        await fetch(`${domain3}/api/application/users/${targetUser.attributes.id}`, {
+            method: "DELETE",
+            headers: {
+                Authorization: `Bearer ${apikey3}`
+            }
+        });
+
+        return mzazireply(`[ ✓ ] *User ${username}* and all their servers were successfully deleted from the private panel.`);
+
+    } catch (err) {
+        console.error("DELUSER ERROR:", err);
+        return mzazireply("[ x ] Failed to delete user/server:\n" + err.message);
+    }
+}
+break;
+
+case "listpanel-pv": {
+    if (!isCreator && !isGcPanel3) return mzazireply(mesg.own);
+
+    try {
+        let page = 1,
+            servers = [],
+            keepFetching = true;
+
+        while (keepFetching) {
+            const res = await fetch(`${domain3}/api/application/servers?page=${page}&per_page=100`, {
+                headers: {
+                    Authorization: `Bearer ${apikey3}`
+                }
+            });
+
+            if (!res.ok) throw new Error(`Failed to fetch server page ${page} (${res.status})`);
+            const data = await res.json();
+
+            servers.push(...data.data);
+            keepFetching = data.meta.pagination.current_page < data.meta.pagination.total_pages;
+            page++;
+        }
+
+        if (!servers.length) return mzazireply("There are no servers in the panel yet.");
+
+        let teks = `╭───❖「 *PRIVATE SERVER LIST (${servers.length})* 」`;
+
+        for (let i = 0; i < servers.length; i++) {
+            const s = servers[i].attributes;
+            teks += `\n├─ ${i + 1}. *${s.name}*\n`;
+            teks += `│ SID: ${s.id} | UID: ${s.user}\n`;
+            teks += `│ Spec: ${s.limits.memory || "Unli"}MB RAM / ${s.limits.disk || "Unli"}MB Disk / ${s.limits.cpu || "Unli"}% CPU\n`;
+            teks += `│ Suspended: ${s.suspended ? "✓" : "x"}\n`;
+            teks += `│ Created: ${moment(s.created_at).format("DD-MM-YYYY")}\n`;
+        }
+
+        teks += `\n╰────────────⭓`;
+        mzazireply(teks);
+
+    } catch (err) {
+        console.error("ERR LIST PANEL:", err);
+        mzazireply("An error occurred:\n" + err.message);
+    }
+}
+break;
+
+case "delpanel-pv": {
+    if (!isCreator) return mzazireply(mesg.own);
+
+    try {
+        await reactLoading(m);
+        const getAllServers = async () => {
+            let page = 1;
+            let all = [];
+            let hasMore = true;
+
+            while (hasMore) {
+                const res = await fetch(`${domain3}/api/application/servers?page=${page}&per_page=100`, {
+                    headers: {
+                        Authorization: `Bearer ${apikey3}`
+                    }
+                });
+                const json = await res.json();
+                all = all.concat(json.data);
+                hasMore = json.meta.pagination.current_page < json.meta.pagination.total_pages;
+                page++;
+            }
+
+            return all;
+        };
+
+        const servers = await getAllServers();
+
+        if (!text) {
+            const rowsPerSection = 25;
+            const sections = [];
+
+            for (let i = 0; i < servers.length; i += rowsPerSection) {
+                const slice = servers.slice(i, i + rowsPerSection);
+                sections.push({
+                    title: `VIP Server ${i + 1} - ${i + slice.length}`,
+                    highlight_label: "Be careful",
+                    rows: slice.map(srv => {
+                        const s = srv.attributes;
+                        return {
+                            title: s.name,
+                            description: `SID: ${s.id} • UID: ${s.user}`,
+                            id: `.delpanel-pv ${s.id}`
+                        };
+                    })
+                });
+            }
+
+            const button = [{
+                name: "single_select",
+                buttonParamsJson: JSON.stringify({
+                    title: "Choose",
+                    sections
+                })
+            }];
+
+            await neo.sendButton(m.chat, {
+                text: "Select the server you want to delete from the private panel.",
+                footer: global.foot,
+                buttons: button,
+            }, {
+                quoted: m
+            });
+        }
+
+        const target = servers.find(v => Number(text) === v.attributes.id);
+        if (!target) return mzazireply("[ x ] Server ID not found.");
+
+        const s = target.attributes;
+
+        await fetch(`${domain3}/api/application/servers/${s.id}`, {
+            method: "DELETE",
+            headers: {
+                "Authorization": `Bearer ${apikey3}`,
+                "Accept": "application/json",
+                "Content-Type": "application/json"
+            }
+        });
+
+        const userRes = await fetch(`${domain3}/api/application/users`, {
+            headers: {
+                Authorization: `Bearer ${apikey3}`
+            }
+        });
+        const userJson = await userRes.json();
+        const targetUser = userJson.data.find(u => u.attributes.first_name.toLowerCase() === s.name.toLowerCase());
+
+        if (targetUser) {
+            await fetch(`${domain3}/api/application/users/${targetUser.attributes.id}`, {
+                method: "DELETE",
+                headers: {
+                    "Authorization": `Bearer ${apikey3}`,
+                    "Accept": "application/json",
+                    "Content-Type": "application/json"
+                }
+            });
+        }
+
+        const teks = `╭───❖「 *VIP SERVER REMOVED* 」\n` +
+            `├─ *${s.name}* has been deleted!\n` +
+            `│ SID: ${s.id} | UID: ${s.user}\n` +
+            `│ Spec: ${s.limits.memory || "Unli"}MB RAM / ${s.limits.disk || "Unli"}MB Disk / ${s.limits.cpu || "Unli"}% CPU\n` +
+            `│ Suspended: ${s.suspended ? "✓" : "x"}\n` +
+            `│ Created: ${moment(s.created_at).format("DD-MM-YYYY")}\n` +
+            `╰────────────⭓`;
+
+        return mzazireply(teks);
+
+    } catch (err) {
+        console.error("ERR DEL PANEL:", err);
+        return mzazireply("[ X ] An error occurred:\n" + err.message);
+    }
+}
+break;
+    case "listpanel-v2": {
+    if (!isCreator && !isGcPanel2) return mzazireply(mesg.own);
+
+    try {
+        await reactLoading(m);
+        let page = 1,
+            servers = [],
+            keepFetching = true;
+
+        while (keepFetching) {
+            const res = await fetch(`${domain2}/api/application/servers?page=${page}&per_page=100`, {
+                headers: {
+                    Authorization: `Bearer ${apikey2}`
+                }
+            });
+
+            if (!res.ok) throw new Error(`Failed to fetch servers page ${page} from panel V2 (${res.status})`);
+            const data = await res.json();
+
+            servers.push(...data.data);
+            keepFetching = data.meta.pagination.current_page < data.meta.pagination.total_pages;
+            page++;
+        }
+
+        if (!servers.length) return mzazireply("No servers in panel V2 yet.");
+
+        let teks = `╭───❖「 *NEO SERVER LIST PANEL V2 (${servers.length})* 」`;
+
+        for (let i = 0; i < servers.length; i++) {
+            const s = servers[i].attributes;
+            teks += `\n├─ ${i + 1}. *${s.name}*\n`;
+            teks += `│ SID: ${s.id} | UID: ${s.user}\n`;
+            teks += `│ Spec: ${s.limits.memory || "Unli"}MB RAM / ${s.limits.disk || "Unli"}MB Disk / ${s.limits.cpu || "Unli"}% CPU\n`;
+            teks += `│ Suspended: ${s.suspended ? "✓" : "x"}\n`;
+            teks += `│ Created: ${moment(s.created_at).format("DD-MM-YYYY")}\n`;
+        }
+
+        teks += `\n╰────────────⭓`;
+        mzazireply(teks);
+
+    } catch (err) {
+        console.error("ERR LIST PANEL V2:", err);
+        mzazireply("An error occurred while fetching server list from panel V2:\n" + err.message);
+    }
+}
+break;
+
+case "delpanel-v2": {
+    if (!isCreator) return mzazireply(mesg.own);
+
+    try {
+        await reactLoading(m);
+        const getAllServers = async () => {
+            let page = 1;
+            let all = [];
+            let hasMore = true;
+
+            while (hasMore) {
+                const res = await fetch(`${domain2}/api/application/servers?page=${page}&per_page=100`, {
+                    headers: {
+                        Authorization: `Bearer ${apikey2}`
+                    }
+                });
+                const json = await res.json();
+                all = all.concat(json.data);
+                hasMore = json.meta.pagination.current_page < json.meta.pagination.total_pages;
+                page++;
+            }
+
+            return all;
+        };
+
+        const servers = await getAllServers();
+
+        if (!text) {
+            const rowsPerSection = 25;
+            const sections = [];
+
+            for (let i = 0; i < servers.length; i += rowsPerSection) {
+                const slice = servers.slice(i, i + rowsPerSection);
+                sections.push({
+                    title: `Server V2 ${i + 1} - ${i + slice.length}`,
+                    highlight_label: "Click to delete",
+                    rows: slice.map(srv => {
+                        const s = srv.attributes;
+                        return {
+                            title: s.name,
+                            description: `SID: ${s.id} • UID: ${s.user}`,
+                            id: `.delpanel-v2 ${s.id}`
+                        };
+                    })
+                });
+            }
+
+            const button = [{
+                name: "single_select",
+                buttonParamsJson: JSON.stringify({
+                    title: "Choose",
+                    sections
+                })
+            }];
+
+            await neo.sendButton(m.chat, {
+                text: "Please select the server to delete:",
+                footer: global.foot,
+                buttons: button,
+            }, {
+                quoted: m
+            });
+        }
+
+        // Direct delete if SID provided
+        const target = servers.find(v => Number(text) === v.attributes.id);
+        if (!target) return mzazireply("[ x ] Server ID not found.");
+
+        const s = target.attributes;
+
+        // Delete server
+        await fetch(`${domain2}/api/application/servers/${s.id}`, {
+            method: "DELETE",
+            headers: {
+                "Authorization": `Bearer ${apikey2}`,
+                "Accept": "application/json",
+                "Content-Type": "application/json"
+            }
+        });
+
+        // Delete user (if first name matches server name)
+        const userRes = await fetch(`${domain2}/api/application/users`, {
+            headers: {
+                Authorization: `Bearer ${apikey2}`
+            }
+        });
+        const userJson = await userRes.json();
+        const targetUser = userJson.data.find(u => u.attributes.first_name.toLowerCase() === s.name.toLowerCase());
+
+        if (targetUser) {
+            await fetch(`${domain2}/api/application/users/${targetUser.attributes.id}`, {
+                method: "DELETE",
+                headers: {
+                    "Authorization": `Bearer ${apikey2}`,
+                    "Accept": "application/json",
+                    "Content-Type": "application/json"
+                }
+            });
+        }
+
+        const teks = `╭───❖「 *NEO SERVER2 REMOVED* 」\n` +
+            `├─ *${s.name}* successfully deleted!\n` +
+            `│ SID: ${s.id} | UID: ${s.user}\n` +
+            `│ Spec: ${s.limits.memory || "Unli"}MB RAM / ${s.limits.disk || "Unli"}MB Disk / ${s.limits.cpu || "Unli"}% CPU\n` +
+            `│ Suspended: ${s.suspended ? "✓" : "x"}\n` +
+            `│ Created: ${moment(s.created_at).format("DD-MM-YYYY")}\n` +
+            `╰────────────⭓`;
+
+        return mzazireply(teks);
+
+    } catch (err) {
+        console.error("ERR DEL PANEL:", err);
+        return mzazireply("[ x ] An error occurred:\n" + err.message);
+    }
+}
+break;
+
+case "clearpanel-v2": {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (!text) return example(`1,4 or admin or 1,admin,3`);
+
+    await reactLoading(m);
+    await mzazireply(`Processing deletion of all users & servers...\nExcept: ${text}`);
+
+    try {
+        const headers = {
+            Authorization: `Bearer ${apikey2}`,
+            "Content-Type": "application/json",
+            Accept: "application/json",
+        };
+
+        const getUsers = async () => {
+            const res = await axios.get(`${domain2}/api/application/users`, {
+                headers
+            });
+            return res.data.data;
+        };
+
+        const getServers = async () => {
+            const res = await axios.get(`${domain2}/api/application/servers`, {
+                headers
+            });
+            return res.data.data;
+        };
+
+        const deleteServer = async (uuid) => {
+            try {
+                await axios.delete(`${domain2}/api/application/servers/${uuid}`, {
+                    headers
+                });
+            } catch (err) {
+                console.log(`Failed to delete server ${uuid}:`, err.response?.data || err.message);
+            }
+        };
+
+        const deleteUser = async (id) => {
+            try {
+                await axios.delete(`${domain2}/api/application/users/${id}`, {
+                    headers
+                });
+            } catch (err) {
+                console.log(`Failed to delete user ${id}:`, err.response?.data || err.message);
+            }
+        };
+
+        // === 🔑 Parse Exclude List ===
+        const excludeArgs = text.split(",").map((s) => s.trim().toLowerCase());
+        const excludeIds = excludeArgs.filter((x) => /^\d+$/.test(x)).map((x) => parseInt(x));
+        const excludeAdmin = excludeArgs.includes("admin");
+
+        const users = await getUsers();
+        const servers = await getServers();
+        let totalDeleted = 0;
+
+        for (const user of users) {
+            const {
+                id,
+                username,
+                root_admin
+            } = user.attributes;
+
+            // skip if in excludeIds
+            if (excludeIds.includes(id)) {
+                continue;
+            }
+
+            if (excludeAdmin && root_admin === true) {
+                continue;
+            }
+
+            const userServers = servers.filter((srv) => srv.attributes.user === id);
+
+            for (const srv of userServers) {
+                await deleteServer(srv.attributes.id);
+                totalDeleted++;
+            }
+
+            await deleteUser(id);
+        }
+
+        await mzazireply(`[ ✓ ] Done! Deleted ${totalDeleted} servers & users (except ${text}) from panel v2.`);
+    } catch (err) {
+        return mzazireply(
+            `An error occurred:\n${JSON.stringify(err.response?.data || err.message, null, 2)}`
+        );
+    }
+}
+break;
+
+case "addakses-v2": case "addaksesgc-v2": {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (!m.isGroup) return mzazireply(mesg.gc);
+    const input = m.chat;
+    if (sellerpanel2.includes(input)) return mzazireply(`This group already has reseller panel V2 access!`);
+    sellerpanel2.push(input);
+    await fs.writeFileSync("./database/panelseller2.json", JSON.stringify(sellerpanel2, null, 2));
+    mzazireply(`Successfully added reseller panel V2 group [ ✓ ]`);
+}
+break;
+
+case "delakses-v2": case "delaksesgc-v2": {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (sellerpanel2.length < 1) return mzazireply("No reseller panel V2 groups");
+    if (!m.isGroup) return mzazireply(mesg.gc);
+    let input = text ? text : m.chat;
+    if (input == "all") {
+        sellerpanel2.length = 0;
+        await fs.writeFileSync("./database/panelseller2.json", JSON.stringify(sellerpanel2, null, 2));
+        return mzazireply(`Successfully deleted all reseller panel V2 groups [ ✓ ]`);
+    }
+    if (!sellerpanel2.includes(input)) return mzazireply(`This group is not a reseller panel V2 group!`);
+    let posi = sellerpanel2.indexOf(input);
+    await sellerpanel2.splice(posi, 1);
+    await fs.writeFileSync("./database/panelseller2.json", JSON.stringify(sellerpanel2, null, 2));
+    mzazireply(`Successfully deleted reseller panel V2 group [ ✓ ]`);
+}
+break;
+
+case "listakses-v2": {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (sellerpanel2.length < 1) return mzazireply("No reseller panel V2 groups");
+    const datagc = await neo.groupFetchAllParticipating();
+    let teks = "";
+    for (let i of sellerpanel2) {
+        let nama = datagc[i]?.subject || "Group not found";
+        teks += `\n* ${i}\n* ${nama}\n`;
+    }
+    return mzazireply(teks);
+}
+break;
+
+//——————————[ Cpanel-pv Menu ]——————————//
+case "1gb-pv":
+case "2gb-pv":
+case "3gb-pv":
+case "4gb-pv":
+case "5gb-pv":
+case "6gb-pv":
+case "7gb-pv":
+case "8gb-pv":
+case "9gb-pv":
+case "10gb-pv":
+case "unlimited-pv":
+case "unli-pv": {
+    let cmd = m.body ? m.body.split(" ")[0].toLowerCase() : "";
+    if (!isCreator && !isGcPanel3) return mzazireply(mesg.slr);
+    if (!text) return example("username or username,628XXX");
+    if (globalCooldown.has(command)) {
+        return mzazireply(`Please wait before using *${prefix + command}* again!`);
+    }
+    globalCooldown.set(command, true);
+    setTimeout(() => globalCooldown.delete(command), globalCooldownTime);
+
+    let [usernameRaw, nomorRaw] = text.split(",");
+    let username = (usernameRaw || "").trim().toLowerCase();
+    let nomor = nomorRaw ? nomorRaw.replace(/\D/g, "") + "@s.whatsapp.net" : m.sender;
+
+    if (!username) return example("username or username,628XXX");
+    if (nomor) {
+        try {
+            await reactLoading(m);
+            let onWa = await neo.onWhatsApp(nomor.split("@")[0]);
+            if (!onWa?.[0]?.exists) return mzazireply("[ x ] Number not registered on WhatsApp.");
+        } catch (err) {
+            return mzazireply("[ x ] Failed to check WhatsApp number: " + err.message);
+        }
+    }
+
+    const resourceMap = {
+        "1gb-pv": {
+            ram: "1000",
+            disk: "1000",
+            cpu: "40"
+        },
+        "2gb-pv": {
+            ram: "2000",
+            disk: "1000",
+            cpu: "60"
+        },
+        "3gb-pv": {
+            ram: "3000",
+            disk: "2000",
+            cpu: "80"
+        },
+        "4gb-pv": {
+            ram: "4000",
+            disk: "2000",
+            cpu: "100"
+        },
+        "5gb-pv": {
+            ram: "5000",
+            disk: "3000",
+            cpu: "120"
+        },
+        "6gb-pv": {
+            ram: "6000",
+            disk: "3000",
+            cpu: "140"
+        },
+        "7gb-pv": {
+            ram: "7000",
+            disk: "4000",
+            cpu: "160"
+        },
+        "8gb-pv": {
+            ram: "8000",
+            disk: "4000",
+            cpu: "180"
+        },
+        "9gb-pv": {
+            ram: "9000",
+            disk: "5000",
+            cpu: "200"
+        },
+        "10gb-pv": {
+            ram: "10000",
+            disk: "5000",
+            cpu: "220"
+        },
+        "unli-pv": {
+            ram: "0",
+            disk: "0",
+            cpu: "0"
+        },
+        "unlimited-pv": {
+            ram: "0",
+            disk: "0",
+            cpu: "0"
+        }
+    };
+
+    let {
+        ram,
+        disk,
+        cpu
+    } = resourceMap[command];
+    const email = `${username}@zass.id`;
+    const name = func.capital(username) + " MoneyHeistVIP";
+    const password = `${username}MoneyHeistVIP532`;
+
+    try {
+        const userRes = await fetch(domain3 + "/api/application/users", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                Authorization: `Bearer ${apikey3}`
+            },
+            body: JSON.stringify({
+                email,
+                username,
+                first_name: name,
+                last_name: "ServerVIP",
+                language: "en",
+                password
+            })
+        });
+
+        if (userRes.status === 409) return mzazireply("[ x ] Username already taken. Use another username.");
+        if (!userRes.ok) return mzazireply(`[ x ] Failed to create user (${userRes.status})`);
+
+        const userData = await userRes.json();
+        if (!userData?.attributes?.id) return mzazireply("[ x ] User ID not found.");
+
+        const eggRes = await fetch(`${domain3}/api/application/nests/${nestid3}/eggs/${egg3}`, {
+            method: "GET",
+            headers: {
+                Authorization: `Bearer ${apikey3}`
+            }
+        });
+
+        if (eggRes.status === 404) return mzazireply("[ x ] Egg or Nest not found. Check your settings!");
+        if (!eggRes.ok) return mzazireply(`[ x ] Failed to fetch egg data (${eggRes.status})`);
+
+        const eggData = await eggRes.json();
+
+        const serverRes = await fetch(domain3 + "/api/application/servers", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                Authorization: `Bearer ${apikey3}`
+            },
+            body: JSON.stringify({
+                name,
+                description: `VIP Requested By ${pushname} From ${botname}`,
+                user: userData.attributes.id,
+                egg: parseInt(egg3),
+                docker_image: "ghcr.io/parkervcp/yolks:nodejs_20",
+                startup: eggData.attributes.startup,
+                environment: {
+                    INST: "npm",
+                    USER_UPLOAD: "0",
+                    AUTO_UPDATE: "0",
+                    CMD_RUN: "npm start"
+                },
+                limits: {
+                    memory: ram,
+                    swap: 0,
+                    disk,
+                    io: 500,
+                    cpu
+                },
+                feature_limits: {
+                    databases: 5,
+                    backups: 5,
+                    allocations: 5
+                },
+                deploy: {
+                    locations: [parseInt(loc3)],
+                    dedicated_ip: false,
+                    port_range: []
+                }
+            })
+        });
+
+        if (serverRes.status === 422) return mzazireply("[ x ] Failed to deploy server: possibly node is full.");
+        if (!serverRes.ok) return mzazireply(`[ x ] Failed to create server (${serverRes.status})`);
+
+        const serverData = await serverRes.json();
+        if (!serverData?.attributes?.id) return mzazireply("[ x ] Server ID not found.");
+
+        const captions = `*VIP PANEL ACCESS*
+ ͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏\n\n` +
+            `*Username:* ${username}\n` +
+            `*Password:* ${password}\n` +
+            `*Server ID:* ${serverData.attributes.id}\n` +
+            `*Email:* ${email}\n\n` +
+            `*Specs:* ${ram === "0" ? "Unlimited" : ram / 1000 + "GB"} RAM / ${disk === "0" ? "Unlimited" : disk / 1000 + "GB"} Disk / ${cpu === "0" ? "Unlimited" : cpu + "%"} CPU\n` +
+            `*Login:* ${global.domain3}\n\n` +
+            `┏❐ 「 PURCHASE RULES 」\n` +
+            `│ 1. Warranty valid for 30 days only.\n` +
+            `│ 2. To claim warranty, provide screenshot of purchase chat.\n` +
+            `│ 3. Root access prohibited without permission.\n` +
+            `│ 4. Panel is for personal use only.\n` +
+            `│ 5. If abuse = Permanent suspension.\n` +
+            `┗❐ MoneyHeist, The Best Panel Courier!`;
+
+        await neo.sendButton(nomor, {
+            caption: captions,
+            footer: global.foot,
+            image: {
+                url: imgthumb
+            },
+            buttons: [{
+                    name: 'cta_copy',
+                    buttonParamsJson: JSON.stringify({
+                        display_text: 'Copy Username',
+                        copy_code: username
+                    })
+                },
+                {
+                    name: 'cta_copy',
+                    buttonParamsJson: JSON.stringify({
+                        display_text: 'Copy Password',
+                        copy_code: password
+                    })
+                },
+                {
+                    name: 'cta_url',
+                    buttonParamsJson: JSON.stringify({
+                        display_text: 'Login to Panel',
+                        url: global.domain3
+                    })
+                }
+            ]
+        }, {
+            quoted: qwa
+        });
+
+        mzazireply(`[ ✓ ] ServerVIP *@${username}* successfully created & sent to *${nomor.split("@")[0]}*`, m.chat, {
+            mentions: [nomor]
+        });
+
+    } catch (err) {
+        console.error("ERR:", err);
+        return mzazireply("[ x ] System error occurred:\n" + err.message);
+    }
+
+}
+break;
+    
+   case "clearpanel-pv": {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (!text) return example(`1,4 or admin or 1,admin,3`);
+
+    await reactLoading(m);
+    await mzazireply(`Processing deletion of all users & servers...\nExcept: ${text}`);
+
+    try {
+        const headers = {
+            Authorization: `Bearer ${apikey3}`,
+            "Content-Type": "application/json",
+            Accept: "application/json",
+        };
+
+        const getUsers = async () => {
+            const res = await axios.get(`${domain3}/api/application/users`, { headers });
+            return res.data.data;
+        };
+
+        const getServers = async () => {
+            const res = await axios.get(`${domain3}/api/application/servers`, { headers });
+            return res.data.data;
+        };
+
+        const deleteServer = async (uuid) => {
+            try {
+                await axios.delete(`${domain3}/api/application/servers/${uuid}`, { headers });
+                console.log(`✔️ Server ${uuid} deleted`);
+            } catch (err) {
+                console.log(`Failed to delete server ${uuid}:`, err.response?.data || err.message);
+            }
+        };
+
+        const deleteUser = async (id) => {
+            try {
+                await axios.delete(`${domain3}/api/application/users/${id}`, { headers });
+                console.log(`✔️ User ${id} deleted`);
+            } catch (err) {
+                console.log(`Failed to delete user ${id}:`, err.response?.data || err.message);
+            }
+        };
+
+        const excludeArgs = text.split(",").map((s) => s.trim().toLowerCase());
+        const excludeIds = excludeArgs.filter((x) => /^\d+$/.test(x)).map((x) => parseInt(x));
+        const excludeAdmin = excludeArgs.includes("admin");
+
+        const users = await getUsers();
+        const servers = await getServers();
+        let totalDeleted = 0;
+
+        for (const user of users) {
+            const { id, username, root_admin } = user.attributes;
+
+            if (excludeIds.includes(id)) {
+                console.log(`Skipping ID ${id} (${username}) because it is excluded`);
+                continue;
+            }
+
+            if (excludeAdmin && root_admin === true) {
+                console.log(`Skipping ADMIN ID ${id} (${username}) because it is excluded`);
+                continue;
+            }
+
+            const userServers = servers.filter((srv) => srv.attributes.user === id);
+
+            for (const srv of userServers) {
+                await deleteServer(srv.attributes.id);
+                totalDeleted++;
+            }
+
+            await deleteUser(id);
+        }
+
+        await mzazireply(`[ ✓ ] Done! Deleted ${totalDeleted} servers & users (except ${text}) from the private panel.`);
+    } catch (err) {
+        return mzazireply(`An error occurred:\n${JSON.stringify(err.response?.data || err.message, null, 2)}`);
+    }
+}
+break;
+
+case "addakses-pv": 
+case "addaksesgc-pv": {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (!m.isGroup) return mzazireply(mesg.gc);
+
+    const input = m.chat;
+    if (sellerpanel3.includes(input)) return mzazireply(`This group already has VIP reseller panel access!`);
+
+    sellerpanel3.push(input);
+    await fs.writeFileSync("./database/panelseller3.json", JSON.stringify(sellerpanel3, null, 2));
+    mzazireply(`Successfully added VIP reseller panel group access [ ✓ ]`);
+}
+break;
+
+case "delakses-pv": 
+case "delaksesgc-pv": {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (sellerpanel3.length < 1) return mzazireply("There are no VIP reseller panel groups");
+    if (!m.isGroup) return mzazireply(mesg.gc);
+
+    let input = text ? text : m.chat;
+
+    if (input == "all") {
+        sellerpanel3.length = 0;
+        await fs.writeFileSync("./database/panelseller3.json", JSON.stringify(sellerpanel3, null, 2));
+        return mzazireply(`Successfully removed all VIP reseller panel groups [ ✓ ]`);
+    }
+
+    if (!sellerpanel3.includes(input)) return mzazireply(`This group is not a VIP reseller panel group!`);
+
+    let posi = sellerpanel3.indexOf(input);
+    await sellerpanel3.splice(posi, 1);
+    await fs.writeFileSync("./database/panelseller3.json", JSON.stringify(sellerpanel3, null, 2));
+
+    mzazireply(`Successfully removed VIP reseller panel group [ ✓ ]`);
+}
+break;
+
+case "listakses-pv": {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (sellerpanel3.length < 1) return mzazireply("There are no VIP reseller panel groups");
+
+    const datagc = await neo.groupFetchAllParticipating();
+    let teks = "";
+
+    for (let i of sellerpanel3) {
+        let nama = datagc[i].subject || "Group not found";
+        teks += `\n* ${i}\n* ${nama}\n`;
+    }
+
+    return mzazireply(teks);
+}
+break;
+
+
+//——————————[ Menu Control ]——————————//
+
+case 'leavegc': {
+    if (!isCreator) return mzazireply(mesg.own);
+
+    const groupList = Object.entries(neo.chats || {})
+        .filter(([jid]) => jid.endsWith('@g.us'));
+
+    if (!args[0]) {
+        const buttons = [{
+            name: 'single_select',
+            buttonParamsJson: JSON.stringify({
+                title: "Group Leave Mode",
+                sections: [{
+                    title: "Select Mode",
+                    highlight_label: "Bot Leave",
+                    rows: [
+                        { title: "All Groups", id: `${prefix + command} all` },
+                        { title: "Closed Groups (Not Admin)", id: `${prefix + command} tertutup` },
+                        { title: "Choose Specific Group", id: `${prefix + command} pilih` },
+                    ]
+                }]
+            })
+        }];
+
+        await neo.sendButton(m.chat, {
+            text: "Please choose how the bot should leave groups:",
+            footer: global.foot,
+            buttons,
+        }, { quoted: m });
+
+        await neo.relayMessage(m.chat, msg.message, { messageId: msg.key.id });
+        return;
+    }
+
+    if (args[0] === 'all') {
+        for (let [jid] of groupList) {
+            await delay(1000);
+            await neo.groupLeave(jid).catch(() => {});
+        }
+        return mzazireply('*[ ✓ ]* Successfully left all groups.');
+    }
+
+    if (args[0] === 'tertutup') {
+        mzazireply('Leaving closed groups where the bot is not admin...');
+        let totalLeft = 0;
+
+        for (let [jid] of groupList) {
+            let meta = await neo.groupMetadata(jid).catch(() => null);
+            if (!meta || !meta.announce) continue;
+
+            let isBotAdmin = meta.participants.find(p => p.id === neo.user.jid && p.admin);
+            if (!isBotAdmin) {
+                await neo.groupLeave(jid).catch(() => {});
+                totalLeft++;
+                await sleep(500);
+            }
+        }
+
+        return mzazireply(`[ ✓ ] Successfully left ${totalLeft} closed groups where the bot was not admin.`);
+    }
+
+    if (args[0] === 'pilih') {
+        const groupOptions = [];
+
+        for (let [jid] of groupList) {
+            let meta = await neo.groupMetadata(jid).catch(() => null);
+            if (!meta) continue;
+
+            const isBotAdmin = meta.participants.some(p => p.id === neo.user.jid && p.admin);
+
+            groupOptions.push({
+                title: meta.subject,
+                description: `${jid} - ${meta.announce ? 'Closed' : 'Open'}${isBotAdmin ? ', Bot Admin' : ''}`,
+                id: `${prefix}keluargrupid ${jid}`
+            });
+        }
+
+        const buttons = [{
+            name: 'single_select',
+            buttonParamsJson: JSON.stringify({
+                title: "Select Group",
+                sections: [{
+                    title: "Group List",
+                    rows: groupOptions
+                }]
+            })
+        }];
+
+        await neo.sendButton(m.chat, {
+            text: "Choose a group to leave:",
+            footer: global.foot,
+            buttons,
+        }, { quoted: m });
+    }
+
+    if (command === 'keluargrupid') {
+        const gid = args[0];
+        if (!gid || !gid.endsWith('@g.us')) return mzazireply('Invalid group ID!');
+        await neo.groupLeave(gid).catch(() => {});
+        return mzazireply(`*[ ✓ ]* Successfully left group ${gid}`);
+    }
+}
+break;
+
+case 'backupsc': {
+    if (!isCreator) return mzazireply(mesg.own);
+
+    try {
+        const folderPath = './';
+        const zipFilePath = path.join(__dirname, `../backup_${Date.now()}.zip`);
+        const zip = new AdmZip();
+
+        const addFolderToZip = (folder, zipInstance, baseFolder = '') => {
+            const files = fs.readdirSync(folder);
+            for (const file of files) {
+                const fullPath = path.join(folder, file);
+                const relativePath = path.join(baseFolder, file);
+                const stat = fs.statSync(fullPath);
+
+                const skip = [
+                    'node_modules', 'session', '.npm', '.cache', '.config',
+                    'package-lock.json'
+                ];
+
+                const isExcluded =
+                    skip.includes(file) ||
+                    file.startsWith('backup_') ||
+                    file.endsWith('.mp4') ||
+                    file.endsWith('.zip');
+
+                if (isExcluded) continue;
+
+                if (stat.isDirectory()) {
+                    zipInstance.addFile(relativePath + '/', Buffer.from(''));
+                    addFolderToZip(fullPath, zipInstance, relativePath);
+                } else {
+                    zipInstance.addLocalFile(fullPath, baseFolder);
+                }
+            }
+        };
+
+        addFolderToZip(folderPath, zip);
+        zip.writeZip(zipFilePath);
+
+        await neo.sendMessage(m.chat, {
+            document: fs.readFileSync(zipFilePath),
+            fileName: `MoneyHeistFlare-Backup-${new Date().toLocaleDateString('en-US')}.zip`,
+            mimetype: 'application/zip',
+            caption: '*[ ✓ ] Script Backup Created Successfully!*\n\nThis backup should only be opened by the bot developer.\nPlease keep it safe.'
+        }, { quoted: qneo });
+
+        fs.unlinkSync(zipFilePath);
+    } catch (err) {
+        console.error(err);
+        mzazireply("[ x ] Failed to create script backup!");
+    }
+}
+break;
+
+     case 'set': {
+    if (!isCreator) return mzazireply(mesg.own);
+    const path = './settings.js';
+
+    const settingsMap = {
+        // Info Owner
+        ownername: {
+            pattern: /global\.ownername\s*=\s*["'].*?["']/,
+            format: v => `global.ownername = "${v}"`
+        },
+        ownernumber: {
+            pattern: /global\.ownernumber\s*=\s*['"].*?['"]/,
+            format: v => `global.ownernumber = '${v}'`
+        },
+        email: {
+            pattern: /global\.email\s*=\s*["'].*?["']/,
+            format: v => `global.email = "${v}"`
+        },
+        location: {
+            pattern: /global\.location\s*=\s*["'].*?["']/,
+            format: v => `global.location = "${v}"`
+        },
+
+        // Bot Info
+        botname: {
+            pattern: /global\.botname\s*=\s*['"].*?['"]/,
+            format: v => `global.botname = '${v}'`
+        },
+        foot: {
+            pattern: /global\.foot\s*=\s*['"].*?['"]/,
+            format: v => `global.foot = '${v}'`
+        },
+        versi: {
+            pattern: /global\.versi\s*=\s*['"].*?['"]/,
+            format: v => `global.versi = '${v}'`
+        },
+        idsaluran: {
+            pattern: /global\.idSaluran\s*=\s*["'].*?["']/,
+            format: v => `global.idSaluran = "${v}"`
+        },
+        namach: {
+            pattern: /global\.namach\s*=\s*["'].*?["']/,
+            format: v => `global.namach = "${v}"`
+        },
+        hias: {
+            pattern: /global\.hias\s*=\s*["'].*?["']/,
+            format: v => `global.hias = "${v}"`
+        },
+
+        // Sticker
+        packname: {
+            pattern: /global\.packname\s*=\s*['"].*?['"]/,
+            format: v => `global.packname = '${v}'`
+        },
+        author: {
+            pattern: /global\.author\s*=\s*`[^`]*`/,
+            format: v => `global.author = \`${v}\``
+        },
+        themeemoji: {
+            pattern: /global\.themeemoji\s*=\s*['"].*?['"]/,
+            format: v => `global.themeemoji = '${v}'`
+        },
+        wm: {
+            pattern: /global\.wm\s*=\s*["'].*?["']/,
+            format: v => `global.wm = "${v}"`
+        },
+
+        // Link dan GC
+        link: {
+            pattern: /global\.link\s*=\s*["'].*?["']/,
+            format: v => `global.link = "${v}"`
+        },
+        namagc: {
+            pattern: /global\.namagc\s*=\s*["'].*?["']/,
+            format: v => `global.namagc = "${v}"`
+        },
+        linkgc: {
+            pattern: /global\.linkgc\s*=\s*["'].*?["']/,
+            format: v => `global.linkgc = "${v}"`
+        },
+        web: {
+            pattern: /global\.web\s*=\s*["'].*?["']/,
+            format: v => `global.web = "${v}"`
+        },
+
+        // Payment
+        dana: {
+            pattern: /global\.dana\s*=\s*["'].*?["']/,
+            format: v => `global.dana = "${v}"`
+        },
+        gopay: {
+            pattern: /global\.gopay\s*=\s*["'].*?["']/,
+            format: v => `global.gopay = "${v}"`
+        },
+        ovo: {
+            pattern: /global\.ovo\s*=\s*["'].*?["']/,
+            format: v => `global.ovo = "${v}"`
+        },
+        qris: {
+            pattern: /global\.qris\s*=\s*["'].*?["']/,
+            format: v => `global.qris = "${v}"`
+        },
+
+        // Media
+        imgthumb: {
+            pattern: /global\.imgthumb\s*=\s*["'].*?["']/,
+            format: v => `global.imgthumb = "${v}"`
+        },
+        imgmenu: {
+            pattern: /global\.imgmenu\s*=\s*["'].*?["']/,
+            format: v => `global.imgmenu = "${v}"`
+        },
+        imgdoc: {
+            pattern: /global\.imgdoc\s*=\s*["'].*?["']/,
+            format: v => `global.imgdoc = "${v}"`
+        },
+        logo: {
+            pattern: /global\.logo\s*=\s*["'].*?["']/,
+            format: v => `global.logo = "${v}"`
+        },
+        vn: {
+            pattern: /global\.vn\s*=\s*["'].*?["']/,
+            format: v => `global.vn = "${v}"`
+        },
+
+        // Panel V1
+        egg: {
+            pattern: /global\.egg\s*=\s*["'].*?["']/,
+            format: v => `global.egg = "${v}"`
+        },
+        nestid: {
+            pattern: /global\.nestid\s*=\s*["'].*?["']/,
+            format: v => `global.nestid = "${v}"`
+        },
+        loc: {
+            pattern: /global\.loc\s*=\s*["'].*?["']/,
+            format: v => `global.loc = "${v}"`
+        },
+        domain: {
+            pattern: /global\.domain\s*=\s*["'].*?["']/,
+            format: v => `global.domain = "${v}"`
+        },
+        apikey: {
+            pattern: /global\.apikey\s*=\s*["'].*?["']/,
+            format: v => `global.apikey = "${v}"`
+        },
+        capikey: {
+            pattern: /global\.capikey\s*=\s*["'].*?["']/,
+            format: v => `global.capikey = "${v}"`
+        },
+
+        // Panel V2
+        egg2: {
+            pattern: /global\.egg2\s*=\s*["'].*?["']/,
+            format: v => `global.egg2 = "${v}"`
+        },
+        nestid2: {
+            pattern: /global\.nestid2\s*=\s*["'].*?["']/,
+            format: v => `global.nestid2 = "${v}"`
+        },
+        loc2: {
+            pattern: /global\.loc2\s*=\s*["'].*?["']/,
+            format: v => `global.loc2 = "${v}"`
+        },
+        domain2: {
+            pattern: /global\.domain2\s*=\s*["'].*?["']/,
+            format: v => `global.domain2 = "${v}"`
+        },
+        apikey2: {
+            pattern: /global\.apikey2\s*=\s*["'].*?["']/,
+            format: v => `global.apikey2 = "${v}"`
+        },
+        capikey2: {
+            pattern: /global\.capikey2\s*=\s*["'].*?["']/,
+            format: v => `global.capikey2 = "${v}"`
+        },
+
+        // Panel PV
+        egg3: {
+            pattern: /global\.egg3\s*=\s*["'].*?["']/,
+            format: v => `global.egg3 = "${v}"`
+        },
+        nestid3: {
+            pattern: /global\.nestid3\s*=\s*["'].*?["']/,
+            format: v => `global.nestid3 = "${v}"`
+        },
+        loc3: {
+            pattern: /global\.loc3\s*=\s*["'].*?["']/,
+            format: v => `global.loc3 = "${v}"`
+        },
+        domain3: {
+            pattern: /global\.domain3\s*=\s*["'].*?["']/,
+            format: v => `global.domain3 = "${v}"`
+        },
+        apikey3: {
+            pattern: /global\.apikey3\s*=\s*["'].*?["']/,
+            format: v => `global.apikey3 = "${v}"`
+        },
+        capikey3: {
+            pattern: /global\.capikey3\s*=\s*["'].*?["']/,
+            format: v => `global.capikey3 = "${v}"`
+        },
+
+        // Vercel and GitHub
+        verceltoken: {
+            pattern: /global\.vercelToken\s*=\s*["'].*?["']/,
+            format: v => `global.vercelToken = "${v}"`
+        },
+        githubtoken: {
+            pattern: /global\.githubToken\s*=\s*["'].*?["']/,
+            format: v => `global.githubToken = "${v}"`
+        },
+        githubusername: {
+            pattern: /global\.githubUsername\s*=\s*["'].*?["']/,
+            format: v => `global.githubUsername = "${v}"`
+        },
+
+        // Load React
+        loadreact: {
+            pattern: /global\.loadreact\s*=\s*["'].*?["']/,
+            format: v => `global.loadreact = "${v}"`
+        },
+    };
+
+    const match = text.match(/^([^\|,\-]+)[\|,\-](.+)$/);
+    if (!match) {
+        const value = text.trim();
+        if (!value) return example('ownername|Zass Onee');
+
+        const buttons = [{
+            name: "single_select",
+            buttonParamsJson: JSON.stringify({
+                title: "Select Here",
+                sections: [{
+                    title: "Settings That Can Be Changed",
+                    rows: Object.keys(settingsMap).map(key => ({
+                        title: key,
+                        description: `Set to: ${value}`,
+                        id: `.set ${key}|${value}`
+                    }))
+                }]
+            })
+        }];
+
+        await neo.sendButton(m.chat, {
+            text: `You only provided a *value*:\n\n➤ ${value}\n\nPlease select the key you want to set:`,
+            footer: global.foot,
+            buttons,
+        }, {
+            quoted: m
+        });
+    }
+
+    const key = match[1].trim().toLowerCase();
+    const value = match[2].trim();
+
+    if (!settingsMap[key]) return mzazireply(`[ x ] Key *${key}* is not recognized or not supported!`);
+
+    try {
+        let content = fs.readFileSync(path, 'utf8');
+        content = content.replace(settingsMap[key].pattern, settingsMap[key].format(value));
+        fs.writeFileSync(path, content, 'utf8');
+        mzazireply(`[ ✓ ] *${key}* successfully changed to:\n➤ ${value}\nPlease restart the bot for the changes to take effect.`);
+    } catch (err) {
+        console.error(err);
+        mzazireply('[ x ] Failed to modify settings file!');
+    }
+}
+break;
+
+case 'addcase': {
+    if (!isCreator) return mzazireply(mesg.own);
+    const namaFile = "all/system/neo-z.js";
+
+    // If input contains "|", it's step 2 → directly insert the case
+    if (text.includes("|||")) {
+        let [kategori, caseBaru] = text.split("|||");
+        kategori = kategori.trim();
+        caseBaru = (caseBaru || "").trim();
+
+        try {
+            const data = fs.readFileSync(namaFile, "utf8");
+            const pembatas = new RegExp(`/——————————+\\[ Menu ${kategori} \\]——————————+//`, "i");
+            const match = data.match(pembatas);
+
+            if (!match) return mzazireply(`[  ✓  ] Category delimiter *${kategori}* not found!`);
+
+            const insertPos = data.indexOf(match[0]) + match[0].length;
+            const kodeBaruLengkap = data.slice(0, insertPos) + "\n" + caseBaru + "\n" + data.slice(insertPos);
+            fs.writeFileSync(namaFile, kodeBaruLengkap, "utf8");
+
+            return mzazireply(`[  ✓  ] New case successfully added to category *${kategori}*!\nAuto reload active.`);
+        } catch (err) {
+            console.error(err);
+            return mzazireply("[  x  ] An error occurred while inserting the case!");
+        }
+    }
+
+    // If input doesn't have "|" → step 1, user provided case → bot sends category selection
+    if (text) {
+        let kategori = Object.keys(global.menucase || {});
+        if (kategori.length === 0) return mzazireply("[  x  ] No case categories in the file!");
+
+        let sections = [{
+            title: "Select category for this case",
+            rows: kategori.map(k => ({
+                title: k,
+                description: `Add case to ${k} category`,
+                id: `.addcase ${k}|||${text.trim()}`
+            }))
+        }];
+
+        const buttons = [{
+            name: "single_select",
+            buttonParamsJson: JSON.stringify({
+                title: "Choose",
+                sections
+            })
+        }];
+
+        await neo.sendButton(m.chat, {
+            text: "Please select the category for this case:",
+            footer: global.foot,
+            buttons,
+        }, {
+            quoted: m
+        });
+    }
+    return example("case content");
+}
+break;
+
+case 'delcase': {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (!text) return example('case name');
+
+    const namaFile = 'all/system/neo-z.js';
+    const namaCase = text.trim();
+
+    try {
+        let isiFile = fs.readFileSync(namaFile, 'utf8');
+
+        const regex = new RegExp(`case ['"]${namaCase}['"]:[\\s\\S]*?break;`, 'g');
+        if (!regex.test(isiFile)) return mzazireply(`[ x ] Case '${namaCase}' not found!`);
+
+        const isiBaru = isiFile.replace(regex, '');
+        fs.writeFileSync(namaFile, isiBaru, 'utf8');
+
+        mzazireply(`[ ✓ ] Case '${namaCase}' successfully deleted!\nPlease restart the bot.`);
+    } catch (err) {
+        console.error(err);
+        mzazireply('[ x ] Failed to delete case! Check file structure.');
+    }
+}
+break;
+
+case 'getcase': {
+    if (!isCreator) return mzazireply(mesg.own);
+    if (!text) return example('case name');
+
+    const namaFile = 'all/system/neo-z.js';
+    const namaCase = text.trim();
+
+    try {
+        const isiFile = fs.readFileSync(namaFile, 'utf8');
+        const regex = new RegExp(`(case ['"]${namaCase}['"]:[\\s\\S]*?break;)`, 'g');
+        const cocok = isiFile.match(regex);
+
+        if (!cocok) return mzazireply(`[ x ] Case '${namaCase}' not found!`);
+
+        const isiCase = cocok[0];
+
+        await neo.sendButton(m.chat, {
+            text: isiCase,
+            buttons: [{
+                name: "cta_copy",
+                buttonParamsJson: JSON.stringify({
+                    display_text: "Copy Case Content",
+                    copy_code: isiCase
+                })
+            }]
+        }, {
+            quoted: m
+        });
+
+    } catch (err) {
+        console.error(err);
+        mzazireply('[ x ] Failed to read case content!');
+    }
+}
+break;
 
 case "addowner": {
     if (!isCreator) return mzazireply(mesg.own);
@@ -1952,7 +5714,7 @@ case "aineo": {
 
     const extraPrompt = isCreator
         ? "You are speaking to your owner. Respond in a cute and caring tone."
-        : `You are " ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI", a private AI assistant created by Mzazi Tech Inc.
+        : `You are "MoneyHeist AI", a private AI assistant created by Mzazi Tech Inc.
 
 Your personality:
 - Professional
@@ -1986,7 +5748,7 @@ If you don't know something, say you don't know instead of guessing.`;
 
         const ads = `
 ───────────────
-Want this ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI bot script?
+Want this MoneyHeist AI bot script?
 Download free on YouTube:
 https://youtube.com/@shirokode
 ───────────────`
@@ -2014,7 +5776,7 @@ case "luminai": {
     if (!text) return example("who are you")
 
     const prompt = `
-You are ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote, an advanced artificial intelligence created by Bigbrother Inc using LuminAI power.
+You are MoneyHeist AI, an advanced artificial intelligence created by Mzazi Tech Inc using LuminAI power.
 
 Rules:
 - Speak clearly and professionally
@@ -2054,7 +5816,7 @@ Rules:
 
         const ads = `
 ───────────────
-ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Script
+MoneyHeist AI Script
 YouTube: https://youtube.com/@shirokode
 ───────────────`
 
@@ -2149,7 +5911,7 @@ case "pay": {
 
     ]
 
-    const priceList = `💰 * ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI PRICE LIST*
+    const priceList = `💰 *MONEYHEIST AI PRICE LIST*
 
 ╔═══════════════════════╗
 ║   *PANEL PACKAGES*     
@@ -2987,13 +6749,13 @@ case 'owner': case 'dev': case 'developer': {
   try {
 
     const kontakUtama = {
-      displayName: 'Big Brother ',
+      displayName: 'Mzazi Tech Inc',
       vcard: `BEGIN:VCARD
 VERSION:3.0
-N:;𓅂DEADN☯︎TE𓅓;;;
-FN:Bigbrother Inc
-TEL;type=CELL;type=VOICE;waid=254747274771:254705472771
-ORG:Bigbrother Inc
+N:;Mzazi Tech Inc;;;
+FN:Mzazi Tech Inc
+TEL;type=CELL;type=VOICE;waid=254750611309:254750611309
+ORG:Mzazi Tech Inc
 TITLE:Bot Developer
 END:VCARD`
     };
@@ -3009,13 +6771,13 @@ END:VCARD`
         isForwarded: true,
         externalAdReply: {
           showAdAttribution: true,
-          title: '👑 𓅂DEADN☯︎TE𓅓INC',
+          title: '👑 MZAZI TECH INC',
           body: 'Official Bot Developer',
           mediaType: 1,
           renderLargerThumbnail: true,
           jpegThumbnail: await getBuffer(global.imglogo),
-          mediaUrl: 'https://wa.me/254747274771',
-          sourceUrl: 'https://wa.me/254747274771'
+          mediaUrl: 'https://wa.me/254750611309',
+          sourceUrl: 'https://wa.me/254750611309'
         }
       }
     }, { quoted: m });
@@ -3186,12 +6948,12 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 break;
 
 case "sc": case "script": {
-    const ytLink = "https:// ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote.mzazi.shop";
+    const ytLink = "https://moneyheist.mzazi.shop";
     await neo.sendButton(m.chat, {
         image: {
             url: imgmenu
         },
-        caption: "*📦  ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote Flare Source Code*\n\n🎁 This script is ready for download, complete with setup instructions on my channel! Don't forget to support my channel so I can keep updating 😎",
+        caption: "*📦 MoneyHeist Flare Source Code*\n\n🎁 This script is ready for download, complete with setup instructions on my channel! Don't forget to support my channel so I can keep updating 😎",
         footer: global.foot,
         buttons: [{
             name: "cta_url",
@@ -3417,10 +7179,9 @@ case 'tovid': {
 
                 const data = new URLSearchParams({
                     file,
-                    convert: 'Convert                WebP to MP4!'
+                    convert: 'Convert WebP to MP4!'
                 });
-                const res2 = await axios.post(`https://
-                ezgif.com/webp-to-mp4/${file}`, data);
+                const res2 = await axios.post(`https://ezgif.com/webp-to-mp4/${file}`, data);
                 const $2 = cheerio.load(res2.data);
                 const link = $2('div#output > p.outfile > video > source').attr('src');
                 if (!link) throw new Error('Failed to get conversion result link.');
@@ -3592,7 +7353,7 @@ case 'imagedit': {
         // Send result to WA
         await neo.sendMessage(m.chat, {
             image: { url: resultUrl },
-            caption: `*[ ✓ ] Photo successfully edited with prompt:*\n${text}\n\nPowered by  ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote Flare`
+            caption: `*[ ✓ ] Photo successfully edited with prompt:*\n${text}\n\nPowered by MoneyHeist Flare`
         }, { quoted: m });
 
     } catch (e) {
@@ -3664,7 +7425,7 @@ case 'tofigure': {
 
         await neo.sendMessage(m.chat, {
             image: { url: resultUrl },
-            caption: '*[ ✓ ] Successfully converted to figure style!*\nPowered by 𓅂DEADN☯︎TE𓅓 Flare'
+            caption: '*[ ✓ ] Successfully converted to figure style!*\nPowered by MoneyHeist Flare'
         }, { quoted: m });
 
     } catch (e) {
@@ -3720,7 +7481,7 @@ case 'removebg': {
             image: {
                 url: json.result.url
             },
-            caption: '*[ ✓ ] Background removed successfully!*\nPowered by 𓅂DEADN☯︎TE𓅓 Flare',
+            caption: '*[ ✓ ] Background removed successfully!*\nPowered by MoneyHeist Flare',
         }, {
             quoted: m
         });
@@ -3771,7 +7532,7 @@ case 'removeclothes': {
 
         await neo.sendMessage(m.chat, {
             image: { url: json.result },
-            caption: '*[ ✓ ] Clothes removed successfully!*\nPowered by 𓅂DEADN☯︎TE𓅓 Flare',
+            caption: '*[ ✓ ] Clothes removed successfully!*\nPowered by MoneyHeist Flare',
         }, { quoted: m });
 
     } catch (e) {
@@ -4234,7 +7995,7 @@ case 'ttsai': case 'tts': {
 
         const button = [{
             name: "single_select",
-            buttonParamsJson: JSON.    stringify({
+            buttonParamsJson: JSON.stringify({
                 title: "Choose Voice Character",
                 sections: [{
                     title: "Available Characters",
@@ -4260,7 +8021,7 @@ case 'ttsai': case 'tts': {
 break;
 
 case 'pinterest': case 'pin': {
-    if (!text) return mzazireply(`Wrong format, example:\n${prefix + command} ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote`);
+    if (!text) return mzazireply(`Wrong format, example:\n${prefix + command} MoneyHeist`);
     await reactLoading(m);
     let parts = text.trim().split(' ');
     let possibleIndex = parseInt(parts[parts.length - 1]);
@@ -4403,7 +8164,7 @@ case 'tourl': case 'url': {
 
     // Generate file name with extension from mime
     const extension = mime.split('/')[1] || 'bin';
-    const fileName = `BigbrotherUploads_${Date.now()}.${extension}`;
+    const fileName = `MzaziTechUploads_${Date.now()}.${extension}`;
     const filePath = path.join(tempDir, fileName); // use path.join for safety
 
     // Save file to disk
@@ -4700,7 +8461,7 @@ case 'ytreels': {
             contextInfo: {
                 externalAdReply: {
                     title: result.title,
-                    body: "YouTube Downloader •  ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote Flare",
+                    body: "YouTube Downloader • MoneyHeist Flare",
                     thumbnailUrl: result.thumbnail.at(-1)?.url,
                     mediaType: 2,
                     renderLargerThumbnail: true,
@@ -4893,7 +8654,7 @@ case 'smeme': {
 
         // send sticker
         await neo.sendImageAsSticker(m.chat, data, m, {
-            packname: global.packname || "ก็็็็็็็็็็็็็็็็็็็ＤａｒｋnoteBotz",
+            packname: global.packname || "MoneyHeistBotz",
             author: global.author || "Shiroko AI",
         })
 
@@ -4910,7 +8671,7 @@ case 'sticker': case 'stiker': case 's': {
     let media = await m.quoted.download();
     await neo.sendSticker(m.chat, {
         sticker: media,
-        packname: global.packname || ' ก็็็็็็็็็็็็็็็็็็็ＤａｒｋnoteBotz',
+        packname: global.packname || 'MoneyHeistBotz',
         author: global.author || 'Shiroko AI'
     });
 }
@@ -4927,7 +8688,7 @@ case 'bratnime': {
         const buffer = await res.buffer();
 
         await neo.sendImageAsSticker(m.chat, buffer, m, {
-            packname: global.packname || ' ก็็็็็็็็็็็็็็็็็็็ＤａｒｋnoteBotz',
+            packname: global.packname || 'MoneyHeistBotz',
             author: global.author || 'Shiroko AI-Zass Official'
         });
     } catch (err) {
@@ -5074,7 +8835,7 @@ case "qc2": {
     // Format: .qc color | text
     const [warnaInput, ...teksArray] = text.split("|")
     const warnaNama = warnaInput?.trim().toLowerCase()
-    const teks = teksArray.join("|").  trim()
+    const teks = teksArray.join("|").trim()
 
     // If no text or valid color → send color selection buttons
     if (!daftarWarna[warnaNama] || !teks) {
@@ -5159,10 +8920,10 @@ case 'mute': {
 
     if (opt === 'on') {
         db.groups[m.chat].mute = true;
-        mzazireply(`🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n[ ✓ ] Silence protocol activated.\nCivilians can no longer execute commands.\n\nStay sharp.\n${global.footer}`);
+        mzazireply(`💰 *MoneyHeist AI Control*\n\n[ ✓ ] Silence protocol activated.\nCivilians can no longer execute commands.\n\nStay sharp.\n${global.footer}`);
     } else if (opt === 'off') {
         db.groups[m.chat].mute = false;
-        mzazireply(`🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote  AI Control*\n\n[ ✓ ] Silence protocol lifted.\nAll members are now free to interact.\n\nLet the game resume.\n${global.footer}`);
+        mzazireply(`💰 *MoneyHeist AI Control*\n\n[ ✓ ] Silence protocol lifted.\nAll members are now free to interact.\n\nLet the game resume.\n${global.footer}`);
     } else {
         mzazireply(`⚠️ *Invalid Move*\n\nOptions available: on / off\nDon't make mistakes in a heist.\n${global.footer}`);
     }
@@ -5479,7 +9240,7 @@ case 'close': {
     if (!isAdmins && !isCreator) return mzazireply(`${mesg.adm}\n${global.footer}`);
     await neo.groupSettingUpdate(m.chat, 'announcement');
 
-    mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n🔒 The vault is sealed.\nOnly admins can send messages now.\n\nNo noise. No mistakes.\n${global.footer}`);
+    mzazireply(`*MoneyHeist AI Control*\n\n🔒 The vault is sealed.\nOnly admins can send messages now.\n\nNo noise. No mistakes.\n${global.footer}`);
 }
 break;
 case 'open': {
@@ -5488,7 +9249,7 @@ case 'open': {
   
     await neo.groupSettingUpdate(m.chat, 'not_announcement');
 
-    mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n🔓 The vault is open.\nAll members can now speak freely.\n\nLet the chaos begin... carefully.\n${global.footer}`);
+    mzazireply(`*MoneyHeist AI Control*\n\n🔓 The vault is open.\nAll members can now speak freely.\n\nLet the chaos begin... carefully.\n${global.footer}`);
 }
 break;
 //===============================================//
@@ -5506,7 +9267,7 @@ case 'everyone': {
     if (!m.isGroup) return mzazireply(`❌ This command is for groups only.\n${global.footer}`);
     if (!isAdmins && !isGroupOwner && !isCreator) return mzazireply(`❌ Only the crew leaders can execute this.\n${global.footer}`);
 
-    let teks = text ? text : ' *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Broadcast*\n\nAll members, assemble.';
+    let teks = text ? text : ' *MoneyHeist AI Broadcast*\n\nAll members, assemble.';
 
     let members = groupMembers.map(v => v.id);
 
@@ -5556,7 +9317,7 @@ case 'add': {
             else failed.push(i.jid);
         }
 
-        let teks = ` *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n`;
+        let teks = ` *MoneyHeist AI Control*\n\n`;
 
         if (sukses.length > 0) {
             teks += `✅ Added:\n${sukses.map(v => `➤ @${v.split('@')[0]}`).join('\n')}\n\n`;
@@ -5585,7 +9346,7 @@ case 'setgcname': {
     try {
         await neo.groupUpdateSubject(m.chat, text);
 
-        mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n[ ✓ ] Identity updated successfully.\n\nNew Group Name:\n➤ ${text}\n\n🧠 Names matter in every operation.\n${global.footer}`);
+        mzazireply(`*MoneyHeist AI Control*\n\n[ ✓ ] Identity updated successfully.\n\nNew Group Name:\n➤ ${text}\n\n🧠 Names matter in every operation.\n${global.footer}`);
     } catch (err) {
         mzazireply(`❌ Failed to change group name.\n${err}\n${global.footer}`);
     }
@@ -5601,7 +9362,7 @@ case 'setdesk': {
     try {
         await neo.groupUpdateDescription(m.chat, text);
 
-        mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n[ ✓ ] Description updated successfully.\n\n🧠 Every detail matters in the plan.\n${global.footer}`);
+        mzazireply(`*MoneyHeist AI Control*\n\n[ ✓ ] Description updated successfully.\n\n🧠 Every detail matters in the plan.\n${global.footer}`);
     } catch (err) {
         mzazireply(`❌ Failed to update description.\n${err}\n${global.footer}`);
     }
@@ -5618,7 +9379,7 @@ case 'setppgrup': {
 
         await neo.updateProfilePicture(m.chat, media);
 
-        mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n[ ✓ ] Identity updated successfully.\n\n🧠 A new mask for a new operation.\n${global.footer}`);
+        mzazireply(`*MoneyHeist AI Control*\n\n[ ✓ ] Identity updated successfully.\n\n🧠 A new mask for a new operation.\n${global.footer}`);
     } catch (err) {
         mzazireply(`❌ Failed to update group icon.\n${err}\n${global.footer}`);
     }
@@ -5630,7 +9391,7 @@ case 'out': {
     if (!m.isGroup) return mzazireply(`❌ This command is for group operations only.\n${global.footer}`);
     if (!isAdmins && !isGroupOwner && !isCreator) return mzazireply(`❌ Only the crew leaders can dismiss me.\n${global.footer}`);
 
-    await mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n👋 The operation ends here.\nI’m exiting the vault.\n\n🧠 Stay sharp. Until next time.\n${global.footer}`);
+    await mzazireply(`*MoneyHeist AI Control*\n\n👋 The operation ends here.\nI’m exiting the vault.\n\n🧠 Stay sharp. Until next time.\n${global.footer}`);
 
     await neo.groupLeave(m.chat);
 }
@@ -5669,7 +9430,7 @@ case 'approve': {
 
         // ✅ IMPORTANT: pass mentions as second argument
         await mzazireply(
-`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI CONTROL*
+`*MONEYHEIST AI CONTROL*
 
 [ ✓ ] Access granted to:
 
@@ -5709,7 +9470,7 @@ case 'reject': {
 
         let tagText = users.map(v => `➤ @${v.split('@')[0]}`).join('\n');
 
-        mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n❌ Access denied for:\n\n${tagText}\n\nThe vault remains secure.\n${global.footer}`, {
+        mzazireply(`*MoneyHeist AI Control*\n\n❌ Access denied for:\n\n${tagText}\n\nThe vault remains secure.\n${global.footer}`, {
             mentions: users
         });
 
@@ -5731,10 +9492,10 @@ case 'antitagall': {
 
     if (opt === 'on') {
         db.groups[m.chat].antitagall = true;
-        mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n[ ✓ ] Anti-TagAll activated.\nMass mentions are now restricted.\n\n🧠 Silence keeps the plan safe.\n${global.footer}`);
+        mzazireply(`*MoneyHeist AI Control*\n\n[ ✓ ] Anti-TagAll activated.\nMass mentions are now restricted.\n\n🧠 Silence keeps the plan safe.\n${global.footer}`);
     } else if (opt === 'off') {
         db.groups[m.chat].antitagall = false;
-        mzazireply(`*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n[ ✓ ] Anti-TagAll deactivated.\nMembers can now tag freely.\n\nProceed carefully.\n${global.footer}`);
+        mzazireply(`*MoneyHeist AI Control*\n\n[ ✓ ] Anti-TagAll deactivated.\nMembers can now tag freely.\n\nProceed carefully.\n${global.footer}`);
     } else {
         mzazireply(`⚠️ Invalid option. Use: on / off\n${global.footer}`);
     }
@@ -5769,7 +9530,7 @@ case 'deleteall': {
             });
         }
 
-        mzazireply(`💰 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n[ ✓ ] ${lastMessages.length} messages erased.\n\n🧠 Clean operations leave no trace.\n${global.footer}`);
+        mzazireply(`💰 *MoneyHeist AI Control*\n\n[ ✓ ] ${lastMessages.length} messages erased.\n\n🧠 Clean operations leave no trace.\n${global.footer}`);
 
     } catch (err) {
         mzazireply(`❌ Failed to delete messages.\n${err}\n${global.footer}`);
@@ -5786,7 +9547,7 @@ case 'listgc': {
             return mzazireply(`🧠 I am not inside any group.\n${global.footer}`);
         }
 
-        let teks = `*ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI Control*\n\n📋 *Active Vaults (Groups):*\n\n`;
+        let teks = `*MoneyHeist AI Control*\n\n📋 *Active Vaults (Groups):*\n\n`;
 
         for (let i = 0; i < anu.length; i++) {
             let metadata = anu[i];
@@ -6006,7 +9767,7 @@ case 'runtime': {
 break;
 case 'setbotname': {
   try {
-    if (!text) return mzazireply('❌ Example: .setname 𓅂DEADN☯︎TE𓅓 Bot');
+    if (!text) return mzazireply('❌ Example: .setname Mzazi Bot');
     if (!isCreator) return mzazireply(mesg.own);
 
     await neo.updateProfileName(text);
@@ -6112,7 +9873,7 @@ case 'encrypt': {
     const code = buffer.toString();
 
     // 🔥 SAFE + STRONG CONFIG
-    const obfuscated = await Js Confuser.obfuscate(code, {
+    const obfuscated = await JsConfuser.obfuscate(code, {
       target: "node",
       preset: "high",
 
@@ -6140,7 +9901,7 @@ case 'encrypt': {
 
 📁 File: ${fileName}
 ⚙️ Mode: High Obfuscation
-👑 Bigbrither Inc`
+👑 Mzazi Tech Inc`
     }, { quoted: m });
 
     // ✅ success react
@@ -6217,7 +9978,7 @@ break;
                 {
                   document: { url: outputPath },
                   mimetype: "audio/mp3",
-                  caption: "✅ *Download complete by 𓅂DEADN☯︎TE𓅓*mx_d*",
+                  caption: "✅ *Download complete by MZAZI-XMD*",
                   fileName: outputFileName,
                 },
                 { quoted: m }
@@ -6247,7 +10008,7 @@ break;
   try {
     
     if (!text) {
-      return mzazireply("𝑾𝒉𝒂𝒕 𝒔𝒐𝒏𝒈 𝒅𝒐 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅.\n\n> ©𓆤𖣘*𖤐 O̷͖̰̰B̷̛̳̟̠̘̤̪̰̩̠̞͛̿̀͗͑ig brother༒𓆪 𖤐*");
+      return mzazireply("𝑾𝒉𝒂𝒕 𝒔𝒐𝒏𝒈 𝒅𝒐 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅.\n\n> ©𝙼𝚉𝙰𝚉𝙸");
     }
 
     let search = await yts(text);
@@ -6276,7 +10037,7 @@ await neo.sendMessage(
         {
           document: { url: audioData.downloadUrl },
           mimetype: "audio/mp3",
-	  caption: "DOWNLOADED BY Bigbrother AI\n\n 𓅂DEADN☯︎TE𓅓",
+	  caption: "DOWNLOADED BY MONEY HEIST AI\n\n 𝙼𝚉𝙰𝚉𝙸",
           fileName: `${audioData.title.replace(/[^a-zA-Z0-9 ]/g, "")}.mp3`,
         },
         { quoted: m }
@@ -6294,7 +10055,7 @@ await neo.sendMessage(
       return;
     } else {
       
-      return mzazireply("𝑼𝒏𝒂𝒃𝒍𝒆 𝒕𝒐 𝒇𝒆𝒕𝒄𝒉 𝒕𝒉𝒆 𝒔𝒐𝒏𝒈. 𝑻𝒓𝒚 𝒂𝒈𝒂𝒊𝒏 𝒍𝒂𝒕𝒆𝒓.\n\n> 𓅂DEADN☯︎TE𓅓");
+      return mzazireply("𝑼𝒏𝒂𝒃𝒍𝒆 𝒕𝒐 𝒇𝒆𝒕𝒄𝒉 𝒕𝒉𝒆 𝒔𝒐𝒏𝒈. 𝑻𝒓𝒚 𝒂𝒈𝒂𝒊𝒏 𝒍𝒂𝒕𝒆𝒓.\n\n> 𝙼𝚉𝙰𝚉𝙸");
     }
   } catch (error) {
     
@@ -6405,7 +10166,7 @@ Example:
                 currency: global.paystack.currency,
                 metadata: {
                     phone: number,
-                    bot: "ก็็็็็็็็็็็็็็็็็็็ＤａｒｋnoteAI"
+                    bot: "MoneyHeist AI"
                 }
             })
         })
@@ -6443,16 +10204,16 @@ case "credits":
 
     await neo.sendMessage(m.chat, { 
         image: { url: 'https://i.imgur.com/nhNVsqf.jpeg' }, 
-        caption: `╭━━━〔🗿 ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI CREDITS 〕━━⬣
+        caption: `╭━━━〔 💰 MONEYHEIST AI CREDITS 〕━━⬣
 ┃ 
 ┃ 👑 *Founder & Developer*
-┃ ➤ Big Brother.    ***𓅂DEADN☯︎TE𓅓 Inc
+┃ ➤ Mzazi Tech Inc
 ┃ 
 ┃  *GitHub*
-┃ ➤ https://github.com/alsphalt/Deadnote3
+┃ ➤ https://github.com/mzazitech
 ┃ 
 ┃  *Bot Name*
-┃ ➤  ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote
+┃ ➤ MONEYHEIST AI
 ┃ 
 ┃  *System*
 ┃ ➤ Advanced WhatsApp Automation
@@ -6462,7 +10223,7 @@ case "credits":
 ┃ 
 ╰━━━━━━━━━━━━━━━━⬣
 
-> © Powered by *Big Brother Inc* 💰`
+> © Powered by *Mzazi Tech Inc* 💰`
     }, { quoted: m}); 
 
 break;
@@ -6472,7 +10233,7 @@ break;
 		  let [poll, opt] = text.split("|")
 
 if (text.split("|") < 2)
-                return mzazireply(`Wrong format::\nExample:- poll who is the best developer|Putin, Big Brother`);
+                return mzazireply(`Wrong format::\nExample:- poll who is the best developer|Putin, Mzazi`);
 
 let options = []
             for (let i of opt.split(',')) {
@@ -6491,7 +10252,7 @@ let options = []
 //===============================================//
 case 'metallic': {
     if (!text || text == "") {
-        return mzazireply("❌ Example: metallic Big Brother");
+        return mzazireply("❌ Example: metallic Mzazi");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6499,7 +10260,7 @@ case 'metallic': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
+            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6511,7 +10272,7 @@ break;
 case 'ice': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: ice 𓅂DEADN☯︎TE𓅓");
+        return mzazireply("❌ Example: ice Mzazi");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6519,7 +10280,7 @@ case 'ice': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
+            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6531,7 +10292,7 @@ break;
 case 'neon': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: neon 𓅂DEADN☯︎TE𓅓");
+        return mzazireply("❌ Example: neon Mzazi");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6539,7 +10300,7 @@ case 'neon': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
+            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6551,7 +10312,7 @@ break;
 case 'gold': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: gold 𓅂DEADN☯︎TE𓅓");
+        return mzazireply("❌ Example: gold Mzazi");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6559,7 +10320,7 @@ case 'gold': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *BigBrother Inc*`
+            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6571,7 +10332,7 @@ break;
 case 'snow': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: snow 𓅂DEADN☯︎TE𓅓");
+        return mzazireply("❌ Example: snow Mzazi");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6579,7 +10340,7 @@ case 'snow': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *BigBrother Inc*`
+            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6591,7 +10352,7 @@ break;
 case 'matrix': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: matrix Bigbrother");
+        return mzazireply("❌ Example: matrix Mzazi");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6599,7 +10360,7 @@ case 'matrix': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒknote AI*\n\n> Powered by *BigBrother Inc*`
+            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6611,7 +10372,7 @@ break;
 case 'light': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: light 𓅂DEADN☯︎TE𓅓");
+        return mzazireply("❌ Example: light Mzazi");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6619,7 +10380,7 @@ case 'light': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
+            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6631,7 +10392,7 @@ break;
 case 'devil': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: devil 𓅂DEADN☯︎TE𓅓");
+        return mzazireply("❌ Example: devil Mzazi");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6639,7 +10400,7 @@ case 'devil': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Mzazi Tech Inc*`
+            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6651,7 +10412,7 @@ break;
 case 'purple': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: purple 𓅂DEADN☯︎TE𓅓");
+        return mzazireply("❌ Example: purple Mzazi");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6659,7 +10420,7 @@ case 'purple': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
+            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6671,7 +10432,7 @@ break;
 case 'thunder': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: thunder 𓅂DEADN☯︎TE𓅓");
+        return mzazireply("❌ Example: thunder Mzazi");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6679,7 +10440,7 @@ case 'thunder': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
+            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6691,7 +10452,7 @@ break;
 case 'hacker': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: hacker 𓅂DEADN☯︎TE𓅓");
+        return mzazireply("❌ Example: hacker Mzazi");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6699,7 +10460,7 @@ case 'hacker': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
+            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6711,7 +10472,7 @@ break;
 case 'dragonball': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: dragonball 𓅂DEADN☯︎TE𓅓");
+        return mzazireply("❌ Example: dragonball Mzazi");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6719,7 +10480,7 @@ case 'dragonball': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
+            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6731,7 +10492,7 @@ break;
 case 'naruto': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: naruto 𓅂DEADN☯︎TE𓅓");
+        return mzazireply("❌ Example: naruto Mzazi");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6739,7 +10500,7 @@ case 'naruto': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `💰 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *Big Brother Inc*`
+            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6751,7 +10512,7 @@ break;
 case 'graffiti': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: graffiti 𓅂DEADN☯︎TE𓅓");
+        return mzazireply("❌ Example: graffiti Mzazi");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6759,7 +10520,7 @@ case 'graffiti': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by * BigBrother Inc*`
+            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6771,7 +10532,7 @@ break;
 case 'sand': {
     
     if (!text || text == "") {
-        return mzazireply("❌ Example: sand 𓅂DEADN☯︎TE𓅓");
+        return mzazireply("❌ Example: sand Mzazi");
     }
     try {
         mzazireply("⏳ Processing...");
@@ -6779,7 +10540,7 @@ case 'sand': {
 
         await neo.sendMessage(m.chat, {
             image: { url: res.image },
-            caption: `🗿 *ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI*\n\n> Powered by *BigBrother Inc*`
+            caption: `💰 *MONEYHEIST AI*\n\n> Powered by *Mzazi Tech Inc*`
         }, { quoted: m });
 
     } catch (err) {
@@ -6827,7 +10588,7 @@ case 'checkme': {
         let hornyLevel = horny > 70 ? "😈 Too Much" : horny > 40 ? "😏 Normal" : "🧊 Innocent"
 
         let teks = `
-╭━━━〔 🗿 ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI - CHECK ME 〕━━━⬣
+╭━━━〔 💰 MONEYHEIST AI - CHECK ME 〕━━━⬣
 ┃ 👤 Name: ${name}
 ┃ 📱 Number: ${number}
 ┃
@@ -6843,7 +10604,7 @@ case 'checkme': {
 ╰━━━━━━━━━━━━━━━━━━━━⬣
 
 😂 *This is just for fun!*
-> Powered by 𓆤𖣘*𖤐 O̷͖̰̰B̷̛̳̟̠̘̤̪̰̩̠̞͛̿̀͗͑ig brother༒𓆪 𖤐* Inc
+> Powered by Mzazi Tech Inc
 `
 
         await neo.sendMessage(m.chat, {
@@ -6852,10 +10613,10 @@ case 'checkme': {
             mentions: [target],
             contextInfo: {
                 externalAdReply: {
-                    title: "ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI",
+                    title: "MONEYHEIST AI",
                     body: "Fun Check System 😂",
                     thumbnailUrl: pp,
-                    sourceUrl: "https://github.com/alsphalt/Deadnote3",
+                    sourceUrl: "https://github.com/mzazitech",
                     mediaType: 1,
                     renderLargerThumbnail: true
                 }
@@ -6883,7 +10644,7 @@ case 'cekidch': {
         let res = await neo.newsletterMetadata("invite", code)
 
         let teks = `
-╭━━━〔 🗿 ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI - CHANNEL INFO 〕━━━⬣
+╭━━━〔 💰 MONEYHEIST AI - CHANNEL INFO 〕━━━⬣
 ┃ 🆔 ID: ${res.id}
 ┃ 📛 Name: ${res.name}
 ┃ 👥 Followers: ${res.subscribers}
@@ -6891,7 +10652,7 @@ case 'cekidch': {
 ┃ ✔ Verified: ${res.verification == "VERIFIED" ? "Yes ✅" : "No ❌"}
 ╰━━━━━━━━━━━━━━━━━━━━⬣
 
-> Powered by *𓅂DEADN☯︎TE𓅓*
+> Powered by *Mzazi Tech Inc*
 `
 
         let msg = generateWAMessageContent(m.chat, {
@@ -6903,7 +10664,7 @@ case 'cekidch': {
                     },
                     interactiveMessage: {
                         body: { text: teks },
-                        footer: { text: "💰 ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI" },
+                        footer: { text: "💰 MONEYHEIST AI" },
                         nativeFlowMessage: {
                             buttons: [
                                 {
@@ -6942,8 +10703,7 @@ case 'listpregnant': {
         let selected = shuffled.slice(0, 5)
 
         let teks = `
-╭━━━〔  ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋ
-notePREGNANCY LIST 〕━━━⬣
+╭━━━〔 MONEYHEIST AI PREGNANCY LIST 〕━━━⬣
 ┃ 🤰 *Top 5 “Expecting” Members*
 ┃ (Just for fun!)
 ┃
@@ -6959,7 +10719,7 @@ notePREGNANCY LIST 〕━━━⬣
 
 (ukipenda chipo, usiogope mimba)
 
-> Powered by *Big Brother Inc*`
+> Powered by *Mzazi Tech Inc*`
 
         await neo.sendMessage(m.chat, {
             text: teks,
@@ -7003,11 +10763,12 @@ break;
 //===============================================//
 
 //===============================================//
-case ".deadnote": case '.bigbro': {
+case "mzazi": case 'menu': {
  await loading()
 let menu = `
 ${readmore}
-𓅂DEADN☯︎TE𓅓
+𝙼𝚉𝙰𝚉𝙸 𝚃𝙷𝙴 𝙶𝚁𝙴𝙰𝚃 𝙰𝙻𝚆𝙰𝚈𝚂
+
 ╭━━━〔 GROUP MENU 〕━━━⬣
 > ✦☆✦ •mute
 > ✦☆✦ •bl
@@ -7098,9 +10859,9 @@ ${readmore}
 ╭━━━〔 FUN MENU 〕━━━⬣
 
 > ✦☆✦ •listpregnant
-> ✦☆✦ •checkbrainlevel
-> ✦☆✦ •zakayomustgo
-> ✦☆✦ •DNAchecker
+> ✦☆✦ •
+> ✦☆✦ •
+> ✦☆✦ •
 > ✦☆✦ •
 > ✦☆✦ •
 > ✦☆✦ •
@@ -7143,7 +10904,7 @@ ${readmore}
 > ✦☆✦ •time
 > ✦☆✦ •calc
 > ✦☆✦ •encrypt
-> ✦☆✦ •addsudo
+> ✦☆✦ •
 ╰━━━━━━━━━━━━━━━━⬣
 ${readmore}
 ╭━━━〔 TOOLS MENU 〕━━━⬣
@@ -7246,7 +11007,7 @@ ${readmore}
 ╰━━━━━━━━━━━━━━━━⬣
 `
 await neo.sendMessage(m.chat, {
-    text: `╭━━〔 🗿 ก็็็็็็็็็็็็็็็็็็็Ｄａｒｋnote AI 〕━━⬣
+    text: `╭━━〔 💰 MONEYHEIST AI 〕━━⬣
 ┃ 🤖 Status   : Online
 ┃ ⚙️ Version  : ${versi}
 ┃ 🌐 Mode     : ${global.selfmode ? "Self" : "Public"}
@@ -7261,7 +11022,7 @@ await neo.sendMessage(m.chat, {
 ${menu}
 
 ╭━━━〔 SYSTEM 〕━━━⬣
-┃ ✔ Powered by Bigbrother Inc.
+┃ ✔ Powered by Mzazi Tech Inc.
 ┃ ✔ Fast • Stable • Reliable
 ╰━━━━━━━━━━━━━━━━⬣
 ${global.footer}
@@ -7296,7 +11057,7 @@ case 'app-premium': {
 *FITUR INI AKAN SEGERA HADIR*
 
 Fitur ini akan dirilis pada:
-Versi 7.0 DEADNOTE Flare
+Versi 7.0 MoneyHeist Flare
 
 Ikuti update pengembangan dan preview fiturnya
 di channel resmi kami.
@@ -7317,7 +11078,7 @@ di channel resmi kami.
 break;
 
         default: if ((budy.match) && ["bot", "tes"].includes(budy)) {
-            let teksOn = `━ ⬢ \`𓅂DEADN☯︎TE𓅓 AI IS READY\` ⬢ ━`
+            let teksOn = `━ ⬢ \`MONEYHEIST AI IS READY\` ⬢ ━`
             reply(teksOn)
         }
         if (budy.startsWith('=>')) {
