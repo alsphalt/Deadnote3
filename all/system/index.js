@@ -1,8 +1,8 @@
 /*════════════════════════════
- *  💎  MONEYHEIST AI LOADER by Mzazi Tech Inc.
+ *  💎  PAIN AI LOADER by bigbrother.
  *════════════════════════════
- *  🤖  Bot Name    : MONEYHEIST AI
- *  👑  Owner       : Mzazi Tech Inc.
+ *  🤖  Bot Name    : Darknote AI
+ *  👑  Owner       : Bigbrother x ○Deadnote.
  *  💎  Version     : Premium Edition
  *  ⚡  Loader      : Enhanced Boot System
  ══════════════════════════
@@ -30,7 +30,7 @@ async function bootAnimation() {
 
     // 🔥 Header
     console.log(chalk.hex("#FF0000")("╔═════════════════════════════════╗"));
-    console.log(chalk.hex("#FF0000")("║") + chalk.bold.white("    darknote AI LOADER      ") + chalk.hex("#FF0000")("║"));
+    console.log(chalk.hex("#FF0000")("║") + chalk.bold.white("    PAINnOTE AI LOADER      ") + chalk.hex("#FF0000")("║"));
     console.log(chalk.hex("#FF0000")("╚══════════════════════════════════╝\n"));
 
     // 🚀 Start
@@ -40,14 +40,14 @@ async function bootAnimation() {
     // 🎨 ASCII
     console.log(
         gradient.instagram(
-            figlet.textSync("MZAZI", { font: "ANSI Shadow" })
+            figlet.textSync("BIGBRO", { font: "ANSI Shadow" })
         )
     );
 
     // 💎 Subtitle
     console.log(chalk.hex("#FFD700")("\n═════════════════════════════════"));
-    console.log(chalk.bold.white("        MONEYHEIST AI • Premium Edition"));
-    console.log(chalk.hex("#FF69B4")("        👑 Powered by Mzazi Tech Inc."));
+    console.log(chalk.bold.white("        PAINnOTE AI • Premium Edition"));
+    console.log(chalk.hex("#FF69B4")("        👑 Powered by BIGBROTHER."));
     console.log(chalk.hex("#FFD700")("═════════════════════════════════\n"));
 
     await sleep(800);
@@ -66,7 +66,7 @@ async function bootAnimation() {
     await sleep(1000);
 
     // ⚙️ MODULE INIT
-    console.log(chalk.cyanBright("⚙️ Initializing MONEYHEIST AI Modules...\n"));
+    console.log(chalk.cyanBright("⚙️ Initializing Darknote AI Modules...\n"));
 
     const modules = [
         "Core Engine",
@@ -100,7 +100,7 @@ async function bootAnimation() {
     console.log("\n");
 
     // ✅ FINAL STATUS
-    console.log(chalk.greenBright("✅ MONEYHEIST AI is now ONLINE & ACTIVE\n"));
+    console.log(chalk.greenBright("✅ Darknote AI is now ONLINE & ACTIVE\n"));
 
     await sleep(500);
 }

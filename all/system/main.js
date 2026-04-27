@@ -1,8 +1,8 @@
 /*════════════════════════════
  *  💎  MONEYHEIST AI LOADER by Mzazi Tech Inc.
  *════════════════════════════
- *  🤖  Bot Name    : MONEYHEIST AI
- *  👑  Owner       : Mzazi Tech Inc.
+ *  🤖  Bot Name    : Pain AI
+ *  👑  Owner       : Deadnote.
  *  💎  Version     : Premium Edition
  *  ⚡  Loader      : Enhanced Boot System
  ══════════════════════════
@@ -101,7 +101,7 @@ for (const mod of requiredModules) {
   try {
     require.resolve(mod)
   } catch (err) {
-    console.log(`[ Auto Installer By BIGBROTHER ] Module ${mod} belum ada. Menginstall...`)
+    console.log(`[ Auto Installer By LORD ZAKAYO ] Module ${mod} belum ada. Menginstall...`)
     execSync(`npm install ${mod}`, { stdio: 'inherit' })
   }
 }
