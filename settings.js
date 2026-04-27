@@ -6,7 +6,7 @@ import chalk from "chalk";
 global.ytname = "https://www.youtube.com/@shirokode"
 global.location = "Cooperative University of Kenya"
 global.ownername = "darknote V1.0"
-global.ownernumber = '254741388986'
+global.ownernumber = '254747274771'
 global.lidownernumber = null // leave empty
 global.email = "mzazitech@gmail.com"
 global.footer = "⚠️ darknote V1.0 • Digital Service Notice | Use responsibly — WhatsApp bans can be permanent."
@@ -19,8 +19,8 @@ global.idSaluran = ""
 global.namach = "darknote BOT"
 global.aiUsageCount = global.aiUsageCount || {}
 global.autoAiSessions = {}
-global.hias = "➤"
-global.pairing = "darknote"
+global.hias = "$"
+global.pairing = "DARKNOTE"
 global.paystack = {
     key: "sk_live_efe2f997c0212e57e14769b9f0899e2c71e14",
     currency: "KES"
@@ -28,7 +28,7 @@ global.paystack = {
 
 //——————————[ Sticker Settings ]——————————//
 global.packname = 'darknote'
-global.author = `\nWaBot By Mzazi Tech inc.`
+global.author = `\nWaBot By BIGBROTHER x  DEADNOTE.`
 global.themeemoji = '🪀'
 global.wm = "⫹⫺ darknote V1.0"
 
@@ -73,13 +73,13 @@ global.githubToken = "xxx"
 global.githubUsername = "xxx"
 
 //——————————[ Media URLs ]——————————//
-global.gif = "https://files.catbox.moe/22w9jb.mp4"
-global.imgthumb = "https://files.catbox.moe/ijf126.jpg"
-global.imgmenu = "https://files.catbox.moe/ngb2s9.jpeg"
-global.imgdoc = "https://files.catbox.moe/ijf126.jpg"
-global.logo = "https://files.catbox.moe/wgx51j.jpeg"
-global.vn = "https://files.catbox.moe/wgx51j.jpeg"
-global.thumb_welcome = "https://files.catbox.moe/ijf126.jpg"
+global.gif = "https://files.catbox.moe/7fftkh.jpeg"
+global.imgthumb = "https://files.catbox.moe/7fftkh.jpg"
+global.imgmenu = "https://files.catbox.moe/7fftkh.jpeg"
+global.imgdoc = "https://files.catbox.moe/7fftkh.jpg.jpg"
+global.logo = "https://files.catbox.moe/7fftkh.jpeg"
+global.vn = "https://files.catbox.moe/7fftkh.jpeg"
+global.thumb_welcome = "https://files.catbox.moe/7fftkh.jpg"
 
 //——————————[ Panel API V1 ]——————————//
 global.egg = ""
@@ -106,7 +106,7 @@ global.apikey3 = ""
 global.capikey3 = ""
 
 //——————————[ Message Settings ]——————————//
-global.loadreact = "🎊"
+global.loadreact = "👨‍💻"
 global.mesg = {
   slr: "This feature is for resellers only! Please contact the owner to purchase access",
   pv: "*[ darknote System ]* This feature is only available in private chat",
